@@ -1,0 +1,3691 @@
+Official Gazette n° 6bis of 05/02/2018
+
+AMABWIRIZA RUSANGE No 02/2018 YO KU REGULATION No 02/2018 OF 24/01/2018 REGLEMENT No 02/2018 DU 24/01/2018
+WA 24/01/2018 YEREKEYE UMUTEKANO ON CYBERSECURITY
+SUR LA CYBERSECURITE
+W’IBIJYANYE N’IKORANABUHANGA MU
+ITANGAZABUMENYI N’ITUMANAHO
+ISHAKIRO
+
+TABLE OF CONTENTS
+
+TABLE DE MATIERES
+
+UMUTWE WA MBERE: INGINGO RUSANGE
+
+CHAPTER ONE: GENERAL PROVISIONS
+
+CHAPITRE PREMIER: DISPOSITIONS
+GENERALES
+
+Ingingo ya mbere: Icyo aya mabwiriza agamije
+
+Article one: Purpose
+
+Article premier: Objet
+
+Ingingo ya 2: Ibisobanuro by’amagambo
+
+Article 2: Definition of terms
+
+Article 2: Définition des termes
+
+Ingingo ya 3: Kurinda amakuru y’amabanki
+
+Article 3: Banking data protection
+
+Article 3: Protection de données bancaires
+
+UMUTWE WA II: IBISABWA MU MATEGEKO CHAPTER
+II:
+REQUIREMENTS
+
+REGULATORY CHAPITRE
+II:
+REGLEMENTAIRES
+
+EXIGENCES
+
+Ingingo ya 4: Inshingano z’Inama y’Ubutegetsi Article 4: Board and Senior Management Article 4: Les responsabilités du conseil
+n’Ubuyobozi bukuru mu rwego rw’umutekano Cybersecurity Responsibilities
+d’administration et de la direction générale
+w’ibijyanye
+n’ikoranabuhanga
+mu
+en matière de cybersécurité
+itangazabumenyi n’itumanaho
+Ingingo ya 5: Ingamba na gahunda y’umutekano Article 5:
+w’ibijyanye
+n’ikoranabuhanga
+mu program
+itangazabumenyi n’itumanaho
+
+Cybersecurity
+
+101
+
+strategy
+
+and Article 5: Stratégie et programme de
+cybersécurité
+
+Official Gazette n° 6bis of 05/02/2018
+
+Ingingo ya 6: Politiki y’umutekano w’ibijyanye Article 6: Cybersecurity Policy
+n’ikoranabuhanga
+mu
+itangazabumenyi
+n’itumanaho
+Ingingo ya 7: Amasuzuma yo kugerageza kwinjira Article 7: Penetration
+no kureba intege nke
+Vulnerability Assessments
+Ingingo ya 8: Inzira y’ubugenzuzi
+
+Article 6: Politique de cybersécurité
+
+Testing
+
+and Article 7: Test d’intrusion et évaluations de
+vulnérabilité
+Article 8: Piste d’audit
+
+Article 8: Audit Trail
+
+Ingingo ya 9: Gucunga umutekano w’imirongo Article 9: Alternative Delivery Channels Article 9: Gestion de la sécurité des canaux de
+itwara amakuru isimbura iyindi
+(ADC) Security Management
+distribution alternatifs
+Ingingo ya 10 : Isuzuma ry’ibibazo bishobora
+kuvuka
+
+Article 10 : Risk Management
+
+Article 10 : Evaluation des risques
+
+Ingingo ya 11: Undi muntu utanga serivisi
+
+Article 11: Third Party Service Provider
+
+Article 11: Tiers prestataire de services
+
+Ingingo ya 12: Gusuzuma
+hakoreshejwe ibintu byinshi
+
+umwirondoro Article 12: Multi-Factor Authentication
+
+Article 12: Authentification multi-factorielle
+
+Ingingo ya 13: Igabanywa ry’amakuru agomba Article 13: Limitations on Data Retention
+kubikwa
+
+Article 13: Limitations sur la rétention des
+données
+
+Ingingo ya 14: Amahugurwa n’igenzurwa Article 14: User Training and Monitoring
+ry’ukoresha uburyo bukoresha ikoranabuhanga
+
+Article 14:
+l’utilisateur
+
+Ingingo ya 15: Kurinda amakuru atari rusange
+
+Article 15:
+Information
+
+Encryption
+
+102
+
+of
+
+Formation
+
+et
+
+contrôle
+
+de
+
+Non-public Article 15: Cryptage des informations non
+publiques
+
+Official Gazette n° 6bis of 05/02/2018
+
+Ingingo ya 16 Gahunda yo gukemura ibibazo Article 16 Incident Response and business Article 16 Plan d’intervention en cas
+bivutse
+continuity management
+d’incident
+Ingingo ya 17 Imenyesha rikorerwa Banki Nkuru Article 17 Notices to the Central Bank
+
+Article 17 Notifications à la Banque Centrale
+
+Ingingo ya 18 Ibyerekeranye n’ibanga
+Article 18 Confidentiality
+Article 18 Confidentialité
+UMUTWE WA III: INGINGO ZINYURANYE CHAPTER III: MISCELLANEOUS AND CHAPITRE
+III:
+DISPOSITIONS
+N’IZISOZA
+FINAL PROVISIONS
+DIVERSES ET FINALES
+Ingingo ya 19 Ibihano n’ibyemezo byo mu rwego Article 19 Penalties and administrative Article
+19
+Pénalités
+rw’ubutegetsi
+sanctions
+administratives
+
+et
+
+sanctions
+
+Ingingo ya 20 : Igihe ntarengwa cyo kubahiriza Article 20 : Deadline for conforming to the Article 20 : Délai de conformité aux
+aya mabwiriza
+provisions of this regulation
+dispositions du présent règlement
+
+Ingingo ya 21: Ivanwaho ry’ingingo z’amabwiriza Article 21: Repealing provisions
+zinyuranyije n’aya amabwiriza
+
+Article 21: Dispositions abrogatoires
+
+Ingingo ya 22: Itegurwa, isuzumwa n’iyemezwa Article 22: Drafting, consideration and Article 22: Initiation, examen et approbation
+approval of this Regulation
+du présent Règlement
+ry’aya mabwiriza rusange
+Ingingo ya 23: Igihe aya mabwiriza atangirira Article 23: Commencement
+gukurikizwa
+
+103
+
+Article 23: Entrée en vigueur
+
+Official Gazette n° 6bis of 05/02/2018
+
+AMABWIRIZA RUSANGE No 02/2018 YO KU REGULATION No 02/2018 OF 24/01/2018 REGLEMENT No 02/2018 DU 24/01/2018
+WA /24/01/2018 YEREKEYE UMUTEKANO ON CYBERSECURITY
+SUR LA CYBERSECURITE
+W’IBIJYANYE N’IKORANABUHANGA MU
+ITANGAZABUMENYI N’ITUMANAHO
+Ishingiye ku Itegeko n° 48/2017 ryo kuwa 23/09/2017 Pursuant
+to
+Law
+n°
+48/2017
+of Vu la loi n ° 48/2017 du 23/09/2017 régissant la
+rigenga Banki Nkuru y’u Rwanda, cyane cyane mu 23/09/2017governing the National Bank of Banque Nationale du Rwanda, spécialement en
+ngingo yaryo ya 6, iya 8, iya 9, n’iya 10;
+Rwanda, especially in Articles 6, 8, 9 and 10;
+ses articles 6, 8, 9 et 10 ;
+Ishingiye ku Itegeko n° 47/2017 ryo ku wa Pursuant to Law n° 47/2017 of 23/094/2017 Vu la loi n° 47/2017 du 23/094/2017 portant
+23/094/2017
+rigena imitunganyirize y’imirimo governing the organization of banking, organisation de l’activité bancaire, en particulier
+y’amabanki, cyane cyane mu ngingo yaryo iya 37 especially in its Article 37 and 117 ;
+en son article 37 et 117 ;
+n’iya 117 ;
+Banki Nkuru y’u Rwanda, yitwa “ Banki Nkuru” mu
+ngingo zikurikira itegetse:
+
+The National Bank of Rwanda hereinafter La Banque Nationale du Rwanda ci-après
+referred to as “Central Bank”, decrees:
+dénommée “ Banque Centrale”, édicte:
+
+UMUTWE WA MBERE: INGINGO RUSANGE
+
+CHAPTER ONE: GENERAL PROVISIONS CHAPITRE PREMIER: DISPOSITIONS
+GENERALES
+
+Ingingo ya mbere: Icyo aya mabwiriza agamije
+
+Article one: Purpose
+
+Article premier: Objet
+
+Aya mabwiriza agamije :
+
+This regulation aims at :
+
+Le présent règlement vise à:
+
+1° gushyiraho ibigenderwaho by’ibanze ku
+mabanki hagamijwe gukumira ibishobora
+guhungabanya
+umutekano w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho; no
+2° guteza imbere uburyo bwo kurinda
+amakuru ku bakiriya kimwe n’uburyo
+bw’ikoranabuhanga
+mu
+guhanahana
+amakuru bukoreshwa n’amabanki.
+
+1° establishing
+minimum
+prudent
+standards to banks for their protection
+against cybersecurity threats ; and
+
+1° établir pour des banques des normes de
+prudentiels
+minimales pour les
+protéger contre les menaces de
+cybersécurité ; et
+
+2° promoting the protection of customer
+information as well as the information
+technology systems of banks
+
+2° promouvoir
+la
+protection
+des
+informations des clients ainsi que des
+systèmes
+de
+technologies
+d’informations des banques.
+
+104
+
+Official Gazette n° 6bis of 05/02/2018
+
+Ingingo ya 2: Ibisobanuro by’amagambo
+
+Article 2: Definition of terms
+
+Article 2: Définition des termes
+
+Muri aya mabwiriza, amagambo akurikira asobanura: In this regulation, the following words and Dans le présent règlement, les termes et
+expressions shall mean:
+expressions suivants signifient:
+1° ukorana n’ikigo: Umuntu uwo ari we wese
+ugenzura, ugenzurwa cyangwa ugenzurirwa
+hamwe n’undi muntu. Muri iki gisobanuro,
+kugenzura bisobanura kugira ububasha mu
+buryo buziguye cyangwa butaziguye bwo
+gutanga icyerekezo cyangwa kugira ijambo
+rikomeye mu gutanga icyerekezo ku
+micungire cyangwa kuri politiki z’umuntu
+byaba binyuze ku kuba afite ububiko bw’uwo
+muntu cyangwa mu bundi buryo ;
+
+1° affiliate: any person that controls, is
+controlled by or is under common
+control with another Person. In this
+definition , control means the
+possession, direct or indirect, of the
+power to direct or cause the direction of
+the management and policies of a
+Person, whether through the ownership
+of stock of such Person or otherwise ;
+
+1° affilié : toute personne qui contrôle, est
+contrôlée par ou se trouve sous le
+contrôle commun avec une autre
+personne. Aux fins de cette définition,
+contrôle signifie la possession directe ou
+indirecte du pouvoir de diriger ou
+d’influencer la direction de la gestion et
+des politiques d’une personne que ce
+soit à travers la possession des actions
+d’une telle personne ou d’une autre
+manière que ce soit ;
+
+2° ukoresha
+uburyo
+bukoresha
+ikoranabuhanga ubyemerewe: umukozi
+uwo ari we wese, ufitanye amasezerano na
+banki, uyihagarariye cyangwa undi muntu
+uwo ari we wese ugira uruhare mu bikorwa
+by’ubucuruzi bya banki kandi akaba
+yemerewe kugera ku buryo bukoresha
+ikoranabuhanga no ku makuru yayo kimwe
+no kubikoresha ;
+
+2° authorized User: any employee,
+contractor, agent or other person that
+participates in the business operations of
+a bank and is authorized to access and
+use any Information Systems and data of
+the bank ;
+
+2° utilisateur autorisé: tout employé,
+contractant, agent ou toute autre
+personne qui participe aux opérations
+commerciales d’une banque et est
+autorisée à accéder aux systèmes
+d’informations et des données de la
+banque et à les utiliser ;
+
+3° ikibazo
+cy’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho: igikorwa icyo ari cyo cyose
+cyangwa kugerageza gukora igikorwa cyaba
+cyagezweho cyangwa kitagezweho cyo
+kugera
+utabyemerewe,
+guhungabanya
+
+3° cybersecurity incident: any act or
+attempt, successful or unsuccessful, to
+gain unauthorized access to, disrupt or
+misuse an Information System or
+information stored on such Information
+System.
+
+3° incident de cybersécurité: toute acte
+ou tentative ayant réussi ou non visant
+à avoir accès non autorisé, perturber ou
+abuser d’un système d’informations ou
+de l’information stockée sur ce système.
+
+105
+
+Official Gazette n° 6bis of 05/02/2018
+
+cyangwa gukoresha nabi uburyo bukoresha
+ikoranabuhanga cyangwa amakuru abitswe
+kuri bene ubwo buryo.
+4° uburyo
+bukoresha ikoranabuhanga:
+Uburyo
+bw’ibanga
+bw’ibikenerwa
+byifashishwa mu guhanahana amakuru
+hifashishijwe
+ikoranabuhanga
+bwatunganyirijwe gukusanya, gutunganya,
+kubika, gukoresha, guhanahana, gusakaza
+cyangwa kugira amakuru mu buryo
+bw’ikoranabuhanga
+kimwe
+n’uburyo
+bwihariye nk’uburyo bwo kugenzura
+bukoreshwa mu nganda/itunganya ry’ibintu
+binyuranye, gushyiraho imirongo ya telefoni,
+uburyo bwo guhamagarana kuri telefoni
+ikigo kihariye, kimwe n’uburyo bwo
+kugenzura ibidukikije.
+
+4° information System: a discrete set of
+electronic
+information
+resources
+organized for the collection, processing,
+maintenance,
+use,
+sharing,
+dissemination or disposition of
+electronic information, as well as any
+specialized
+system
+such
+as
+industrial/process controls systems,
+telephone switching and private branch
+exchange systems, and environmental
+control systems.
+
+4° iystème d’information: un ensemble
+distinct de ressources électroniques
+d’information organisées pour la
+collecte, le traitement, la maintenance,
+l’utilisation, le partage, la diffusion ou la
+disposition
+d’informations
+électroniques ainsi que tout système
+spécialisé tel que les systèmes de
+contrôle
+industriels/processus,
+commutation téléphonique ainsi les
+systèmes
+d’autocommutateurs
+téléphoniques privés , et des systèmes de
+contrôle de l’environnement.
+
+5° gusuzuma umwirondoro hagendewe ku
+bintu byinshi: gusuzuma umwirondoro
+w’umuntu ugendeye nibura ku bwoko bubiri
+bw’ibintu byifashishwa mu kumenya uwo ari
+we:
+a) ibyo
+agomba kuba azi
+nk’ijambobanga;
+b) ibyo agomba kuba afite
+nk’akarango
+cyangwa
+ubutumwa
+kuri
+telefoni
+igendanwa; cyangwa
+
+5° multi-Factor
+authentication:
+authentication through verification of at
+least two of the following types of
+authentication factors:
+
+5° authentification
+multi-factorielle:
+authentification par vérification d’au
+moins deux des types de facteurs
+d’authentification suivants:
+
+a) knowledge factors, such as a
+password;
+b) possession factors, such as a
+token or text message on a
+mobile phone; or
+
+a) facteurs de connaissance,
+tel un mot de passe ;
+b) facteurs de possession, tel
+un jeton d’authentification
+ou un message text
+téléphonique
+sur
+un
+téléphone mobile ; ou
+
+106
+
+Official Gazette n° 6bis of 05/02/2018
+
+c) ibyerekeranye
+n’imiterere
+y’ibiranga umuntu nk’ibiranga
+imiterere y’umubiri.
+
+c) inherence factors, such as a
+biometric characteristic.
+
+c) facteurs d’inhérence e, tel
+un caractère biométrique.
+
+6° amakuru atari rusange: amakuru ayo ari yo
+yose abantu bose badashobora kugeraho
+abitswe mu buryo bw’ikoranabuhanga kandi:
+
+6° nonpublic information: all electronic
+information that is not Publicly
+Available Information and is:
+
+6° information non publique: toute
+information électronique qui n’est pas
+disponible au public et qui est :
+
+a) akaba afitanye isano n’ibikorwa
+by’ubucuruzi bya banki ku buryo
+kuyahindura mu buriganya, cyangwa
+kuyasakaza
+hanze,
+kuyageraho
+cyangwa
+kuyakoresha
+nta
+burenganzira byagira ingaruka mbi ku
+bucuruzi, ibikorwa cyangwa ku
+mutekano wa banki;
+
+a) business
+related
+information of the bank, the
+tampering with which, or
+unauthorized
+disclosure,
+access or use of which,
+would cause a material
+adverse impact to the
+business, operations or
+security of the bank;
+
+a) l’information commerciale de la
+banque, dont la falsification ou la
+divulgation,
+l’accès
+ou
+l’utilisation
+non
+autorisés
+auraient un impact négatif
+sérieux sur l’activité, les
+opérations ou la sécurité de la
+banque;
+
+b) amakuru ayo ari yo yose yerekeranye
+n’umuntu biturutse ku izina rye,
+nomero ye, ikimenyetso cye bwite,
+cyangwa ikindi kintu kimuranga
+gishobora gukoreshwa mu kumenya
+uwo muntu hakoreshejwe kimwe
+cyangwa byinshi muri ibi bintu
+bikurikira:
+(i)
+nomero
+y’ubwiteganyirize ye, (ii) nomero
+y’uruhushya rwo gutwara ibinyabiziga
+ye
+cyangwa
+nomero
+y’ikarita
+ndangamuntu ku badafite uruhushya
+rwo gutwara ibinyabiziga, (iii) nomero
+ya konti, nomero y’ikarita yo
+kubikuriza
+amafaranga
+yemera
+
+b) any information concerning
+an
+individual
+which
+because of name, number,
+personal mark, or other
+identifier can be used to
+identify such individual, in
+combination with any one
+or more of the following
+data elements: (i) social
+security
+number,
+(ii)
+drivers’ license number or
+non-driver
+identification
+card number, (iii) account
+number, credit or debit card
+number, (iv) any security
+
+b) toute information concernant un
+individu qui du fait du nom, du
+numéro,
+de
+la
+marque
+personnelle, ou d’un autre signe
+d’identification peut être utilisée
+pour identifier cet individu en
+combinaison avec un ou
+plusieurs des éléments de
+données suivants : : (i) le numéro
+de la sécurité sociale, (ii) le
+numéro du permis de conduire ou
+le numéro de la carte
+d’identification
+du
+non
+conducteur, (iii) le numéro de
+compte, le numéro de la carte de
+
+107
+
+Official Gazette n° 6bis of 05/02/2018
+
+inguzanyo cyangwa iy’ikarita yo
+kubikiriza
+amafaranga
+itemera
+inguzanyo, (iv) ubundi buryo bwose
+bwo kurinda umutekano, uburyo bwo
+kugera ku makuru
+cyangwa
+ijambobanga rituma umuntu agera ku
+makuru yamufasha kugera kuri konti
+y’umuntu ku giti cye, cyangwa (v)
+amakuru ku miterere y’umubiri;
+
+code, access code or
+password that would permit
+access to an individual’s
+financial account, or (v)
+biometric records;
+
+crédit ou de débit, (iv) tout code
+de sécurité, code d’accès ou mot
+de passe qui permettrait
+d’accéder à un compte financier
+d’un individu’ ou (v) les données
+biométriques ;
+
+c) amakuru ayo ari yo yose, usibye
+imyaka cyangwa igitsina uko yaba
+ateye
+kose
+cyangwa
+uburyo
+abitswemo, yateguwe n’umukozi wo
+mu rwego rw’ubuvuzi yerekeranye
+n’umuntu ku giti cye avuga ku
+byerekeranye
+(i)
+n’ubuzima
+bw’umubiri we , ubuzima bwo mu
+mutwe cyangwa imyitwarire ye mu
+gihe cyahise, ubungubu cyangwa igihe
+kizaza cyangwa uburwayi bw’umuntu
+ku giti cye cyangwa bw’umwe mu
+bagize umuryango we (ii) itangwa rya
+serivisi z’ubuzima ku muntu uwo ari
+we wese, cyangwa (iii) ubwishyu bwa
+serivisi z’ubuzima ku muntu uwo ari
+we wese.
+
+c) any information or data,
+except age or gender, in any
+form or medium created by
+or derived from a health
+care provider or an
+individual and that relates
+to (i) the past, present or
+future physical, mental or
+behavioral
+health
+or
+condition of any individual
+or a member of the
+individual's family, (ii) the
+provision of health care to
+any individual, or (iii)
+payment for the provision
+of health care to any
+individual.
+
+c) toute information ou données, à
+l’exception de l’âge ou du genre,
+sous quelque forme ou support
+que ce soit, créés par ou
+provenant d’un prestataire de
+services de santé ou d’une
+personne et qui sont relatives (i)
+à la santé ou l’état physique,
+mental ou comportemental passé,
+présent ou futur de toute
+personne ou d’un membre de
+safamille, ou (ii) à la fourniture
+de soins de santé à tout individu,
+ou (iii) au paiement de soins de
+santé à tout individu.
+
+7° kugerageza kwinjira nta burenganzira:
+uburyo bukoreshwa mu kugerageza aho
+abakora isuzuma bagerageza gukwepa
+cyangwa kuganza ibigize umutekano
+w’uburyo
+bukoresha
+ikoranabuhanga
+
+7° penetration
+Testing:
+a
+test
+methodology in which assessors attempt
+to circumvent or defeat the security
+features of an information system by
+attempting penetration of databases or
+
+7° test d’intrusion: une méthodologie de
+test dans laquelle les évaluateurs tentent
+de contourner ou de déjouer les
+caractéristiques de sécurité d’un
+système d’information en essayant de
+
+108
+
+Official Gazette n° 6bis of 05/02/2018
+
+bagerageza kwinjira mu bubiko bw’amakuru
+cyangwa ahakorerwa igenzura binjiriye
+imbere cyangwa inyuma y’uburyo bukoresha
+ikoranabuhanga bukoreshwa na banki.
+
+controls from outside or inside the
+bank’s information systems.
+
+pénétrer les banques de données ou les
+contrôles de l’extérieur ou à l’intérieur
+des Systèmes d’Informations de la
+banque.
+
+8° amakuru rusange: amakuru ayo ari yo yose
+banki ishobora gutekereza ko abantu bose
+bashobora kumenya mu buryo bwemewe
+n’amategeko : ni ukuvuga amakuru aturuka
+mu nzego za Leta cyangwa mu nzego
+z’ibanze; ibitangazamakuru bigera ku bantu
+benshi;
+cyangwa
+amakuru
+agomba
+gutangarizwa
+rubanda
+hakurikijwe
+amategeko.
+
+8° publicly Available Information: any
+information that a bank has a reasonable
+basis to believe is lawfully made
+available to the general public from: the
+Government or local government
+records; widely distributed media; or
+disclosures to the general public that are
+required to be made by the law.
+
+8° informations
+publiques:
+toute
+information dont la banque a toute
+raison de croire qu’elle est légalement
+disponible au grand public à partir : des
+archives de l’Etat ou d’une collectivité
+locale; des organes médiatiques de large
+diffusion; ou des révélations au grand
+public qui sont exigées par la loi.
+
+9° isuzuma ry’umwirondoro rishingiye ku
+byateza ingorane: Uburyo ubwo ari bwo
+bwose bwo gusuzuma umwirondoro
+bushingiye ku ngorane zishobora kuba
+butahura ibintu bidasanzwe cyangwa
+impinduka mu bijyanye n’imikoreshereze
+isanzwe kandi bugasaba ko habaho irindi
+genzura ry’ibiranga umuntu igihe ibyo bintu
+bidasanzwe
+cyangwa
+izo
+mpinduka
+zigaragaye nko kumubaza ibibazo byo
+kureba niba uwo muntu ari we koko.
+
+9° risk-based authentication: any riskbased system of authentication that
+detects anomalies or changes in the
+normal use patterns of a Person and
+requires additional verification of the
+Person’s identity when such deviations
+or changes are detected, such as through
+the use of challenge questions.
+
+9° authentification basée sur le risque:
+tout système d’authentification basée
+sur le risque qui détecte des anomalies
+ou des changements dans la manière
+d’utilisation normale d’une personne et
+qui
+requiert
+une
+vérification
+supplémentaire de l’identité de la
+personne lorsque de telles déviations ou
+changements sont détectés notamment
+par le biais de l’utilisation des questions
+secrètes.
+
+10° undi muntu utanga serivisi: Umuntu (i)
+utari usanzwe akorana na banki, (ii) uha
+banki serivisi, kandi (iii) ufata neza,
+utunganya cyangwa wemerewe kugera ku
+makuru atari rusange binyuze muri serivisi
+ayiha.
+
+10° third party service provider(s): a
+Person that (i) is not an Affiliate of the
+bank, (ii) provides services to the bank,
+and (iii) maintains, processes or
+otherwise is permitted access to
+
+10° tiers prestataire (s) de services: une
+personne qui (i) n’est pas un affilié de la
+banque, (ii) donne des services à la
+banque, et (iii) maintient, traite ou est
+autrement autorisée d’accéder aux
+
+109
+
+Official Gazette n° 6bis of 05/02/2018
+
+Nonpublic Information through its
+provision of services to the bank.
+Ingingo ya 3: Kurinda amakuru y’amabanki
+
+Article 3: Banking primary data location
+
+informations non publiques par le biais
+de prestation de services à la banque.
+Article 3: Protection de données bancaires
+
+Banki iyo ariyo yose yemewe na Banki Nkuru Any bank lincensed by the Central Bank must Toute banque agréer par la Banque Centrale doit
+itegetswe kubika amakuru yayo y’ibanze ku butaka maintain its primary data on the territory of the maintainir ses données primaires sur le territoire
+bwa Repubulika y’u Rwanda.
+Republic of Rwanda.
+de la République du Rwanda.
+UMUTWE WA II: IBISABWA MU MATEGEKO CHAPTER
+II:
+REQUIREMENTS
+
+REGULATORY CHAPITRE
+II:
+REGLEMENTAIRES
+
+EXIGENCES
+
+Ingingo ya 4: Inshingano z’Inama y’Ubutegetsi Article 4: Board and Senior Management Article 4: Les responsabilités du conseil
+n’Ubuyobozi bukuru mu rwego rw’umutekano Cybersecurity Responsibilities
+d’administration et de la direction générale
+w’ibijyanye
+n’ikoranabuhanga
+mu
+en matière de cybersécurité
+itangazabumenyi n’itumanaho
+(4.1)
+
+Imiyoborere y’umutekano w’amakuru ni (4.1)
+inshingano
+y’Inama
+y’Ubutegetsi
+n’ubuyobozi bukuru. Buri banki igomba
+kugira uburyo rusange bw’imiyoborere
+y’umutekano w’amakuru bugizwe n’ibi
+bikurikira:
+
+Information Security Governance must (4.1)
+be the responsibility of the Board of
+Directors and Senior Management. Each
+bank must have a comprehensive
+information
+security
+governance
+framework consisting of the following:
+
+a) ingamba
+z’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho
+zijyanye
+n’intego
+z’ibikorwa ;
+
+a) cybersecurity strategy linked with
+business objectives;
+
+b) gahunda y’umutekano y’ibanze itanga
+igisubizo kuri buri cyiciro cy’ingamba,
+cy’igenzura n’icy’amabwiriza ;
+
+b) governing security program that
+address each aspect of the strategy,
+controls and regulations;
+
+110
+
+La Gouvernance de la sécurité de
+l’information est la responsabilité du
+conseil d’administration et de la
+direction générale. Chaque banque doit
+disposer d’une structure globale de
+gouvernance de la sécurité de
+l’information qui consiste de ce qui suit :
+a) une stratégie de cybersécurité ayant
+trait aux objectifs opérationnels;
+
+b) un programme régissant la sécurité
+applicable à chaque aspect de la
+stratégie, des contrôles et du
+règlement ;
+
+Official Gazette n° 6bis of 05/02/2018
+
+c) urutonde rwuzuye rw’ibigenderwaho muri
+buri politiki kugira ngo uburyo
+bukurikizwa n’imirongo ngenderwaho
+bijyanye na politiki iriho ;
+
+c) a complete set of standards for each
+policy to ensure procedures and
+guidelines comply with the policy;
+
+c) une série complète des normes de
+chaque politique visant à garantir la
+conformité des procédures et des
+Principes directeurs à la politique ;
+
+d) imiterere y’ikigo ikora neza
+izira
+kugongana kw’ inyungu bwite, ifite
+ububasha
+buhagije
+n’ibyangombwa
+byuzuye ;
+
+d) an effective organization structure
+void of conflict of interest with
+sufficient authority and adequate
+resources;
+
+d) une
+structure
+organisationnelle
+efficace dépourvue de conflit
+d’intérêts avec une autorité suffisante
+et des ressources appropriées.
+
+e) ibipimo n’uburyo bwo kugenzura ko
+amabwiriza yubahirizwa kimwe no
+kumenya uko abandi babona imikorere
+y’urwo rwego ndetse no gushyiraho
+ibyashingirwaho mu ifatwa ry’ibyemezo
+mu rwego rw’imicungire ;
+
+e) metrics and monitoring processes to
+ensure compliance, feedback on
+effectiveness and provide the basis
+for
+appropriate
+management
+decisions;
+
+e) des indicateurs et les processus de
+contrôle en vue d’assurer la
+conformité, les réactions sur
+l’efficacité et de fournir la base de
+prise de décisions de gestion
+appropriées ;
+
+(4.2)
+
+Inzobere mu by’ikoranabuhanga ku (4.2)
+rwego rw’Inama y’Ubuyobozi: Buri banki
+igomba
+kugira
+komite
+ishinzwe
+ikoranabuhanga mu itumanaho ku rwego
+rw’Inama y’Ubuyobozi yayo kugira ngo
+iyigire inama ku byerekeranye n’icyerekezo
+kigomba
+gufatwa
+mu
+rwego
+rw’Ikoranabuhanga mu itumanaho no gukora
+ishoramari muri urwo rwego ibikorera Inama
+y’Ubutegetsi.
+
+Expertise at the Board Level: Each (4.2)
+bank must have IT Committee at the
+Board level to give advice on strategic
+direction on IT and to review IT
+investments on Board's behalf.
+
+Expertise au niveau du conseil
+d’administration: Chaque banque doit
+disposer d’un comité chargé de l’
+informatique
+sein
+du
+conseil
+d’administration pour donner conseil
+sur l’ orientation stratégique en matière
+de la technologie d’information et pour
+revoir les investissements en la matière
+pour
+le
+compte
+du
+conseil
+d’administration.
+
+(4.3)
+
+Ububasha
+bwa
+komite
+ishinzwe (4.3)
+ikoranabuhanga n’itumanahano: komite
+ifite ububasha bukurikira:
+
+Powers of IT
+Committee: the (4.3)
+committee must have the following
+powers:
+
+Compétences du Comité chargé de
+l’informatique: le comité dispose des
+compétences suivantes:
+
+a) kugenzura komite nyobozi ishinzwe
+
+a) perform
+
+111
+
+oversight
+
+functions
+
+a) exercer des fonctions de
+
+Official Gazette n° 6bis of 05/02/2018
+
+Ikoranabuhanga n’itumanaho ;
+
+(4.4)
+
+b) gukora amaperereza ku bikorwa muri
+urwo rwego ;
+
+b) investigate activities within this
+scope ;
+
+supervision
+du
+comité
+direction
+en charge de
+l’informatique ;
+b) faire des investigations dans
+ce cadre ;
+
+c) gushakisha amakuru ku mukozi uwo ari
+we wese ;
+
+c) seek information
+employee ;
+
+from
+
+any
+
+c) s’informer auprès de tout
+employé ;
+
+d) gushaka ubufasha bwo mu rwego
+rw’amategeko n’urw’umwuga hanze
+y’ikigo ;
+
+d) obtain
+outside
+legal
+professional advice ;
+
+or
+
+d) obtenir
+des
+conseils
+juridiques ou professionnels
+de l’extérieur ;
+
+e) kunoza uruhare rw’abo hanze bafite
+ubuzobere bukwiye mu gihe ari
+ngombwa ;
+
+e) secure attendance of outsiders
+with relevant expertise, if it
+considers necessary ;
+
+e)
+
+f) gufatanya n’izindi komite z’Inama
+y’ubutegetsi n’ubuyobozi bukuru mu
+gutanga ibitekerezo, gusubiramo no
+guhindura ingamba za sosiyete
+n’ingamba
+zo
+mu
+rwego
+rw’ikoranabuhanga
+mu
+itangazabumenyi.
+
+f) work in partnership with other
+board committees and senior
+management to provide input,
+review and amend the aligned
+corporate and IT strategies.
+
+f) travailler en partenariat avec
+les autres comités du conseil
+d’administration
+et
+la
+direction générale en vue de
+donner des commentaires,
+revoir et modifier les
+stratégies organisationnelles
+et informatique alignées.
+
+Gushyira mu bikorwa, kugerageza no
+kuvugurura ingamba zo kubungabunga
+umutekano
+w’amakuru
+bigomba
+gutegurwa nk’igice cy’ishyirwaho rya
+gahunda y’umutekano w’amakuru. Komite
+nshingwabikorwa n’Inama y’Ubuyobozi
+
+over the IT steering committee
+at managerial level ;
+
+(4.4)
+
+Information
+security
+strategy (4.4)
+implementation, testing and reviews
+should be planned as part of the
+Information
+security
+program
+development. The executive committee
+and the Board must review the security
+
+112
+
+assurer la présence des
+personnes de l’extérieur
+ayant l’expertise voulue s’il
+le juge nécessaire ;
+
+La mise en œuvre, les tests et les
+révisions de la stratégie de la sécurité de
+l’information, doivent être planifiés
+dans le cadre de l’élaboration du
+programme de la sécurité de
+l’information. Le comité exécutif et le
+
+Official Gazette n° 6bis of 05/02/2018
+
+zigomba
+gusubiramo
+ingamba
+z’umutekano zifatanyije na serivisi
+ishinzwe umutekano w’amakuru, zikumva
+ibisobanuro n’ingaruka, zikagira icyo
+zivuga kuri buri gikorwa kigamije kugera
+ku ntego y’imikorere no guha umukuru wa
+serivisi ishinzwe umutekano w’amakuru
+igihe cyo kugira icyo avuga ku byavuzwe
+no kuzoherereza ingamba zisubiwemo
+komite ifata ingamba zerekeranye
+n’ikoranabuhanga ngo izunguraneho
+ibitekerezo, izinononsore inazemeze.
+
+Umukuru wa serivisi ishinzwe umutekano
+w’amakuru n’umuyobozi mukuru
+bagomba
+gusubiramo, kwemeza no gutangariza abo bireba
+inyandiko ya nyuma yerekeranye n’ingamba
+zafatwa
+mu
+rwego
+rw’umutekano
+w’ikoranabuhanga.
+(4.5)
+
+strategy with the IT Security Unit,
+understand the implications and effects,
+provide feedback on each initiative to
+achieve strategic objective and allow
+time for the IT Security Unit
+representative to respond to the
+comments and send the next version to
+the strategic committee for discussion,
+refinement and approval.
+
+conseil d’administration doivent revoir
+la stratégie de sécurité avec l’unité
+chargé de la sécurité des systèmes
+d’information, en comprendre les
+implications et les effets, donner des
+réactions sur chaque initiative visant à
+réaliser l’objectif stratégique et donner
+du temps au responsable de la sécurité
+des systèmes d’information pour réagir
+aux commentaires et d’envoyer la
+prochaine version au comité stratégique
+pour
+discussion, finalisation
+et
+approbation.
+
+The head of the information security or the Le responsable de la sécurité des systèmes
+Chief Executive Officer (CEO) must review, d’information et le directeur général doivent
+approve and communicate the final security revoir, approuver, et communiquer le document
+strategy document to the intended audience.
+final de la stratégie de sécurité au public visé.
+
+Komite
+nyobozi
+ishinzwe (4.5)
+ikoranabuhanga: Banki igomba kugira
+komite nyobozi ishinzwe ikoranabuhanga
+igizwe
+n’abahagarariye
+serivisi
+y’ikoranabuhanga, serivisi ishinzwe abakozi,
+n’inzego zishinzwe amategeko n’ubucuruzi.
+Inshingano zayo ni ugufasha ubuyobozi
+bukuru mu gushyira mu bikorwa ingamba mu
+byerekeranye
+n’umutekano
+w’ikoranabuhanga
+zemejwe
+n’Inama
+y’ubuyobozi.
+Izo ngamba zikubiyemo
+ishyirwaho ry’ibyihutirwa mu ishoramari mu
+
+IT Steering Committee: The bank (4.5)
+must have an IT Steering Committee
+with representatives from the IT, HR,
+legal and business lines. Its role must be
+to assist the Executive Management in
+implementing IT Security Strategy that
+has been approved by the Board. It
+includes prioritization of IT-enabled
+security investment, reviewing the
+status of projects (including, resource
+conflict), monitoring service levels and
+
+113
+
+Le comité de direction chargé de
+l’informatique : La banque doit avoir
+un comité de direction chargé de
+l’informatique
+composé
+des
+représentants provenant des services
+informatique, ressources humaines,
+juridique et commercial. Son rôle est
+d’assister la direction exécutive dans la
+mise en œuvre de la stratégie de la
+sécurité des systèmes d’information qui
+a été adoptée par le conseil
+d’administration.
+Cette
+stratégie
+
+Official Gazette n° 6bis of 05/02/2018
+
+(4.6)
+
+rwego rw’umutekano w’ikoranabuhanga mu
+itangazabumenyi, gusubiramo imishinga
+(harimo no gukemura ibitumvikanwaho mu
+rwego rw’ibikenewe), kugenzura ibipimo n’
+impinduka nziza bya serivisi , itangwa rya
+serivisi
+z’ikoranabuhanga
+ndetse
+n’imishinga.
+
+improvements, IT service delivery and
+projects.
+
+comprend la définition des priorités des
+investissements en matière de la sécurité
+informatique, l’exam de l’état des
+projets (y compris le conflit des
+ressources), le suivi des niveaux et des
+améliorations des services, la fourniture
+des services ainsi que des projets
+informatiques.
+
+Urwego rushyinzwe serivisi y’umutekano (4.6)
+w’amakuru
+(ISU):
+Banki
+igomba
+gushyiraho umuntu w’inzobere ushinzwe
+gutegura ingamba na gahunda y’ umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho, gushyira mu
+bikorwa no kugenzura imikoreshereze y’iyo
+gahunda, gutanga inama ku bigomba
+gukorwa mu rwego rwo gukemura ibibazo
+bigenda bigaragara muri iyo gahunda no
+gushyira mu bikorwa politiki yayo
+y’umutekano w’ibijyanye n’ikoranabuhanga
+mu itangazabumenyi n’itumanaho. Urwego
+rugomba kandi guhora rukora isesengura
+n’ubugenzuzi k’umutekano w’amakuru mu
+ikoranabuhanga.
+
+IT Security Unit (ISU) : The bank must (4.6)
+establish an IT Security Unit and
+designate a qualified individual
+responsible for designing cybersecurity
+strategy and program, implementing and
+overseeing the bank’s cybersecurity
+program execution, recommending
+actions for addressing any noted
+program shortfalls and enforcing its
+cybersecurity policy. The unit must also
+perform regular information security
+internal assessments and audit.
+
+L’unité chargé de la sécurité des
+systèmes d'information (ISU) : La
+banque doit désigner un individu
+qualifié chargé
+de concevoir
+la
+stratégie et le programme de
+cybersécurité, de mettre en œuvre et de
+contrôler l’exécution du programme de
+cybersécurité de la banque, de
+recommander des actions pour remédier
+aux défaillances observées dans le
+programme et de mettre en œuvre sa
+politique de cybersécurité. L'unité doit
+également effectuer régulièrement des
+évaluations internes de sécurité de
+l'information et des audits.
+
+Inshingano za serivisi y’umutekano w’amakuru
+zishobora gukorwa na na banki, umwe mu bakorana
+nayo kimwe n’undi muntu utanga serivisi muri urwo
+rwego. Iyo ibisabwa muri urwo rwego byuzujwe
+hifashishijwe undi muntu utanga serivisi cyangwa
+ikigo gishamikiye kuri banki, banki igomba:
+
+The responsabilities of the Unit may be
+undertaken by the bank, one of its affiliates or a
+third party service provider. To the extent this
+requirement is met using a third party service
+provider or an affiliate, the bank must:
+
+114
+
+Les responsabilités de l’unité chargé de la
+sécurité des systèmes d’information peuvent être
+employé par la banque, l’un de ses affiliés ou par
+un tiers prestataire de services. Si cette exigence
+est remplie en faisant recours à un prestataire de
+services ou un affilié, la banque doit :
+
+Official Gazette n° 6bis of 05/02/2018
+
+a) kwishingira ko aya mabwiriza
+azubahirizwa;
+b) gushyiraho umwe mu bakozi
+bakuru ba banki ushinzwe
+kuyobora no kugenzura utanga
+serivisi; no
+
+c) gusaba utanga serivisi gukomeza
+gahunda
+y’umutekano
+w’ibijyanye n’ikoranabuhanga
+mu
+itangazabumenyi
+n’itumanaho irinda banki nk’uko
+bisabwa muri aya mabwiriza.
+
+(4.7)
+
+Gutanga raporo: Ukuriye ISU atanga (4.7)
+raporo k’Umuyobozi Mukuru cyangwa ku
+muyobizi ufite mu nshingano ze umutekano.
+ISU itanga raporo ku ngamba z’umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho rya banki no
+ku ishyirwa mu bikorwa rya gahunda
+y’umutekano; akagaragaza ibibazo bishobora
+kuvuka muri urwo rwego areba nibura ibi
+bikurikira:
+a) Ibanga ku makuru atari rusange
+n’ubudakemwa
+n’umutekano
+w’uburyo bukoresha ikoranabuhanga
+bukoreshwa na banki;
+
+a) retain responsibility for
+compliance
+with
+this
+regulation;
+b) designate a senior member
+of the bank’s personnel
+responsible for direction
+and oversight of the third
+party service provider; and
+c) require the third party
+service provider to maintain
+a cybersecurity program
+that protects the bank in
+accordance
+with
+the
+requirements
+of
+this
+regulation.
+Reporting: The head of the ISU must (4.7)
+report
+the Chief Executive Officer
+(CEO) or the senior manager in charge
+of the cyber security. The Unit must
+report on the bank’s cybersecurity
+strategy and program execution
+identifying
+emerging
+material
+cybersecurity risks and must consider at
+least the following:
+
+a) the confidentiality of nonpublic
+information and the integrity and
+security of the bank’s information
+systems;
+
+115
+
+a) retenir la responsabilité de
+conformité au présent
+règlement;
+b) désigner un cadre supérieur
+parmi son personnel chargé
+de diriger et de contrôler le
+tiers prestataire de services ;
+et
+c) exiger le tiers prestataire de
+services de maintenir un
+programme
+de
+cybersécurité qui protège la
+banque conformément aux
+exigences
+du
+présent
+règlement.
+Des rapports: Le chargé de ISU de
+chaque banque relève de CEO ou du
+cadre superieur chargé de la
+sybersecurité. Il doit rendre compte de la
+stratégie de cybersécurité de la banque
+et l’exécution du programme en
+identifiant les risques émergents
+importants en matière de cybersécurité
+et considérer au moins les aspects
+suivants :
+a) la confidentialité des informations
+non publiques et l’intégrité et la
+sécurité
+des
+systèmes
+d’information de la banque ;
+
+Official Gazette n° 6bis of 05/02/2018
+
+b) Politiki n’inzira zikurikizwa na banki
+mu rwego rw’umutekano w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho;
+
+b) the bank’s/ cybersecurity policies
+and procedures;
+
+b) les politiques et procédures de la
+banque
+en
+matière
+de
+cybersécurité ;
+
+c) Ibyateza
+ingorane
+byigaragaza
+bishobora kuvuka
+mu rwego
+rw’umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho muri
+banki;
+
+c) emerging material cybersecurity
+risks to the bank;
+
+c) les risques sérieux et émergents de
+cybersécurité pour la banque;
+
+d) overall effectiveness of the bank’s
+cybersecurity program achieving
+security strategy; and
+
+d) l’efficacité globale du programme
+de cybersécurité de la banque dans
+la réalisation de la stratégie de
+sécurité ; et
+
+e) material cybersecurity events
+involving the bank during the time
+period addressed by the report ;
+
+e) des événements importants de
+cybersécurité qui ont impliqué la
+banque au cours de la période
+couverte par le rapport.
+
+d) Ubushobozi muri rusange bwa
+gahunda y’umutekano w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho bwo
+kugera ku ngamba y’umutekano; na
+e) Ibikorwa bifatika by’umutekano
+w’ibijyanye n’ikoranabuhanga mu
+itangazabumenyi n’itumanaho banki
+yagizemo uruhare mu gihe kirebwa
+n’iyo raporo.
+
+Ingingo ya 5: Ingamba na gahunda y’umutekano Article 5:
+w’ibijyanye
+n’ikoranabuhanga
+mu program
+itangazabumenyi n’itumanaho
+(5.1)
+
+Banki igomba gushyiraho ingamba na (5.1)
+gahunda
+y’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho
+yo
+kurinda
+amabanga,
+ubudakemwa,
+n’ukuboneka
+k’uburyo
+
+Cybersecurity
+
+strategy
+
+and Article 5: Stratégie et programme de
+cybersécurité
+
+The bank must maintain a cybersecurity (5.1)
+strategy and program designed to
+protect the confidentiality, integrity and
+availability of the bank’s information
+systems.
+
+116
+
+La banque doit maintenir une stratégie
+et un programme de cybersécurité conçu
+pour protéger la confidentialité,
+l’intégrité et la disponibilité des
+systèmes d’information de la banque.
+
+Official Gazette n° 6bis of 05/02/2018
+
+bukoresha ikoranabuhanga bukoreshwa na
+banki.
+(5.2)
+
+Ingamba
+y’umutekano
+w’ibijyanye (5.2)
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanahoitanga intango ya gahunda
+y’ibigomba gukorwa igizwe na gahunda
+y’umutekano w’ibijyanye n’ikoranabuhanga
+mu itangazabumenyi n’itumanaho,
+ituma
+intego ziteganyijwe mu rwego rw’umutekano
+zishobora kugerwaho iyo ishyizwe mu
+bikorwa. Ingamba na gahunda z’ibigomba
+gukorwa zigomba guteganya uburyo
+igenzura kimwe n’ibipimo bishobora
+kwerekana urugero rw’ibyagezweho.
+
+The cybersecurity strategy must provide (5.2)
+the basis for an action plan comprised of
+cybersecurity
+program
+that
+as
+implemented, achieve the planned
+security objectives. The strategy and
+action plans must contain provision for
+monitoring as well as defined metrics to
+determine the level of success.
+
+La stratégie de cybersécurité doit servir
+de base à un plan d’action comprenant
+un programme de cybersécurité qui, une
+fois mise en œuvre, permet de réaliser
+les objectifs de sécurité planifiés. La
+stratégie et les plans d’action doivent
+prévoir des dispositions pour le contrôle
+ainsi que des indicateurs définis en vue
+de déterminer le niveau de réussite.
+
+(5.3)
+
+Ingamba
+na
+gahunda
+y’umutekano (5.3)
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanahobigomba kuba
+bishingiye ku isuzuma ry’ibyateza ingorane
+ryakozwe na banki kandi bigomba kuba
+bigamije gukora nibura ibi bikurikira:
+
+The cybersecurity strategy and program (5.3)
+must be based on the Bank’s risk
+assessment and designed to perform at
+least the following core cybersecurity
+functions:
+
+La stratégie et le programme de
+cybersécurité doivent être basés sur
+l’évaluation des risques de la banque et
+être conçus pour remplir au moins les
+principales fonctions de cybersécurité
+reprises ci-après :
+
+a) gutahura no gusuzuma
+ibyateza
+ingoranemu
+rwego
+y’umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho by’imbere
+mu kigo cyangwa hanze yacyo
+bishobora kubangamira umutekano
+cyangwa ubudakemwa bw’amakuru
+abitswe
+mu
+buryo
+bukoresha
+ikoranabuhanga bukoreshwa na banki;
+
+a) identify and assess internal and
+external cybersecurity risks that
+may threaten the security or
+integrity of nonpublic information
+stored on the bank’s information
+systems;
+
+a) identification et évaluation des
+risques de cybersécurité internes et
+externes susceptibles de porter
+atteinte à la sécurité ou l’intégrité
+des informations non publiques
+stockées
+sur
+les
+systèmes
+d’information de la banque ;
+
+117
+
+Official Gazette n° 6bis of 05/02/2018
+
+b) gukoresha ibikorwa remezo by’ubwirinzi
+no gushyira mu bikorwa politiki n’inzira
+zikurikizwa mu
+kurinda uburyo
+bukoresha ikoranabuhanga bukoreshwa
+na banki hamwe n’amakuru atari rusange
+abitswe kuri ubwo buryo, habuzwa
+kuyageraho
+nta
+burenganzira,
+kuyakoresha cyangwa kuyakoraho ibindi
+bikorwa by’ubugome;
+
+b) use defensive infrastructure and the
+implementation of policies and
+procedures to protect the bank’s
+information systems, and the
+nonpublic information stored on
+those information systems, from
+unauthorized access, use or other
+malicious acts;
+
+b) utilisation de l’infrastructure de
+défense et mise en œuvre des
+politiques et procédures de
+protection
+des
+systèmes
+d’information de la banque et des
+informations
+non
+publiques
+stockées
+sur
+ces
+systèmes
+d’information contre tout accès ou
+utilisation
+non autorisés, ou
+d’autres actes malveillants ;
+
+c) gutahura
+ibikorwa
+bihungabanya
+umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho ;
+
+c) detect cybersecurity incidents and
+regularly monitoring of abnormal
+and unauthorized access or use;
+
+c)
+
+d) gukemura ibibazo bikomoka ku bikorwa
+bihungabanya umutekano w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho
+byagaragaye cyangwa
+byatahuwe mu rwego rwo kugabanya
+ubukana bw’ingaruka zabyo;
+e) gusana
+ibyangijwe
+n’ibikorwa
+by’ihungabana
+ry’umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho
+no
+gusubukura ibikorwa n’itangwa rya
+serivisi zisanzwe; na
+
+d) respond to identified or detected
+cybersecurity incidents to mitigate
+any negative effects;
+
+d) réaction aux incidents
+de
+cybersécurité identifiés ou détectés
+afin de mitiger tous les effets
+négatifs ;
+
+e) recover from cybersecurity events
+and restore normal operations and
+services; and
+
+e) reprise après les incidents de
+cybersécurité et restauration du
+fonctionnement
+normal
+des
+opérations et des services ; et
+
+f) kuzuza inshingano zo gutanga raporo
+ziteganywa n’amabwiriza.
+
+f) fulfill
+applicable
+reporting obligations.
+
+f) accomplissement des applicables
+obligations
+réglementaires
+en
+mstière d’information.
+
+118
+
+regulatory
+
+détection
+des
+cybersécurité;
+
+incidents
+
+de
+
+Official Gazette n° 6bis of 05/02/2018
+
+(5.4)
+
+Banki igomba gukora ibisabwa byose muri (5.4)
+aya mabwiriza ishyiraho ingingo zikwiye za
+gahunda
+y’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho y’umuntu ukorana na banki;
+izo ngingo zipfa gusa kuba zuzuza ibisabwa
+muri aya mabwiriza bireba banki.
+
+The bank must meet the requirement(s) (5.4)
+of this regulation by adopting the
+relevant and applicable provisions of a
+cybersecurity program maintained by an
+affiliate, provided that such provisions
+satisfy the requirements of this
+regulation, as applicable to the bank.
+
+La banque doit remplir les exigences du
+présent règlement en adoptant des
+dispositions appropriées et applicables
+d’un programme de cybersécurité
+maintenu par un affilié, pourvu que de
+telles dispositions satisfessent aux
+exigences du présent règlement autant
+que cela est applicable pour la banque.
+
+(5.5)
+
+Banki Nkuru igomba gushyikirizwa (5.5)
+inyandiko
+zose
+kimwe
+n’amakuru
+yerekeranye
+n’ingamba
+na
+gahunda
+y’umutekano w’ibijyanye n’ikoranabuhanga
+mu itangazabumenyi n’itumanaho igihe
+ibisabye.
+
+All documentation and information (5.5)
+relevant to the bank’s cybersecurity
+strategy and program must be made
+available to the Central Bank upon
+request.
+
+Toute documentation et informations
+relatives à la stratégie et au programme
+de cybersécurité de la banque doivent
+être rendues disponibles à la Banque
+Centrale sur sa demande.
+
+Ingingo ya 6: Politiki y’umutekano w’ibijyanye Article 6: Cybersecurity Policy
+n’ikoranabuhanga
+mu
+itangazabumenyi
+n’itumanaho
+(6.1)
+
+Banki igomba gushyira mu bikorwa no (6.1)
+kubika politiki yanditse yemewe n’Inama
+y’Ubuyobozi igaragaza politiki yayo mu
+byerekeranye no kurinda uburyo bukoresha
+ikoranabuhanga kimwe n’amakuru atari
+rusange abitswe kuri ubwo buryo. Politiki
+y’umutekano w’ibijyanye n’ikoranabuhanga
+mu itangazabumenyi n’itumanaho igomba
+gushingira ku isuzuma ry’ibyateza ingorane
+banki muri kandi ikagira icyo ivuga nibura
+kuri ibi bikurikira bijyanye n’ibikorwa bya
+banki:
+
+Article 6: Politique de cybersécurité
+
+The bank must implement and maintain (6.1)
+a written policy approved by the bank
+board of directors, setting forth the
+bank’s policy for the protection of its
+information systems and nonpublic
+information stored on those information
+systems. The cybersecurity policy must
+be based on the Bank’s risk assessment
+and address at least the following areas
+of the bank’s operations:
+
+119
+
+La banque doit mettre en œuvre et
+maintenir une politique écrite approuvée
+par le conseil d’administration qui
+expose sa politique de protection de ses
+systèmes d’information ainsi que des
+informations non publiques stockées
+sur ces systèmes d’information. La
+politique de cybersécurité doit être
+basée sur l’évaluation des risques de la
+banque et doit considérer au moins les
+aspects des opérations de la banque
+repris ci-après :
+
+Official Gazette n° 6bis of 05/02/2018
+
+a) Umutekano w’amakuru;
+b) Imiyoborere no gushyira mu byiciro amakuru;
+c) Ibarura ry’umutungo no gucunga ibikoresho;
+
+a) Information security ;
+b) Data governance and classification ;
+c) Asset
+inventory
+and
+device
+management ;
+
+d) Kugenzura uburyo bwo kugera ku makuru no
+gucunga imyirondoro y’abantu;
+
+d) Access
+controls
+management ;
+
+e) Gukora gahunda y’ikomeza ry’ibikorwa
+by’ubucuruzi no gusubukura imirimo nyuma
+y’amage no gutegura ibikenewe muri urwo
+rwego;
+f) Imikorere y’uburyo bukoresha ikoranabuhanga
+n’ibibazo bijyanye n’uko ubwo buryo
+buboneka;
+
+e) Business continuity and disaster
+recovery planning and resources ;
+
+e) Planification et ressources pour la
+continuité ’d'activité et la reprise après
+sinistre ;
+
+f) Systems operations and availability
+concerns ;
+
+f) Opérations des systèmes et problèmes
+de disponibilité
+
+g) Umutekano
+w’uburyo
+bukoresha
+ikoranabuhanga n’uw’umuyoboro;
+
+g) Systems, applications and network
+security;
+
+g) Sécurité des systèmes et du réseau;
+
+h) Kugenzura uburyo bukoresha ikoranabuhanga
+n’muyoboro;
+
+h) Systems, applications and network
+monitoring;
+
+h) Contrôle des systèmes et du réseau;
+
+i)
+
+Gutunganya
+uburyo
+bukoresha
+ikoranabuhanga no kunoza imikorere yabwo;
+
+i)
+
+Application development, acquisition
+and quality assurance;
+
+i)
+
+développement des systèmes et
+d’applications et assurance de qualité ;
+
+j)
+
+Umutekano w’ahantu hakorerwa no gukora
+amagenzura mu rwego rw’ibidukikije;
+
+j)
+
+Physical security and environmental
+controls;
+
+j)
+
+Sécurité physique et conditionnement
+de l’environnement ;
+
+k) Ibanga ry’amakuru yerekeye abakiriya;
+l)
+
+Imicungire y’ugurisha n’iy’utanga serivisi;
+
+and
+
+identity
+
+k) Customer data privacy ;
+l)
+
+vendor and third party service provider
+management;
+
+120
+
+a) Sécurité de l’information ;
+b) Gouvernance et classification des
+données ;
+c) Inventaire des biens et gestion des
+appareils
+d) Contrôles d’accès et gestion de
+l’identité ;
+
+k) La confidentialité des données des
+clients ;
+l) Gestion du vendeur et du tiers
+prestataire de services ;
+
+Official Gazette n° 6bis of 05/02/2018
+
+m) Isuzuma ry’ibyateza ingorane ; no
+
+m) Risk management ; and
+
+m) Evaluation des risques ; et
+
+n)
+
+n)
+
+n)
+
+Réponse aux incidents ;
+
+Sensibilition du personnel en matière
+de sybersécurité;
+
+Igisubizo ku bikorwa byo guhungabanya
+umutekano ;
+
+Incident management ;
+
+o) Ubukangurambaga ku bakozi ku bijyanye
+n’umutekano w’ibijyanye n’ikoranabuhanga
+mu itangazabumenyi n’itumanaho ;
+
+o) Awerness of staff with regard to
+sybersecurity ;
+
+o)
+
+p) Ibisabwa k’ubunyangamugayo bw’abakozi
+bakoresha amakuru n’imiyoboro ;
+
+p) Integrity requirements requirments of
+staff dealing with data, systems and
+networks ;
+
+p) Exigences relatives aux exigences
+d'intégrité du personnel traitant les
+données, les systèmes et les réseaux ;
+
+q) Ubugenzuzi bw’imiyoboro, bw’ahabikwa
+amakuru y’umukiliya n’uburyo agerwaho ;
+
+q) Controls to systems, physical locations
+containing customer information and
+tools to monitor access by authorized
+persons.
+
+q) Contrôles aux systèmes, emplacements
+physiques contenant des informations
+sur les clients et outils pour surveiller
+l'accès par des personnes autorisées
+
+Ingingo ya 7: Amasuzuma yo kugerageza kwinjira Article 7: Penetration
+no kureba intege nke
+Vulnerability Assessments
+Gahunda
+y’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi n’itumanaho
+ya buri banki igomba guteganya ibikorwa
+by’igenzura
+n’iby’igerageza;
+bigategurwa
+hashingiwe ku isuzuma ry’ibyateza ingorane rikozwe
+na banki, bigashyirwaho hagamijwe gukora isuzuma
+ry’ubushobozi
+bw’iyo
+gahunda.
+Ibikorwa
+by’igenzura n’igerageza bigizwe n’igenzura rihoraho
+cyangwa kugerageza kwinjira mu buryo bukoresha
+ikoranabuhanga n’amasuzuma ngarukagihe y’intege
+nke zabwo. Mu gihe hatariho igenzura rikwiye
+rihoraho cyangwa hatariho ubundi buryo bwo
+
+Testing
+
+and Article 7: Test d’intrusion et évaluations de
+vulnérabilité
+
+The cybersecurity program for each bank must
+include monitoring and testing, developed in
+accordance with the bank’s risk assessment,
+designed to assess the effectiveness of the bank’s
+cybersecurity program. The monitoring and
+testing must include continuous monitoring or
+periodic penetration testing and vulnerability
+assessments. Absent effective continuous
+monitoring, or other systems to detect, on an
+ongoing basis, changes in information systems
+that may create or indicate vulnerabilities,
+bank’s must conduct:
+
+121
+
+Le programme de cybersécurité de chaque
+banque doit comprendre les mécanismes de
+contrôle et des tests développés conformément à
+l’évaluation des risques de la banque et conçus
+pour évaluer l’efficacité du programme de
+cybersécurité de la banque. Le contrôle et les
+tests doivent inclure un contrôle continu ou des
+tests d’intrusion périodiques ainsi que des
+évaluations de vulnérabilité. En l’absence d’un
+contrôle efficace continu ou d’autres systèmes
+de détection continue des changements au sein
+des systèmes d’information qui pourraient créer
+
+Official Gazette n° 6bis of 05/02/2018
+
+gutahura ku buryo buhoraho impinduka mu buryo
+bukoresha ikoranabuhanga zishobora kubutera intege
+nke cyangwa kuzigaragariza ibimenyetso, amabanki
+agomba gukora ibi bikurikira:
+a) Kugerageza kwinjira mu buryo
+bukoresha ikoranabuhanga bwa banki
+bikorwa buri mwaka hashingiwe ku
+byateza ingorane byatahuwe mu
+isuzuma
+ry’ibyateza
+ingorane
+ryakozwe; na
+b) Amasuzuma y’ahari intege nke
+akorwa kabiri mu mwaka arimo
+ibikorwa
+byo
+kugenzura
+no
+gusubiramo neza uburyo bukoresha
+ikoranabuhanga
+biteguwe
+neza
+hagamijwe
+gutahura
+ibibazo
+byerekeranye n’intege nke mu rwego
+rw’umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi
+n’itumanaho
+zigaragara mu buryo bukoresha
+ikoranabuhanga bukoreshwa na banki
+zizwi na bose hashingiwe ku isuzuma
+ry’ibyateza ingorane ryakozwe.
+Ingingo ya 8: Inzira y’ubugenzuzi
+
+les vulnérabilités ou en donner des indications,
+les banques doivent mener :
+
+a) Annual penetration testing of the
+bank’s
+information
+systems
+determined each given year based
+on relevant identified risks in
+accordance
+with
+the
+risk
+assessment; and
+b) Bi-annual
+vulnerability
+assessments,
+including
+any
+systematic scans or reviews of
+information systems reasonably
+designed to identify publicly known
+cybersecurity vulnerabilities in the
+bank’s information systems based
+on the risk assessment.
+
+Article 8: Audit Trail
+
+a) des tests d’intrusion annuels des
+systèmes d’information de la banque
+déterminés chaque année en fonction
+des
+risques
+identifiés
+selon
+l’évaluation des risques ; et
+b) Des évaluations de vulnérabilité
+semi-annuelles,
+y compris des
+examens systématiques ou des
+révisions des systèmes d’information
+raisonnablement
+conçus
+pour
+identifier les vulnérabilités de
+cybersécurité connues du public dans
+les systèmes d’information de la
+banque sur base de l’évaluation des
+risques.
+
+Article 8: Piste d’audit
+
+Ishingiye ku isuzuma ry’ibyateza ingorane ryakozwe, Each bank must securely maintain systems that, Chaque banque doit maintenir en toute sécurité
+buri banki igomba kugira, mu gihe bishoboka, to the extent applicable and based on its risk des systèmes qui, dans la mesure du possible et
+uburyo butekanye:
+assessment:
+sur base de son évaluation des risques:
+
+122
+
+Official Gazette n° 6bis of 05/02/2018
+
+a) bukoze ku rwego bushobora kugarura
+ibikorwa by’imari kandi bufatika bihagije
+kugira ngo bushobore gushyigikira ibikorwa
+n’ishingano zisanzwe za banki; no
+
+a) are designed to reconstruct material
+financial transactions sufficient to
+support normal operations and
+obligations of the bank; and
+
+a) sont conçus de façon à reconstruire les
+transactions financières importantes
+suffisant pour supporter les opérations et
+obligations normales de la banque ; et
+
+b) Gushyiraho inzira z’igenzura zigomba
+gutahura no gutanga ibisubizo ku bikorwa
+bihungabanya y’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho bishobora guhungabanya igice
+kimwe gifatika cy’ibikorwa bisanzwe bya
+banki.
+
+b) include audit trails designed to detect
+and respond to cybersecurity incidents
+that have reasonable likelihood of
+materially harming any material part of
+the normal operations of the bank.
+
+b) incluent des pistes d’audit conçus pour
+détecter et répondre aux incidents de
+cybersécurité qui vraisemblablement
+peuvent porter atteinte sérieuse à une
+partie considérable des activités normales
+de la banque.
+
+Ingingo ya 9: Gucunga umutekano w’imirongo Article 9: Alternative Delivery Channels Article 9: Gestion de la sécurité des canaux de
+itwara amakuru isimbura iyindi
+(ADC) Security Management
+distribution alternatifs
+(9.1)
+
+Banki igomba kwita ku nzira zikurikizwa mu (9.1)
+kumenya umwirondoro w’umukiriya uko
+bikwiye (KYC)igihe yandika umukiriya muri
+serivisi z’imari zitangwa hakoreshejwe
+interineti cyangwa uburyo bwimuka, ikarinda
+uko bikwiye amakuru akwiye kwitonderwa
+cyane, ikarinda umutekano w’ibyimukanwa
+uko bikwiye kandi igaha amahugurwa
+abakoresha uburyo bw’ikoranabuhanga.
+
+The bank must ensure adequate Know (9.1)
+Your Customer (KYC) procedures
+during customer registration for online
+and Mobile Financial Services, adequate
+sensitive data protection, adequate
+mobile security protection and user
+training.
+
+La banque doit veiller à ce qu’il y ait des
+procédures
+adéquates
+de
+« Connaissance de son Client (KYC) »
+lors de l’inscription des clients pour les
+services financiers en ligne ou mobiles,
+une protection appropriée des données
+sensibles, une protection appropriée de
+la sécurité mobile et la formation des
+utilisateurs.
+
+(9.2)
+
+Ikoranabuhanga rya banki rigomba guhuzwe (9.2)
+r’iry’urwego ry’irangamuntu kugirango
+abeho uburyo bwo gutahura umukiriya.
+
+the core banking systems must be (9.2)
+intergeted with National Identification
+system for the customer identity
+verification mechanism.
+
+les systèmes bancaires de base doivent
+être intervertis avec le système national
+d'identification pour le mécanisme de
+vérification de l'identité du client.
+
+123
+
+Official Gazette n° 6bis of 05/02/2018
+
+(9.3)
+
+Banki
+igomba
+gukoresha
+uburyo (9.3)
+bw’umutekano butuma umuntu uwo ari we
+wese atemererwa kugera ku makuru akwiye
+kwitonderwa cyane yaba abitswe cyangwa
+ari mu nzira ahererekanywa nk’uko
+biteganywa n’aya mabwiriza.
+
+Ingingo ya 10 : Isuzuma ry’ibibazo bishobora
+kuvuka
+
+The bank shall employ security (9.3)
+mechanisms that prevent unauthorized
+access to sensitive data at rest or in
+transit as contained in this regulation.
+
+Article 10 : Risk Management
+
+La banque doit employer des
+mécanismes de sécurité qui préviennent
+un accès non autorisé aux données
+sensibles en repos ou en transit tels que
+prévus dans le présent règlement.
+
+Article 10 : Evaluation des risques
+
+(10.1) Buri banki igomba gukora isuzuma 10.1)
+ngarukagihe rihagije ry’ibyateza ingorane mu
+rwego rw’uburyo bukoresha ikoranabuhanga
+kugira ngo habashe gutunganywa gahunda
+y’umutekano w’ibijyanye n’ikoranabuhanga
+mu itangazabumenyi n’itumanaho nk’uko
+biteganywa n’aya mabwiriza. Bene iryo
+suzuma ry’ibyateza ingorane rigomba
+kugenda rihuzwa n’igihe uko bishoboka kose
+mu rwego rwo gukemura ibibazo bijyanye
+n’impinduka
+zibonetse
+mu
+buryo
+bukoreshwa
+na
+banki
+bukoresha
+ikoranabuhanga, mu makuru atari rusange
+kimwe no mu bikorwa by’ubucuruzi byayo.
+
+Each bank shall conduct a periodic risk (10.1) Chaque banque doit mener une
+assessment of the bank’s information
+évaluation périodique
+des risques
+systems sufficient to inform the design
+auxquels ses systèmes d’information
+of the cybersecurity program as required
+font face suffisante pour informer la
+by this regulation. Such risk assessment
+conception
+du
+programme
+de
+shall be updated as reasonably
+cybersécurité tel que requis par le
+necessary to address changes to the
+présent règlement. Cette évaluation des
+bank’s information systems, non public
+risques doit être mise à jour aussi
+information or business operations.
+raisonnablement que nécessaire en vue
+de répondre aux changements des
+systèmes d’information de la banque,
+des informations non publiques ou des
+opérations commerciales.
+
+(10.2) Isuzuma ry’ibyateza ingorane banki rigomba 10.2)
+guteganya ivugururwa ry’amagenzura kugira
+ngo uburyo bukoreshwa bubashe kujyana
+n’iterambere ry’ikoranabuhanga kimwe no
+gukemura ibibazo biba byugarije uburyo
+bukoresha ikoranabuhanga kandi rigomba
+kwita ku byateza ingorane byihariye mu
+bikorwa bya banki bifite aho bihuriye
+
+The bank’s risk assessment must allow (10.2) L’évaluation des risques de la banque
+for revision of controls to respond to
+doit prévoir des possibilités de révision
+technological
+developments
+and
+des contrôles en vue de répondre aux
+evolving threats and shall consider the
+développements technologiques et aux
+particular risks of the bank’s business
+menaces évolutives et doit considérer
+operations related to cybersecurity, non
+les risques particuliers des opérations
+public information collected or stored,
+commerciales de la banque relatifs à la
+information systems utilized and the
+cybersécurité, aux informations non
+
+124
+
+Official Gazette n° 6bis of 05/02/2018
+
+y’umutekano w’ibijyanye n’ikoranabuhanga
+mu itangazabumenyi n’itumanaho, amakuru
+atari rusange yakusanyijwe cyangwa abitswe,
+uburyo
+bukoresha
+ikoranabuhanga
+bukoreshwa cyangwa no kuba uburyo bwo
+kugenzura buboneka kandi bukora neza mu
+rwego rwo kurinda amakuru atari rusange
+cyangwa uburyo bukoresha ikoranabuhanga.
+(10.3) Isuzuma ry’ibyateza ingorane rikorwa 10.3)
+hakurikijwe politiki n’inzira zikurikizwa
+zanditswe kandi ibirivuyemo bikandikwa.
+Izo politiki n’izo nzira zikurikizwa ziba
+zikubiyemo:
+a) ibigenderwaho mu gusuzuma no
+gushyira mu byiciro ibyateza
+ingorane mu rwego rw’umutekano
+w’ibijyanye n’ikoranabuhanga mu
+itangazabumenyi
+n’itumanaho
+byabonetse
+cyangwa
+ibibazo
+byugarije banki muri urwo rwego;
+b) ibigenderwaho mu gusuzuma ibanga,
+ubudakemwa, umutekano n’iboneka
+ry’uburyo bukoresha ikoranabuhanga
+bukoreshwa na banki kimwe
+n’amakuru atari rusange harimo no
+kuba uburyo bwo kugenzura bukwiye
+hakurikijwe
+ibyateza
+ingorane
+byagaragaye; no
+
+availability and effectiveness of controls
+to protect nonpublic information and
+information systems.
+
+publiques collectées ou stockées, aux
+systèmes d’information utilisés et à la
+disponibilité et l’efficacité des contrôles
+en vue de la protection des informations
+non publiques et des systèmes
+d’information.
+
+The risk assessment must be carried out (10.3) L’évaluation des risques doit être menée
+conformément aux politiques et
+in accordance with written policies and
+procédures écrites et doit être
+procedures and shall be documented.
+documentée. De telles politiques et
+Such policies and procedures shall
+procédures doivent comprendre:
+include:
+a) Criteria for the evaluation and
+categorization of identified
+cybersecurity risks or threats
+facing the bank;
+
+a) les critères d’évaluation et de
+catégorisation des risques de
+cybersécurité identifiés ou de
+menaces auxquelles la banque
+est confrontée;
+
+b) Criteria for the assessment of
+the confidentiality, integrity,
+security and availability of the
+bank’s/FI information systems
+and nonpublic information,
+including the adequacy of
+existing controls in the context
+of identified risks; and
+
+b) les critères d’évaluation de la
+confidentialité, de l’intégrité, de
+la sécurité et de la disponibilité
+des systèmes d’information de
+la banque et des informations
+non publiques comprenant
+l’adéquation des contrôles
+existants dans le contexte des
+risques identifiés ; et
+
+125
+
+Official Gazette n° 6bis of 05/02/2018
+
+c) ibisabwa
+bigaragaza
+uburyo
+ubukana bw’ ibyateza ingorane
+byagaragaye
+bushobora
+kugabanywa cyangwa kwakirwa
+hashingiwe ku isuzuma ry’ ibyateza
+ingorane
+ryakozwe
+n’uburyo
+gahunda y’umutekano w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi
+n’itumanaho
+izabasha gukemura izo ngorane.
+Ingingo ya 11: Undi muntu utanga serivisi
+
+c) Acceptance criteria describing
+how identified risks will be
+treated or accepted based on
+the risk assessment and how the
+cybersecurity program will
+address the risks.
+
+Article 11: Third Party Service Provider
+
+c) les exigences qui décrivent
+comment les risques identifiés
+seront mitigés ou acceptés
+compte tenu de l’évaluation des
+risques et la façon dont le
+programme de cybersécurité
+traitera ces risques.
+
+Article 11: Tiers prestataire de services
+
+(11.1) Banki igomba gushyira mu bikorwa politiki (11.1) The bank must implement written (11.1) La banque doit mettre en exécution des
+n’inzira zikurikizwa zanditswe hagamijwe
+policies and procedures designed to
+politiques et des procédures écrites
+kubungabunga
+umutekano
+w’uburyo
+ensure the security of information
+conçues pour assurer la sécurité des
+bukoresha ikoranabuhanga n’amakuru atari
+systems and nonpublic information that
+systèmes
+d’information
+et
+des
+rusange ashobora kugerwaho cyangwa
+are accessible to, or held by, third party
+informations non publiques qui sont
+abitswe n’abandi batanga serivisi. Izo politiki
+service providers. Such policies and
+accessibles aux tiers prestataires de
+n’izo nzira zikurikizwa zigomba gushingira
+procedures shall be based on the risk
+services ou détenues par eux. De telles
+ku isuzuma ry’ibyateza ingorane ryakozwe
+assessment of the bank and shall address
+politiques et procédures doivent être
+na banki kandi, aho bishoboka hose, zigomba
+to the extent applicable:
+basées sur l’évaluation des risques de la
+kugira icyo ziteganya kuri ibi bikurikira:
+banque et doivent porter, dans la mesure
+du possible, sur :
+a) Itahurwa n’isuzuma ry’ibyateza ingorane
+byerekeranye n’abandi bantu batanga
+serivisi;
+
+a) the
+identification
+and
+risk
+assessment of third party service
+providers;
+
+a) l’identification et l’évaluation des
+risques des tiers prestataires de
+services ;
+
+b) Imigenzereze y’ibanza ishoboka yo mu
+rwego rw’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+
+b) minimum cybersecurity practices
+required to be met by such third
+
+b) le minimum de pratiques de
+cybersécurité exigées aux tiers
+prestataires de service pour faire
+des affaires avec la banque;
+
+126
+
+Official Gazette n° 6bis of 05/02/2018
+
+n’itumanaho isabwa kuba yujujwe
+n’abandi bantu batanga serivisi kugira
+ngo babashe gukorana na banki muri
+urwo rwego;
+
+party service providers in order for
+them to do business with the bank;
+
+c) Inzira zo kugenzura mu bushishozi
+zikoreshwa
+mu
+gusuzuma
+niba
+imigenzereze y’abo bantu bandi batanga
+serivisi mu rwego rw’umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho ikwiye;
+
+c) due diligence processes used to
+evaluate
+the
+adequacy
+of
+cybersecurity practices of such third
+party service providers; and
+
+c) les
+processus
+de
+diligence
+raisonnable utilisés pour évaluer
+l’efficacité des pratiques de
+cybersécurité
+de
+ces
+tiers
+prestataires de service ; et
+
+d) Gukorera isuzuma ngarukagihe abo
+bandi batanga serivisi hashingiwe ku
+ngorane bigaragara ko bashobora guteza
+no ku kuba imigenzereze yabo mu rwego
+rw’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho ihora ikwiye.
+
+d) periodic assessment of such third
+party service providers based on the
+risk they present and the continued
+adequacy of their cybersecurity
+practices.
+
+d) l’évaluation périodique de ces tiers
+prestataires de services sur base des
+risques qu’ils présentent et
+l’efficacité continue de leurs
+pratiques de cybersécurité.
+
+(11.2) Izo politiki n’inzira zikurikizwa zigomba
+kuba zikubiyemo imirongo ngenderwaho yo
+kumenya imyifatire ndetse no kurinda
+amasezerano yerekeranye n’abandi batanga
+serivisi harimo uko bishoboka kose
+imirongo ngenderwaho mu gusuzuma:
+
+a)
+
+politiki n’inzira zikurikizwa n’undi muntu
+utanga serivisi mu kugenzura uburyo bwo
+kugera ku makuru harimo imikoreshereze
+y’uburyo bwo gusuzuma umwirondoro
+
+(11.2) Such policies and procedures must (11.2) De telles politiques et procédures
+include relevant guidelines for due
+doivent comprendre les principes
+diligence and/or contractual protections
+directeurs appropriés d’identification
+relating to third party service providers
+et/ou les protections contractuelles en
+including to the extent applicable
+rapport avec les tiers prestataires de
+guidelines addressing:
+services y compris, dans la mesure du
+possible, des principes directeurs qui
+traitent :
+a) the third party service provider’s
+policies and procedures for access
+controls, including its use of multifactor authentication as required by
+
+127
+
+a) les politiques et les procédures de
+contrôles d’accès du tiers prestataire
+de services y compris son utilisation
+d’authentification multi- factorielle
+
+Official Gazette n° 6bis of 05/02/2018
+
+hagendewe ku bintu byinshi nk’uko
+biteganywa mu ngingo ya 12 y’aya
+mabwiriza,
+hagamije
+kugabanya
+abashobora kugera ku buryo bukoresha
+ikoranabuhanga bukoreshwa kimwe no ku
+makuru atari rusange;
+
+Article 12 of this Regulation, to
+limit access to relevant Information
+systems
+and
+non-public
+information;
+
+conformément à l’article 12 du
+présent Règlement en vue de limiter
+l’accès aux systèmes d’information et
+aux informations non publiques
+concernés ;
+
+b)
+
+politiki n’inzira zikurikizwa n’undi muntu
+utanga serivisi mu gukoresha uburyo
+bw’ibanga nk’uko bisabwa mu ngingo ya
+12 y’aya mabwiriza hagamijwe kurinda
+amakuru atari rusange ari mu nzira
+ahererekanywa cyangwa abitswe;
+
+b) the third party service provider’s
+policies and procedures for use of
+encryption as required by Article 12
+of this Regulation to protect nonpublic information in transit and at
+rest;
+
+b) les politiques et les procédures du
+tiers prestataire de services pour
+l’utilisation
+du
+chiffrement
+conformément à l’Article 12 du
+présent Règlement en vue de protéger
+des informations non publiques en
+transit ou en repos ;
+
+c)
+
+Imenyesha rigomba gukorerwa banki mu
+gihe habayeho ikibazo cy’umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho gifite
+ingaruka zitaziguye ku buryo bukoresha
+ikoranabuhanga bwa banki cyangwa ku
+makuru yayo atari rusange abitswe n’undi
+muntu utanga serivisi; na
+
+c) notice to be provided to the bank in
+the event of a cybersecurity incident
+directly impacting the bank’s/FI
+information systems or the bank’s
+non-public information being held
+by the third party service provider;
+and
+
+c) une notification à donner à la banque
+en cas d’incident de cybersécurité qui
+a un impact direct sur les systèmes
+d’information de la banque ou sur des
+informations non publiques de la
+banque détenues par le tiers
+prestataire de services ; et
+
+d)
+
+amamenyekanisha n’
+ubwiyemeze
+bitangwa kuri politiki n’inzira zikurikizwa
+n’undi muntu utanga serivisi mu rwego
+rw’umutekano
+w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi
+n’itumanaho
+ku
+byerekeranye
+n’umutekano
+w’uburyo
+bukoresha
+ikoranabuhanga bukoreshwa na banki
+cyangwa uw’amakuru yayo atari rusange.
+
+d) representations and warranties
+addressing the third party service
+provider’s cybersecurity policies
+and procedures that relate to the
+security
+of
+the
+bank’s/FI
+information systems or non-public
+information.
+
+d) les déclarations et
+garanties
+concernant les politiques et les
+procédures de cybersécurité du tiers
+prestataire de services ayant trait à la
+sécurité des systèmes d’information
+ou aux informations non publiques de
+la banque.
+
+128
+
+Official Gazette n° 6bis of 05/02/2018
+
+Ingingo ya 12: Gusuzuma
+hakoreshejwe ibintu byinshi
+
+umwirondoro Article 12: Multi-Factor Authentication
+
+Article 12: Authentification multi-factorielle
+
+(12.1) Ishingiye ku isuzuma ry’ibyayiteza ingorane (12.1) Based on its risk assessment, each bank (12.1) Sur base de son évaluation des risques,
+yakoze, buri banki igomba gukoresha
+shall use effective controls, which may
+chaque banque doit utiliser des outils de
+amagenzura
+akwiye
+ashobora
+kuba
+include multi-factor authentication or
+contrôle
+efficaces
+qui
+peuvent
+akubiyemo
+gusuzuma
+umwirondoro
+risk-based authentication, to protect
+comprendre une authentification multi –
+w’abantu hakoreshejwe ibintu byinshi
+against
+unauthorized
+access
+to
+factorielle ou une authentification basée
+bibaranga cyangwa gusuzuma umwirondoro
+nonpublic information or information
+sur des risques en vue de se protéger
+w’abantu hashingiwe ku byateza ingorane
+systems.
+contre l’accès non autorisé aux
+hagamijwe kubakumira kugera ku makuru
+informations
+non publiques ou
+atari rusange cyangwa k’uburyo bukoresha
+systèmes d’information.
+ikoranabuhanga banki ikoresha.
+(12.2) Gusuzuma
+umwirondoro
+w’umuntu (12.2) Multi-factor authentication shall be (12.2) L’authentification multifactorielle doit
+hakoreshejwe ibintu byinshi bimuranga
+utilized for any individual accessing the
+être utilisée pour toute personne qui
+bigomba gukorwa ku muntu uwo ari we wese
+bank’s internal networks from an
+accède aux réseaux internes de la
+winjira mu miyoboro ya banki y’imbere
+external network, unless the bank’s head
+banque à partir d’un réseau externe, à
+anyuze mu miyoboro yo hanze cyeretse gusa
+of ISU has approved in writing the use
+moins que le chargé de ISU de la banque
+iyo ukuriye ISU yemeye mu nyandiko
+of reasonably equivalent or more secure
+n’ait approuvé par écrit l’utilisation des
+ikoreshwa ry’ubundi buryo bumeze nk’ubwo
+access controls.
+outils
+de
+contrôle
+d’accès
+cyangwa ubundi buryo bw’igenzura bufite
+raisonnablement équivalents ou plus
+umutekano kurusha ubwongubwo.
+sécurisés.
+Ingingo ya 13: Igabanywa ry’amakuru agomba Article 13: Limitations on Data Retention
+kubikwa
+
+Article 13: Limitations sur la rétention des
+données
+
+Mu rwego rwa gahunda y’umutekano w’ibijyanye
+n’ikoranabuhanga mu itangazabumenyi n’itumanaho,
+buri banki igomba gushyiraho politiki n’inzira
+zikurikizwa mu gushyingura mu buryo bwizewe
+kandi mu buryo buhoraho amakuru yose atari
+rusange, cyeretse gusa iyo ayo makuru agomba
+
+Dans le cadre de son programme de
+cybersécurité, chaque banque doit inclure des
+politiques et des procédures de disposition
+sécurisée, de façon périodique, de toute
+information non publique, sauf là où ces
+informations doivent être conservées en vertu
+de la loi ou d’un règlement.
+
+As part of its cybersecurity program, each bank
+must have a data retention policy for the secure
+keeping and disposal on a periodic basis of any
+nonpublic information identified as per their
+Risk assessment, except where such information
+is otherwise required to be retained by law or
+regulation.
+
+129
+
+Official Gazette n° 6bis of 05/02/2018
+
+kubikwa hakurikijwe ibisabwa n’itegeko cyangwa
+amabwiriza.
+Ingingo ya 14: Amahugurwa n’igenzurwa Article 14: User Training and Monitoring
+ry’ukoresha uburyo bukoresha ikoranabuhanga
+
+Article 14:
+l’utilisateur
+
+Formation
+
+et
+
+contrôle
+
+de
+
+(14.1) Mu rwego rwa gahunda yayo y’umutekano (14.1) As part of its cybersecurity program, (14.1) Dans le cadre de son programme de
+w’ibijyanye
+n’ikoranabuhanga
+mu
+each bank must:
+cybersécurité, chaque banque doit :
+itangazabumenyi n’itumanaho, buri banki
+igomba:
+a) gushyira mu bikorwa politiki, inzira
+zikurikizwa n’amagenzura ashingiye ku
+byateza ingorane hagamijwe kugenzura
+ibikorwa by’abakoresha uburyo bukoresha
+ikoranabuhanga babyemerewe no gutahura
+abagera cyangwa abakoresha ubu buryo
+batabyemerewe ;
+
+a) design a consistent and updated security
+awareness program in line with
+institution’s risk assessment, strategy
+and current cybersecurity threats and
+trends ;
+
+a) mettre en œuvre des politiques, des
+procédures et des contrôles basés sur des
+risques conçus pour contrôler les
+activités des utilisateurs autorisés et
+pour détecter l’accès ou l’utilisation non
+autorisés ;
+
+b) Guha buri gihe abakozi bose amahugurwa
+ajyanye n’igihe agaragaza ibyateza ingorane
+byagaragajwe mu isuzuma ry’ibyateza
+ingoraneryakozwe na banki
+kugira ngo
+babashe kugira imyumvire ikwiye ku
+umutekano w’ibijyanye n’ikoranabuhanga mu
+itangazabumenyi n’itumanaho ;
+
+b) provide regular cybersecurity awareness
+training for all personnel that interacts
+with institution’s information system
+including but not limited to staff,
+interns, third party ;
+
+b) donner à tout le personnel une formation
+régulière de prise de conscience sur la
+cybersécurité qui est à jour pour refléter
+les risques identifiés par la banque dans
+son évaluation des risques ;
+
+c) Kugenzura akamaro k’amahugurwa biciye mu
+bibazo n’igeerageza ;
+
+c) evaluate the effectiveness of the
+awareness training through regular
+quizes and test simulations.
+
+c) évaluer l'efficacité de la sensibilisation
+au moyen de tests réguliers et de test de
+simulations.
+
+130
+
+Official Gazette n° 6bis of 05/02/2018
+
+Ingingo ya 15: Kurinda amakuru atari rusange
+
+Article 15:
+Information
+
+Encryption
+
+of
+
+Non-public Article 15: Cryptage des informations non
+publiques
+
+(15.1) Nka kimwe mu bigize gahunda yayo (15.1) As part of its cybersecurity program, (15.1) Dans le cadre de son programme de
+y’umutekano w’ibijyanye n’ikoranabuhanga
+based on its risk assessment, each bank
+cybersécurité et sur base de son
+mu itangazabumenyi n’itumanaho kandi
+shall implement controls, including
+évaluation des risques, chaque banque
+ishingiye ku isuzuma ry’ ibyateza ingorane,
+encryption, to protect nonpublic
+doit mettre en œuvre des contrôles, y
+buri banki igomba gushyira mu bikorwa
+information held or transmitted by the
+compris le cryptage, pour protéger des
+uburyo bwo kugenzura burimo gusobeka
+bank both in transit over external
+informations non publiques gardées ou
+hagamijwe kurinda amakuru atari rusange
+networks and at rest.
+transmises par la banque qu’elles soient
+abitswe cyangwa yoherejwe na banki yaba ari
+en transit sur des réseaux externes ou au
+mu nzira mu miyoboro yo hanze cyangwa
+repos.
+abitswe.
+(15.2) Mu gihe cyose banki isanze bidashoboka (15.2) To the extent a bank determines that (15.2) Dans la mesure où la banque estime que
+gusobeka makuru atari rusange ari mu nzira
+encryption of nonpublic information in
+le cryptage des informations non
+mu miyoboro yo hanze, ishobora kurinda
+transit over external networks is
+publiques en transit sur des réseaux
+bene ayo makuru yifashishije amagenzura
+infeasible, the bank may instead secure
+externes n’est pas faisable, celle ci peut
+asimbura ubwo buryo akora neza
+such nonpublic information using
+par contre sécuriser de telles
+yasubiwemo kandi yemewe n’ukuriye ISU
+effective alternative compensating
+informations non publiques en utilisant
+wa banki.
+controls reviewed and approved by the
+des contrôles compensatoires efficaces
+bank’s head of ISU.
+examinés et approuvés par le chargé de
+ISU de la banque.
+(15.3) Mu gihe cyose banki isanze bidashoboka (15.3) To the extent a bank determines that (15.3) Dans la mesure où la banque estime que
+gusobeka amakuru atari rusange abitswe,
+encryption of Nonpublic Information at
+le cryptage des informations non
+ishobora kurinda bene ayo makuru
+rest is infeasible, the bank may instead
+publiques en repos n’est pas faisable,
+yifashishije amagenzura asimbura ubwo
+secure such Nonpublic Information
+celle ci peut par contre sécuriser de
+buryo akora neza yasubiwemo kandi yemewe
+using effective alternative compensating
+telles informations non publiques en
+n’ukuriye ISU wa banki.
+controls reviewed and approved by the
+utilisant des contrôles compensatoires
+bank’s head of ISU.
+efficaces examinés et approuvés par le
+chargé de ISU la banque.
+
+131
+
+Official Gazette n° 6bis of 05/02/2018
+
+(15.4) Mu gihe cyose banki ikoresha amagenzura (15.4) To the extent that a bank is utilizing (15.4) Dans la mesure où une banque est en
+asimbura uburyo bw’ibanga nk’uko
+compensating controls as mentioned
+train
+d’utiliser
+des
+contrôles
+byavuzwe haruguru, ISU agomba kongera
+above, the feasibility of encryption and
+compensatoires tels que mentionnés cigusuzuma niba irindamakuru rikoresha
+effectiveness of the compensating
+haut, le ISU doit passer en revue au
+isobeka
+rishoboka
+n’imikorere
+controls shall be reviewed by ISU at
+moins une fois par an la faisabilité du
+y’amagenzura arisimbura nibura buri mwaka
+least annually.
+cryptage et l’efficacité des contrôles
+.
+compensatoires.
+Ingingo ya 16 Gahunda yo gukemura ibibazo Article 16 Incident Response and business Article 16 Plan d’intervention en cas
+bivutse
+continuity management
+d’incident
+(16.1) Mu rwego rwa gahunda yayo y’umutekano (16.1) As part of its cybersecurity program, (16.1) Dans le cadre de son programme de
+w’ibijyanye
+n’ikoranabuhanga
+mu
+each bank shall establish a written
+cybersécurité, chaque banque doit
+itangazabumenyi n’itumanaho, buri banki
+incident response and business
+élaborer un plan écrit d’intervention en
+igomba gushyiraho gahunda yo gukemura
+continuity management plan designed to
+cas d’incident conçu pour réagir et sortir
+ibibazo bivutse yanditse igamije gukemura
+promptly respond to, and recover from,
+ponctuellement d’un incident de
+ibyo bibazo ako kanya no kuyikura mu
+any cybersecurity incident materially
+cybersécurité qui affecte matériellement
+kibazo icyo aricyo cyose cyerekeranye
+affecting the confidentiality, integrity or
+la confidentialité, l’intégrité ou la
+n’umutekano w’ibijyanye n’ikoranabuhanga
+availability of the bank’s information
+disponibilité
+des
+systèmes
+mu
+itangazabumenyi
+n’itumanaho
+systems or the continuing functionality
+d’information de la banque ou la
+kibangamira ibanga , ubudakemwa cyangwa
+of any aspect of the bank’s business or
+fonctionnalité continue d’un aspect
+ukuboneka
+k’uburyo
+bukoresha
+operations.
+quelconque de ses activités ou de ses
+ikoranabuhanga bukoreshwa na banki
+opérations.
+cyangwa imikorere ihoraho y’ubwoko ubwo
+ari bwo bwose bw’ubucuruzi cyangwa
+bw’ibikorwa bya banki.
+(16.2) Iyo gahunda yo gukemura ibibazo bivutse (16.2) Such incident response and business (16.2) Ce plan d’intervention en cas d’incident
+igomba kwita kuri ibi bintu bikurikira:
+continuity management plan shall
+doit porter sur les aspects repris ciaddress the following areas:
+après:
+
+132
+
+Official Gazette n° 6bis of 05/02/2018
+
+a) Inzira zikurikizwa muri banki imbere
+zo gukemura ikibazo cyerekeranye
+n’igikorwa gihungabanya umutekano
+w’ibijyanye n’ikoranabuhanga mu
+itangazabumenyi n’itumanaho ;
+
+a) the
+internal
+processes
+for
+responding
+to
+cybersecurity
+incident and disasters;
+
+a) les processus internes de réponse à
+un incident de cybersécurité;
+
+b) Intego za gahunda yo gukemura
+ibibazo bivutse;
+
+b) the goals of the incident response
+and business continuity plans;
+
+b) les objectifs du plan d’intervention
+en cas d’incidents;
+
+c) Gusobanura mu buryo bwumvikana
+uruhare,
+inshingano
+n’inzego
+z’ubuyobozi zifatirwamo ibyemezo;
+
+c) the definition of clear roles,
+responsibilities and levels of
+decision-making authority;
+
+c) la définition claire
+des rôles,
+responsabilités
+et
+niveaux
+d’autorité de prise de décision;
+
+d) Itumanaho no guhanana amakuru
+imbere muri banki no hanze yayo ;
+
+d) external
+and
+internal
+communications and information
+sharing;
+
+d) communications
+et
+échange
+d’information externes et internes;
+
+e) Kumenya ibikenewe mu rwego rwo
+kongera ingufu ahagaragaye intege
+nke mu buryo bwo guhanahana
+amakuru bukoreshwa n’ubugenzuzi
+bijyana;
+
+e) identification of requirements for
+the remediation of any identified
+weaknesses in information systems
+and associated controls;
+
+e) Identification des besoins pour
+remédier à toutes les faiblesses
+identifiées dans les systèmes
+d’information ainsi que les
+contrôles associés ;
+
+f) Gukora inyandiko na raporo ku
+bikorwa bihungabanya umutekano
+w’ibijyanye n’ikoranabuhanga mu
+itangazabumenyi n’itumanaho no ku
+bikorwa byerekeranye no gukemura
+ibibazo byavutse; no
+
+f) documentation
+and
+reporting
+regarding cybersecurity events and
+related incident response activities;
+and
+
+f) la documentation et production de
+rapports concernant les événements
+de cybersécurité ainsi que les
+activités connexes d’intervention en
+cas d’incident ; et
+
+g) Gusuzuma no gusubiramo gahunda
+yo gukemura ibibazo bivutse uko
+bibaye
+ngombwa
+hakurukijwe
+
+g) the evaluation and revision as
+necessary of the incident response
+
+g) l’évaluation et la révision au tant que
+nécessaire du plan d’intervention
+
+133
+
+Official Gazette n° 6bis of 05/02/2018
+
+igikorwa gihungabanya y’umutekano
+w’ibijyanye n’ikoranabuhanga mu
+itangazabumenyi
+n’itumanaho
+cyabaye.
+
+and business continuity
+plans
+following a cybersecurity event.
+
+Ingingo ya 17 Imenyesha rikorerwa Banki Nkuru Article 17 Notices to the Central Bank
+(17.1)
+
+en cas d’incident à la suite d’un
+événement de cybersécurité.
+
+Article 17 Notifications à la Banque Centrale
+
+Banki igomba kumenyesha Banki Nkuru ako (17.1) The bank must notify Central Bank as (17.1) La banque doit notifier à la Banque
+kanya uko bishoboka mu gihe kitarenze
+promptly as possible within a period not
+Centrale aussi rapidement que possible
+amasaha abiri (2) uhereye igihe icyo gikorwa
+exceeding two (2) hours from the
+endéans une période ne dépassant pas
+cyibereyeho cyangwa igihe hamenyekanye
+occurrence of the incident or from a
+deux (2) heures à compter de la
+ko habayeho igikorwa gihungabanya
+determination that a cybersecurity
+survenance de l’incident ou de la
+umutekano w’ibijyanye n’ikoranabuhanga
+incident has occurred that is either of the
+constatation qu’il s’est produit un
+mu itangazabumenyi n’itumanaho gishobora
+following:
+incident de cybersécurité qui peut
+kuba kiri muri bumwe muri ubu bwoko
+revêtir l’un des aspects suivants :
+bukurikira:
+a) Igikorwa gihungabanya umutekano
+w’ibijyanye n’ikoranabuhanga mu
+itangazabumenyi
+n’itumanaho
+gishobora kubuza ishami runaka rya
+banki gukomeza ibikorwa byaryo
+bisanzwe byo guha serivisi z’imari
+abakiriya baryo, cyangwa
+
+a) cybersecurity incident that may
+prevent a specific bank branch from
+continuing its normal operations for
+customer-facing transactions, and
+
+a) un incident de cybersécurité qui
+peut empêcher une succursale
+bancaire donnée de continuer ses
+activités normales dans le cadre des
+opérations avec les clients, et
+
+b) Ibikorwa
+bihungabanya
+y’umutekano
+w’ibijyanye
+n’ikoranabuhanga
+mu
+itangazabumenyi n’itumanaho uko
+bigaragara bishobora guhungabanya
+kuburyo bugaragara igice gifatika
+cy’ibikorwa bisanzwe bya banki.
+
+b) cybersecurity events that have a
+reasonable likelihood of materially
+harming any material part of the
+normal operation(s) of the bank.
+
+b) des événements de cybersécurité qui
+peuvent vraisemblablement porter
+atteinte
+sérieuse à une partie
+importante des activités normales de
+la banque.
+
+134
+
+Official Gazette n° 6bis of 05/02/2018
+
+(17.2) Banki igomba gushyikiriza Banki Nkuru (17.2) The Bank must submit to the Central (17.2) La Banque doit soumettre à la Banque
+raporo yuzuye y’igikorwa gihungabanya
+Bank the full incident report within 24
+Centrale le rapport d'incident complet
+umutekano mu gihe cy’amasaha 24 kuva
+hours from the occurrence of the
+dans les 24 heures suivant la survenance
+igikorwa kibaye.
+incident.
+de l'incident.
+(17.3) Banki igomba gushyikiriza Banki Nkuru (17.3) The bank shall submit to the Central (17.3) La banque doit transmettre annuellent à
+inyandiko nk’uko igaragara ku mugereka
+Bank on annual basis a written
+la Banque Central une déclaration écrite
+yemeza ko gahunda ya banki y’umutekano
+statement as per the appendix certifying
+certifiant que le programme de
+w’ibijyanye
+n’ikoranabuhanga
+mu
+that the bank cyber securtiy program is
+cybersecurité
+se conforme aux
+itangazabumenyi n’itumanaho yubahiriza
+in compliance with the requirements set
+exigences du présent Règlement. Cette
+ibyo isabwa n’aya mabwiriza. Iyo nyandiko
+forth in this Regulation. The statement
+declaration doit etre tramsmit au plus
+igomba gushyikirizwa Banki Nkuru mu gihe
+shall be submitted not later than 15th
+tard le 15 janvier de chaque année
+kitarenze itariki ya 15 Mutarama buri
+January of each year.
+mawaka.
+Ingingo ya 18 Ibyerekeranye n’ibanga
+
+Article 18 Confidentiality
+
+Article 18 Confidentialité
+
+Amakuru atangwa na banki hakurikijwe aya
+mabwiriza ntarebwa n’ingingo z’itangaza ry’amakuru
+z’Itegeko
+rigena
+imitunganyirize
+y’imirimo
+y’amabanki cyangwa irindi tegeko bijyanye.
+
+Information provided by a bank pursuant to this
+Regulation is subject to exemptions from
+disclosure under the Banking Law or any other
+applicable law.
+
+Les informations fournies par une banque
+conformément au présent Règlement sont
+sujettes à des dispenses de divulgation
+conformément à la Loi portant organisation de
+l’activité bancaire ou à toute autre loi applicable.
+
+UMUTWE WA III: INGINGO ZINYURANYE CHAPTER III: MISCELLANEOUS AND CHAPITRE
+III:
+DISPOSITIONS
+N’IZISOZA
+FINAL PROVISIONS
+DIVERSES ET FINALES
+Ingingo ya 19 Ibihano n’ibyemezo byo mu rwego Article 19 Penalties and administrative Article
+19
+Pénalités
+rw’ubutegetsi
+sanctions
+administratives
+Iyo banki itabashije kubahiriza ibisabwa muri aya Where the bank fails to satisfy any of the
+mabwiriza, Banki Nkuru ishobora kuyifatira ibihano requirements of this Regulation, the Central
+biteganywa n’Itegeko rigena imitunganyirize Bank may apply any sanctions available under
+relevant provisions of the Law concerning
+
+135
+
+et
+
+sanctions
+
+Lorsqu’ une banque ne parvient pas à répondre
+aux exigences du présent Règlement, la Banque
+Centrale peut appliquer toute sanction prévue
+par les dispositions applicables de la Loi portant
+
+Official Gazette n° 6bis of 05/02/2018
+
+y’imirimo y’amabanki cyangwa
+z’amabwiriza akurikizwa.
+
+mu
+
+ngingo organization of banking and/or provisions of a organisation de l’activité bancaire et/ou les
+relevant regulation.
+dispositions d’un règlement applicable.
+
+Ingingo ya 20 : Igihe ntarengwa cyo kubahiriza Article 20 : Deadline for conforming to Article 20 : Délai de conformité aux certain
+zimwe mu ngingo z’ aya mabwiriza
+certain provisions of this regulation
+dispositions du présent règlement
+Amabanki ahawe igihe kitarenze amezi icumi
+n’umunane (18) uhereye igihe iri tegeko ritangarijwe
+mu Igazeti ya Leta ya Repubulika y’u Rwanda kugira
+ngo abe yahuje imikorere yayo n’ibiteganywa mu
+ngingo ya 3 y’aya mabwiriza.
+
+Banks shall have eighteen (18) months as from
+the entry into force of this regulation to conform
+their functioning with the provisions of article 3
+of this regulation.
+
+Les banques disposent d'un delai de dix huit (18)
+mois pour se conformer aux exigences de
+l'article 3 de present règlement, suivant la date la
+date d’entrée en vigueur du présent reglement.
+
+Amabanki ahawe igihe cy’amazi atandatu (6)
+kugirango zubahiruze ibikubiye muri ngo ya 4, iya 4
+n’iya 6 y’aya mabwiriza, uhereye igihe uhereye igihe
+atangarijwe mu Igazeti ya Repubulika y’u Rwanda
+
+Banks are given a maximun of six (6) months to
+comply with provisions of Article 4, 5 and 6 of
+this regulation, starting from the date of its
+publication in the Official Gazette of the
+Republic of Rwanda.
+
+Les banques disposent d'un maximum de six (6)
+mois pour se conformer aux dispositions des
+article 4,5 et 6 du present règlement, suivant la
+date de sa publication au Journal Officiel de la
+République du Rwanda.
+
+Ingingo ya 21: Ivanwaho ry’ingingo z’amabwiriza Article 21: Repealing provisions
+zinyuranyije n’aya amabwiriza
+Ingingo zose
+zivanyweho.
+
+zinyuranye
+
+n’aya
+
+Article 21: Dispositions abrogatoires
+
+mabwiriza All previous provisions contrary to this Toutes les dispositions antérieures contraires au
+Regulation are hereby repealed.
+présent règlement sont abrogées.
+
+Ingingo ya 22: Itegurwa, isuzumwa n’iyemezwa Article 22: Drafting, consideration and Article 22: Initiation, examen et approbation
+approval of this Regulation
+du présent Règlement
+ry’aya mabwiriza rusange
+Aya mabwiriza rusange yateguwe, asuzumwa kandi
+yemezwa mu rurimi rw’icyongereza.
+
+This Regulation was drafted, considered and Le présent Règlement a été initié, examiné et
+approved in English.
+approuvé en anglais.
+
+136
+
+Official Gazette n° 6bis of 05/02/2018
+
+Ingingo ya 23: Igihe aya mabwiriza atangirira Article 23: Commencement
+gukurikizwa
+
+Article 23: Entrée en vigueur
+
+Aya mabwiriza atangira gukurikizwa ku umunsi
+atangarijweho mu igazeti ya Leta ya Repubulika y’u
+Rwanda.
+
+This regulation shall come into force on the date Le présent règlement entre en vigueur le jour de
+of its publication in the Official Gazette of the sa publication au Journal Officiel de la
+Republic of Rwanda.
+République du Rwanda.
+
+Bikorewe i Kigali, ku wa 24/01/2018
+
+Done at Kigali, on 24/01/2018
+
+Fait à Kigali, le 24./01/2018
+
+(sé)
+RWANGOMBWA John
+Guverineri
+
+(sé)
+RWANGOMBWA John
+Governor
+
+(sé)
+RWANGOMBWA John
+Gouverneur
+
+137
+
+Official Gazette n° 6bis of 05/02/2018
+
+APPENDIX A
+(Bank Name)
+Date_ _
+Certification of Compliance with National Bank of Rwanda Cybersecurity Regulation
+The Board of Directors [or a Senior Officer(s) of the bank] certifies:
+(1) The Board of Directors (or name of Senior Officer(s)) has reviewed documents, reports, certifications and opinions of such officers, employees,
+representatives, outside vendors and other individuals or entities as necessary;
+(2) To the best of the Board of Directors [or name of Senior Officer(s)] knowledge, the Cybersecurity Program of (name of Bank) as of
+____/_____/_______ (date of the Board Resolution or Senior Officer(s)) Compliance Finding for the year ended
+Resolution or Compliance Finding is provided) complies with this Regulation
+Signed by the Chairperson of the Board of Directors (or the CEO)
+
+(Name)
+
+Date:
+
+138
+
+(regulation nymber).
+
+/____/________________(year for which Board
+
+

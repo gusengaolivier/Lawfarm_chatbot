@@ -1,0 +1,5398 @@
+Official Gazette nº Special of 25/09/2018
+
+ITEGEKO No 60/2018 RYO KU WA LAW Nº 60/2018 OF 22/8/2018 ON LOI Nº 60/2018 DU 22/8/2018 PORTANT
+22/8/2018 RYEREKEYE GUKUMIRA PREVENTION AND PUNISHMENT OF PRÉVENTION ET RÉPRESSION DE
+NO
+GUHANA
+IBYAHA CYBER CRIMES
+LA CYBERCRIMINALITÉ
+BIKORESHEJWE
+IKORANABUHANGA
+ISHAKIRO
+
+UMUTWE WA
+RUSANGE
+
+TABLE OF CONTENTS
+
+MBERE:
+
+INGINGO CHAPTER
+PROVISIONS
+
+ONE:
+
+TABLE DES MATIÈRES
+
+GENERAL CHAPITRE PREMIER: DISPOSITIONS
+GÉNÉRALES
+
+Ingingo ya mbere: Icyo iri tegeko rigamije
+
+Article One: Purpose of this Law
+
+Article premier: Objet de la présente loi
+
+Ingingo ya 2: Ibirebwa n’iri tegeko
+
+Article 2: Scope of this Law
+
+Article 2: Champ d’application de la
+présente loi
+
+Ingingo ya 3: Ibisobanuro by’amagambo
+
+Article 3: Definitions
+
+Article 3: Définitions
+
+UMUTWE WA II: GUKUMIRA IBYAHA CHAPTER II:
+BIKORESHEJWE
+CYBERCRIMES
+IKORANABUHANGA
+
+PREVENTION
+
+OF CHAPITRE II: PRÉVENTION DE LA
+CYBERCRIMINALITÉ
+
+Icyiciro cya mbere: Inshingano z’utanga Section One: Obligations of service Section première: Obligations
+serivisi
+fournisseur de services
+provider
+
+d’un
+
+Ingingo ya 4: Inshingano rusange z’utanga Article 4: General obligations of service Article 4: Obligations générales d’un
+serivisi
+fournisseur de services
+provider
+
+78
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 5: Inshingano z’utanga serivisi
+igihe habayeho ikoreshwa rya mudasobwa
+cyangwa urusobe rwa mudasobwa
+cyangwa ry’umuyoboro w’itumanaho
+koranabuhanga rinyuranyije n’amategeko
+
+Article 5: Obligations of service provider
+in case of illegal use of computer,
+computer
+system
+or
+electronic
+communications ‘network
+
+Article 5: Obligations du fournisseur de
+services en cas d’utilisation illégale d’un
+ordinateur, d’un système informatique ou
+d’un
+réseau
+de
+communication
+électronique
+
+Ingingo ya 6: Inshingano z’utanga serivisi Article 6: Obligations of a service provider Article 6: Obligations d’un fournisseur de
+mu bijyanye n’amakuru cyangwa ibikorwa in respect of illegal information or services à l’égard d’informations ou
+binyuranyije n’amategeko
+activities
+d’activités illégales
+Icyiciro cya 2: Kurinda ibikorwaremezo Section 2: Protection
+by’ikoranabuhanga byihariye
+information infrastructure
+
+of
+
+critical Section 2: Protection de l’infrastructure
+d’information critique
+
+Ingingo ya 7: Kurinda ibikorwaremezo Article 7: Protection
+by’ikoranabuhanga byihariye
+information infrastructure
+
+of
+
+critical Article 7: Protection de l’infrastructure
+d’information critique
+
+UMUTWE WA III: IPEREREZA CHAPTER III: INVESTIGATION OF CHAPITRE III: ENQUÊTE DE LA
+RY’IBYAHA
+BIKORESHEJWE CYBERCRIMES
+CYBERCRIMINALITÉ
+IKORANABUHANGA
+Ingingo ya 8: Inshingano yo gufatanya Article 8: Obligation to collaborate with Article 8: Obligation de collaborer avec les
+n’inzego zishinzwe iperereza
+organs in charge of investigations
+organes chargés des enquêtes
+Ingingo ya 9: Gusaka no gufatira
+
+Article 9: Search and seizure
+
+Article 9: Perquisition et saisie
+
+Ingingo ya 10: Kwinjira cyangwa gukura Article 10: Accessing or retrieving a copy
+kopi y’amakuru abitse muri mudasobwa of computer or a computer system data on
+cyangwa mu rusobe rwa mudasobwa the system after seizure
+nyuma y’ifatira
+
+Article 10: Accès ou extraction d’une
+copie des données d’un ordinateur ou
+d’un système informatique sur le système
+après la saisie
+
+Ingingo ya 11: Guhishura amakuru
+
+Article 11: Dévoiler les données
+
+Article 11: Disclosure of data
+
+79
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 12: Kubungabunga mudasobwa Article 12: Preservation of computer or Article 12: Préservation d’un ordinateur
+cyangwa urusobe rwa mudasobwa
+computer system
+ou d’un système informatique
+Ingingo ya 13: Guhishura no kwegeranya Article 13: Disclosure and collection of Article 13: Dévoiler et collecter les
+amakuru
+anyuzwa
+mu
+muyoboro electronic traffic data
+données du trafic électronique
+koranabuhanga
+Ingingo ya 14: Icyemezo cy’urukiko
+
+Article 14: Court order
+
+Article 14: Ordonnance de la juridiction
+
+Ingingo ya 15: Kwemererwa gukoresha Article 15: Authorization to use a forensic Article 15: Autorisation d’utilisation
+uburyo bwa gihanga
+method
+d’une méthode médico-légale
+
+UMUTWE WA IV: IBYAHA N’IBIHANO CHAPTER IV:
+PENALTIES
+
+OFFENCES
+
+AND CHAPITRE IV: INFRACTIONS ET
+PEINES
+
+Icyiciro cya mbere: Ibyaha bibangamiye Section One: Offences against the
+ubuzima bwite, umwimerere no gufata confidentiality, integrity and availability
+neza amakuru na mudasobwa cyangwa of data and computer or computer system
+urusobe rwa mudasobwa
+
+Section première: Infractions contre la
+confidentialité,
+l’intégrité
+et
+la
+disponibilité des données et d’un
+ordinateur ou d’un système informatique
+
+Ingingo ya 16: Kugera mu buryo Article 16: Unauthorized access to a Article 16: Accès non autorisé aux
+butemewe ku makuru abitse muri computer or a computer system data
+données d’un ordinateur ou d’un système
+mudasobwa cyangwa mu rusobe rwa
+informatique
+mudasobwa
+Ingingo ya 17: Kugera ku makuru Article 17: Access to data with intent to Article 17: Accès aux informations avec
+hagambiriwe gukora icyaha
+commit an offence
+intention de commettre une infraction
+Ingingo ya 18: Guhindura amakuru yo Article 18: Unauthorized modification of Article 18: Modification non autorisée de
+muri mudasobwa cyangwa urusobe rwa computer or computer system data
+données d’un ordinateur ou d’un système
+mudasobwa utabyemerewe
+informatique
+
+80
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 19: Kumviriza mudasobwa Article 19: Interception of computer or Article 19: Interception d’un ordinateur
+cyangwa urusobe rwa mudasobwa
+computer system
+ou d’un système informatique
+Ingingo ya 20: Kwangiza cyangwa kubuza Article 20: Damaging or denying access to Article 20: Endommager ou refuser
+kwinjira muri mudasobwa cyangwa mu a computer or computer system
+l’accès à un ordinateur ou au système
+rusobe rwa mudasobwa
+informatique
+Ingingo ya 21: Gutanga urufunguzo banga Article 21: Unauthorized disclosure of Article 21: Dévoiler le code d’accès de
+mu buryo butemewe n’amategeko
+access code
+façon non autorisée
+Ingingo ya 22: Gukomeza gukoresha mu Article 22: Continuous fraudulent use of
+buriganya
+urusobe
+rw’ihererekana an automated or non-automated data
+ry’amakuru
+rwikoresha
+cyangwa processing system of another person
+rutikoresha
+
+Article 22: Utilisation frauduleuse
+continue d’un système de traitement de
+données automatisé ou non automatisé
+d’une autre personne
+
+Ingingo ya 23: Kubuza cyangwa kuyobya Article 23: Preventing or misguiding the Article 23: Empêcher ou brouiller un
+amakuru abitse mu rusobe rw’ihererekana running automated or non-automated système automatisé ou non automatisé de
+ry’amakuru
+rwikoresha
+cyangwa data processing system
+traitement de données
+rutikoresha
+Ingingo ya 24: Kwinjira mu makuru abitse Article 24: Access to a computer or Article 24: Accès aux données d’un
+muri mudasobwa cyangwa mu rusobe rwa computer system data
+ordinateur ou d’un système informatique
+mudasobwa
+Ingingo ya 25: Gukora, kugurisha, kugura,
+gukoresha, gutumiza mu mahanga,
+gukwirakwiza,
+gutunga
+mudasobwa
+cyangwa urusobe rwa mudasobwa,
+cyangwa amakuru abitse muri mudasobwa
+cyangwa urusobe rwa mudasobwa mu
+buryo butemewe n’amategeko
+
+Article 25: Unlawful manufacturing,
+selling, buying, use, import, distribution
+or possession of a computer or computer
+system or computer or computer system
+data
+
+81
+
+Article 25: Fabrication, vente, achat,
+utilisation, importation, distribution ou
+possession illégaux d’un ordinateur ou
+d’un système informatique ou des données
+d’un ordinateur ou d’un système
+informatique
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 26: Kwakira cyangwa gutanga Article 26: Unauthorized reception or Article 26: Recevoir un programme ou
+uburyo bwo kubona porogaramu cyangwa giving of access to a computer or données d’un ordinateur ou d’un système
+amakuru bya mudasobwa cyangwa computer system program or data
+informatique ou y donner accès sans
+urusobe rwa mudasobwa mu buryo
+autorisation
+butemewe
+Ingingo ya 27: Iyandikisha ry’izina Article 27: Cyber-squatting
+ndangarubuga ku buryo butemewe
+
+Article 27: Cyber-squattage
+
+Ingingo ya 28: Ibikorwa binyuranije Article 28: Unlawful acts in respect of Article 28: Actes illégaux relatifs aux
+n’amategeko mu bijyanye na porogaramu malware
+logiciels malveillants
+igamije kwangiza cyangwa kwiba
+Icyiciro cya 2: Ibyaha byerekeye umukono Section 2: Offences related to digital Section 2: Infractions liées à la signature
+koranabuhanga ukozwe mu mibare no signature and certification
+numérique et à la certification
+gutanga icyemezo
+Ingingo ya 29: Gutanga amakuru atari yo Article 29:
+no gukura amakuru ku cyemezo
+suppression
+
+Misrepresentation
+
+Ingingo ya 30: Icyemezo cy’umukono Article 30:
+koranabuhanga ukozwe mu mibare certificate
+cy’igihimbano
+
+False
+
+digital
+
+and
+
+Article 29:
+suppression
+
+Fausse
+
+déclaration
+
+et
+
+signature Article 30: Faux certificat de signature
+numérique
+
+Ingingo ya 31: Gukoresha mu buriganya Article 31: Fraudulent use of digital Article 31: Utilisation frauduleuse de la
+umukono koranabuhanga ukozwe mu signature
+signature numérique
+mibare
+Icyiciro cya 3: Ibyaha bijyanye na Section 3: Computer-related offences
+mudasobwa
+
+82
+
+Section
+3:
+l’informatique
+
+Infractions
+
+liées
+
+à
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 32: Kwigana ibijyanye na Article 32: Computer- or computer Article 32: Falsification en rapport avec
+mudasobwa cyangwa urusobe rwa system-related forgery
+un ordinateur ou un système informatique
+mudasobwa
+Ingingo ya 33: Guhindura ibiranga Article 33: Changing computer
+igikoresho cya mudasobwa cyangwa computer system equipment identity
+urusobe rwa mudasobwa
+
+or Article 33: Modification de l’identité de
+l’équipement d’un ordinateur ou d’un
+système informatique
+
+Icyiciro cya 4: Ibyaha byerekeye ireme Section 4: Offences related to the content
+ry’ibinyuzwa kuri mudasobwa cyangwa of computer and computer system
+urusobe rwa mudasobwa
+
+Section 4: Infractions liées au contenu
+d’un ordinateur ou d’un système
+informatique
+
+Ingingo ya 34: Gushyira ahagaragara Article 34: Publication of pornographic Article 34: Publication des images
+amashusho yerekeranye n’imikoreshereze images through a computer or a computer pornographiques à travers un ordinateur
+y’ibitsina
+hakoreshejwe
+mudasobwa system
+ou un système informatique
+cyangwa urusobe rwa mudasobwa
+Ingingo ya 35: Kubuza amahwemo Article 35: Cyber-stalking
+hakoreshejwe
+mudasobwa
+cyangwa
+urusobe rwa mudasobwa
+
+Article 35: Cyber-harcèlement
+
+Ingingo ya 36: Uburiganya bugamije Article 36: Phishing
+kumenya amakuru y’undi muntu
+
+Article 36: Phishing
+
+Ingingo ya 37: Kohereza ubutumwa Article 37: Spamming
+budakenewe
+
+Article 37: Spamming
+
+Ingingo ya 38: Gutangaza amakuru Article
+38:
+Publishing
+y’urukozasoni
+hakoreshejwe
+uburyo information in electronic form
+bw’ikoranabuhanga
+
+indecent Article 38: Publication d’informations
+indécentes sous forme électronique
+
+Ingingo ya 39: Gutangaza amakuru Article 39: Publication of rumours
+y’ibihuha
+83
+
+Article 39 : Publication des rumeurs
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 40: Kwiyitirira umwirondoro
+
+Article 40: Impersonation
+
+Article 40: Usurpation d’identité
+
+Icyiciro cya 5:
+Ibyaha bijyanye
+n’iterabwoba,
+icuruzwa
+ry’abantu,
+cyangwa iry’ibiyobyabwenge bikoreshejwe
+mudasobwa cyangwa urusobe rwa
+mudasobwa
+
+Section 5: Offences related to terrorism,
+trafficking in persons or narcotics
+committed using a computer or a
+computer system
+
+Section 5: Infractions liées au terrorisme,
+au trafic des personnes ou de stupéfiants
+commises à l’aide d’un ordinateur ou d’un
+système informatique
+
+Ingingo ya 41: Gushyiraho cyangwa Article 41: Creation or publication of a Article 41: Création ou publication d’un
+gutangaza urubuga rw’agatsiko k’abakora site for terrorist groups
+site pour les groupes terroristes
+iterabwoba
+Ingingo ya 42: Gushyiraho cyangwa Article 42: Creation or publication of a Article 42: Création ou publication d’un
+gutangaza urubuga hagamijwe icuruzwa site for the purpose of trafficking in site dans le but de traite des personnes
+ry’abantu
+persons
+Ingingo ya 43: Gushyiraho cyangwa Article 43: Creation or publication of a Article 43: Création ou publication d’un
+gutangaza urubuga hagamijwe icuruzwa site for the purpose of trafficking or site dans le but de trafic ou de distribution
+cyangwa ikwirakwiza ry’ibiyobyabwenge distributing drugs or narcotics
+de drogues ou de stupéfiants
+cyangwa urusobe rw’imiti ikoreshwa nka
+byo
+Icyiciro cya 6: Ibyaha byerekeye urusobe Section 6: Cyber offences committed by
+koranabuhanga
+bikozwe
+n’abatanga service providers
+serivisi
+
+Section 6: Infractions informatiques
+commises par les fournisseurs de services
+
+Ingingo ya 44: Gutanga amakuru wahawe Article 44: Disclosure of data made Article 44: Divulgation des données mises
+n’undi muntu
+available to third party
+à la disposition de tiers
+Ingingo ya 45: Gutuma mudasobwa Article 45: Provision of access to a Article 45: Fournir l’accès à un
+cyangwa urusobe rwa mudasobwa computer or computer system or cause ordinateur, à un système informatique, les
+bigerwaho, byohereza cyangwa bikoresha them to send or use electronic content on faire transmettre ou utiliser le contenu
+uburyo koranabuhanga kuri mudasobwa
+84
+
+Official Gazette nº Special of 25/09/2018
+
+cyangwa urusobe rwa mudasobwa by’undi another person’s computer or computer électronique sur un ordinateur ou un
+muntu
+system
+système informatique d’autrui
+Ingingo ya 46: Kudakuraho cyangwa Article 46: Refusal to remove or disable Article 46: Défaut de supprimer ou de
+gutuma amakuru abitse mu buryo access to illegal information stored
+désactiver l’accès aux informations
+butemewe n’amategeko agerwaho
+illégales stockées
+Ingingo ya 47: Kutamenyesha ibyaha Article 47: Non reporting of cyber threats Article 47: Défaut de déclaration de
+byakoreshejwe ikoranabuhanga byakozwe incident
+l’incident de cyber-menaces
+Ingingo ya 48: Ibyaha byerekeranye Article 48: Offences related to stored Article
+48:
+Infractions
+n’amakuru abitse
+information
+l’information stockée
+Ingingo ya 49: Ibisubizo by’ishakisha Article 49: Illegal search results
+bitemewe n’amategeko
+
+liées
+
+à
+
+Article 49: Résultats de recherche illégaux
+
+Ingingo ya 50: Kudafata ingamba zo Article 50: Failure to take action on take- Article 50: Défaut de prendre des mesures
+guhagarika isakara ry’amakuru
+down notification
+en cas de notification de retrait
+Icyiciro cya 7: Ingingo zihuriweho ku Section 7: Common provisions to all Section 7: Dispositions communes à toutes
+byaha byose
+offences
+les infractions
+Ingingo ya 51: Ibihano bihabwa ikigo Article 51: Penalties imposed on a Article 51: Sanctions imposées à une entité
+gikora ubucuruzi cyakoze icyaha
+business entity having committed an commerciale ayant commis une infraction
+offence
+Ingingo ya 52: Ibihano by’inyongera
+
+Article 52: Additional penalties
+
+85
+
+Article 52: Peines supplémentaires
+
+Official Gazette nº Special of 25/09/2018
+
+UMUTWE
+WA
+V:
+ZINYURANYE N’IZISOZA
+
+INGINGO CHAPTER V: MISCELLANEOUS AND CHAPITRE
+V:
+DISPOSITIONS
+FINAL PROVISIONS
+DIVERSES ET FINALES
+
+Ingingo ya 53: Amabwiriza agenga Article 53: Regulations on cyber security
+umutekano w’urusobe rwa mudasobwa
+Ingingo ya 54: Itegurwa,
+n’itorwa by’iri tegeko
+
+Article 53: Règlements sur la cybersécurité
+
+isuzumwa Article 54: Drafting, consideration and Article 54: Initiation, examen et adoption
+adoption of this Law
+de la présente loi
+
+Ingingo ya 55: Ivanwaho ry’ingingo Article 55: Repealing provision
+z’amategeko zinyuranyije n’iri tegeko
+
+Article 55: Disposition abrogatoire
+
+Ingingo ya 56: Igihe iri tegeko ritangira Article 56: Commencement
+gukurikizwa
+
+Article 56: Entrée en vigueur
+
+86
+
+Official Gazette nº Special of 25/09/2018
+
+ITEGEKO No 60/2018 RYO KU WA LAW Nº 60/2018 OF 22/8/2018 ON LOI Nº 60/2018 DU 22/8/2018 PORTANT
+22/8/2018 RYEREKEYE GUKUMIRA PREVENTION AND PUNISHMENT OF PRÉVENTION ET RÉPRESSION DE
+NO
+GUHANA
+IBYAHA CYBER CRIMES
+LA CYBERCRIMINALITÉ
+BIKORESHEJWE
+IKORANABUHANGA
+
+Twebwe, KAGAME Paul,
+Perezida wa Repubulika;
+
+We, KAGAME Paul,
+President of the Republic;
+
+Nous, KAGAME Paul,
+Président de la République;
+
+INTEKO
+ISHINGA
+AMATEGEKO
+YEMEJE NONE NATWE DUHAMIJE,
+DUTANGAJE
+ITEGEKO
+RITEYE
+RITYA KANDI DUTEGETSE KO
+RYANDIKWA MU IGAZETI YA LETA
+YA REPUBULIKA Y’U RWANDA
+
+THE PARLIAMENT HAS ADOPTED
+AND WE SANCTION, PROMULGATE
+THE FOLLOWING LAW AND ORDER
+IT BE PUBLISHED IN THE OFFICIAL
+GAZETTE OF THE REPUBLIC OF
+RWANDA
+
+LE PARLEMENT A ADOPTÉ ET NOUS
+SANCTIONNONS,
+PROMULGUONS
+LA LOI DONT LA TENEUR SUIT ET
+ORDONNONS
+QU’ELLE
+SOIT
+PUBLIÉE AU JOURNAL OFFICIEL DE
+LA RÉPUBLIQUE DU RWANDA
+
+INTEKO ISHINGA AMATEGEKO:
+
+THE PARLIAMENT:
+
+LE PARLEMENT:
+
+Umutwe w’Abadepite, mu nama yawo yo ku The Chamber of Deputies, in its session of La Chambre des Députés, en sa séance du 31
+wa 31 Gicurasi 2018;
+31 May 2018;
+mai 2018;
+Ishingiye ku Itegeko Nshinga rya Repubulika
+y’u Rwanda ryo mu 2003 ryavuguruwe mu
+2015, cyane cyane mu ngingo zaryo, iya 29,
+iya 64, iya 69, iya 70, iya 88, iya 90, iya 91,
+iya 106, iya 112, iya 120 n’iya 176;
+
+Pursuant to the Constitution of the Republic
+of Rwanda of 2003 revised in 2015,
+especially in Articles 29, 64, 69, 70, 88, 90,
+91, 106, 112, 120 and 176;
+
+87
+
+Vu la Constitution de la République du
+Rwanda de 2003 révisée en 2015,
+spécialement en ses articles 29, 64, 69, 70,
+88, 90, 91, 106, 112, 120 et 176;
+
+Official Gazette nº Special of 25/09/2018
+
+YEMEJE:
+
+UMUTWE WA
+RUSANGE
+
+ADOPTS:
+
+MBERE:
+
+INGINGO CHAPTER
+PROVISIONS
+
+Ingingo ya mbere: Icyo iri tegeko rigamije
+
+ADOPTE:
+
+ONE:
+
+GENERAL CHAPITRE PREMIER: DISPOSITIONS
+GÉNÉRALES
+
+Article One: Purpose of this Law
+
+Article premier: Objet de la présente loi
+
+Iri tegeko rigamije gukumira no guhana This Law aims at preventing and punishing La présente loi a pour objet la prévention et
+ibyaha bikoreshejwe ikoranabuhanga.
+cyber-crimes.
+la répression de la cybercriminalité.
+Ingingo ya 2: Ibirebwa n’iri tegeko
+
+Article 2: Scope of this Law
+
+Article 2: Champ d’application de la
+présente loi
+
+Iri tegeko rireba ibyaha byose bikoreshejwe
+ikoranabuhanga byakorewe mu Rwanda
+cyangwa hanze y’u Rwanda igihe ingaruka
+zabyo zageze mu Rwanda.
+
+This Law applies to all cyber-crimes which
+are committed in Rwanda or outside Rwanda
+if such offences have produced effect in
+Rwanda.
+
+La présente loi s’applique à tous les crimes
+cybernétiques qui sont commis à l’intérieur
+du Rwanda ou à l’extérieur du Rwanda si ces
+crimes ont produit leurs effets au Rwanda.
+
+Ingingo ya 3: Ibisobanuro by’amagambo
+
+Article 3: Definitions
+
+Article 3: Définitions
+
+Muri iri tegeko amagambo akurikira afite As used in this Law, the following terms have Dans la présente loi, les termes suivants ont
+ibisobanuro bikurikira:
+the meanings ascribed to them below:
+les significations suivantes:
+1° amakuru abitse muri mudasobwa:
+ikimenyetso,
+amakuru
+cyangwa
+igitekerezo kiri mu mu buryo bugifasha
+kugitunganya biri mu rusobe rwa
+mudasobwa cyangwa muri mudasobwa,
+harimo porogaramu yatuma mudasobwa
+cyangwa urusobe rwa mudasobwa
+bikora
+umurimo,
+inyandiko
+koranabuhanga cyangwa ubutumwa
+
+1° computer data: any representation
+of facts, information or concepts in a
+form suitable for processing in a
+computer system or a computer
+including a program suitable to cause
+a computer or a computer system to
+perform a function, electronic
+documents or electronic data
+
+88
+
+1° données
+informatiques:
+toute
+représentation de faits, d’informations
+ou de concepts sous une forme adaptée
+au traitement dans un système
+informatique ou un ordinateur y
+compris un programme adapté pour
+faire fonctionner un ordinateur ou
+système informatique, des documents
+électroniques ou des messages de
+
+Official Gazette nº Special of 25/09/2018
+
+bw’amakuru koranabuhanga bwaba
+bubitse mu rusobe rwa mudasobwa
+cyangwa kuri murandasi;
+
+messages whether stored in local
+computer systems or online;
+
+données électroniques, qu’ils soient
+stockés
+dans
+des
+systèmes
+informatiques locaux ou en ligne;
+
+2° ibikorwaremezo by’ikoranabuhanga
+byihariye: ibikorwaremezo byifashisha
+ikoranabuhanga mu gutanga serivisi ku
+baturage kandi bifite uruhare rukomeye
+ku iterambere ry’ubukungu, imibereho
+myiza n’umutekano by’Igihugu;
+
+2° critical information infrastructure:
+virtual and physical information
+systems that provide services to the
+citizens and serve as a backbone of
+development
+of
+the
+national
+economic, social and security life;
+
+2° infrastructures
+d’information
+critiques: systèmes d’informations
+virtuels et physiques qui fournissent des
+services aux citoyens et servent de pivot
+à l’éclosion de la vie
+économique,
+sociale et sécuritaire du pays;
+
+3° ishakiro
+yobora:
+urusobe
+rwa
+porogaramu
+rugenewe gushakisha
+cyangwa kugaragaza amakuru ajyanye
+n’ijambo ry’ingenzi ryanditswe ku
+rubuga rwa murandasi;
+
+3° search engine: a software system that
+is designed to search for or identify
+information that corresponds to key
+words on the World Wide Web;
+
+3° moteur de recherche: système logiciel
+conçu pour chercher ou identifier des
+informations qui correspondent aux
+mots clés sur le World Wide Web;
+
+4° itumanaho: ihererekanya ry’amakuru
+rinyujijwe
+mu
+bikoresho
+by’Ikoranabuhanga
+mu
+Itangazabumenyi n’Itumanaho;
+
+4° communication: the transmission of
+information through Information
+Communication Technology media;
+
+4° communication: transmission de
+l’information par le biais des médias de
+la Technologie de l’Information et de la
+Communication;
+
+5° kumviriza: kumva, gufata amajwi,
+gukurikirana
+cyangwa
+kugenzura
+ibikubiye mu biganiro, harimo gutanga
+ibigize amakuru, byaba ku buryo
+butaziguye, binyujijwe ku kwinjira muri
+mudasobwa
+cyangwa
+gukoresha
+urusobe rwa mudasobwa cyangwa ku
+buryo
+buziguye,
+hakoreshejwe
+ibikoresho koranabuhanga byagenewe
+kumviriza cyangwa gufata amajwi, mu
+gihe ikiganiro kiri gukorwa;
+
+5° interception: listening to, recording,
+monitoring or surveillance of the
+content
+of
+communications,
+including procuring of the content of
+data, either directly, through access
+and use of a computer or a computer
+system or indirectly, through the use
+of electronic eavesdropping or
+tapping
+devices,
+when
+communication is occurring;
+
+5° interception: écoute, enregistrement,
+contrôle ou surveillance du contenu des
+communications,
+y compris la
+fourniture du contenu des données, soit
+directement, par l’accès et l’utilisation
+d’un ordinateur ou d’un système
+informatique, soit indirectement, par
+l’utilisation d’appareils électroniques
+d’écoute ou de taraudage, en même
+temps que la communication se produit;
+
+89
+
+Official Gazette nº Special of 25/09/2018
+
+6° mudasobwa:
+igikoresho
+koranabuhanga, gikora ku buryo
+bw’amashanyarazi,
+bwa
+rukuruzi,
+bubonesha,
+bw’amashanyarazi
+y’ubutabire cyangwa cyo gutunganya
+amakuru cyangwa itumanaho cyangwa
+urukomatane rwa bene ibyo bikoresho,
+gifite ubushobozi bwo gukora imirimo
+isa no gutekereza, kubara, kohereza
+cyangwa kubika amakuru harimo
+ibifasha kubika cyangwa ibikoresho,
+ibifasha mu itumanaho cyangwa
+ibikoresho bifitanye isano itaziguye
+cyangwa bikoreshwa hamwe n’icyo
+gikoresho. Hakubiyemo ubwoko bwose
+bw’ibikoresho bya mudasobwa bigira
+ubushobozi bwo gutunganya amakuru
+nka telefoni zigendanwa, telefoni
+nkoreshabwenge,
+imiyoboro
+ya
+mudasobwa
+n’ibindi
+bikoresho
+bishamitse kuri murandasi;
+
+6° computer: an electronic, magnetic,
+optical, electrochemical or other data
+processing or
+communications
+device or grouping of such devices,
+capable of performing logical,
+arithmetic, routing or storage
+functions and which includes any
+storage facility or equipment or
+communications
+facility
+or
+equipment directly related to or
+operating in conjunction with such
+device. It includes any type of
+computer device including devices
+with data processing capabilities like
+mobile phones, smart phones,
+computer networks and other devices
+connected to the internet;
+
+6° ordinateur: appareil de traitement ou
+de
+communication
+électronique,
+magnétique, optique, électrochimique
+ou autre ou un groupement de tels
+dispositifs, capable d’effectuer des
+fonctions logiques, arithmétiques, de
+routage ou de stockage et comprenant
+toute installation ou équipement de
+stockage ou installation ou équipement
+de communication directement lié à ou
+fonctionnant en conjonction avec un tel
+dispositif. Il comprend tout type de
+dispositif informatique, y compris les
+dispositifs dotés de capacités de
+traitement de données telles que les
+téléphones mobiles, les téléphones
+intelligents, les réseaux informatiques
+et autres appareils connectés à Internet;
+
+7° porogaramu
+ya
+mudasobwa:
+ikomatanyirizo
+ry’amabwiriza
+akurikizwa na mudasobwa kugira ngo
+ikigamijwe kigerweho;
+
+7° computer program: a set of
+instructions executed by the
+computer to achieve intended results;
+
+7° programme informatique: ensemble
+d’instructions
+exécutées
+par
+l’ordinateur pour obtenir les résultats
+escomptés;
+
+8° umutekano
+w’urusobe
+koranabuhanga: kurinda imikorere ya
+mudasobwa
+ubujura,
+kwangiza
+ibikoresho byayo, uburyo bw’imikorere
+bwayo cyangwa amakuru kimwe no
+
+8° cyber security: protection of
+computer systems from theft of,
+damage to their hardware, software
+or information as well as from
+disruption or misdirection of the
+services they provide;
+
+8° cyber sécurité: protection des
+systèmes informatiques contre le vol de
+leurs
+matériel, logiciels ou
+informations ou dommages à leur
+encontre ainsi que contre la
+
+90
+
+Official Gazette nº Special of 25/09/2018
+
+kurogoya cyangwa kuyobya serivisi
+zatanzwe;
+
+perturbation ou la mauvaise orientation
+des services qu’ils fournissent;
+
+9° urubuga: ahantu amakuru aboneka ku
+muyoboro w’amakuru binyujijwe kuri
+aderesi zihariye;
+
+9° site: a place where information is
+available on an information network
+through a specific address;
+
+9° site: lieu où des informations sont
+disponibles sur un réseau d’information
+via une adresse spécifique;
+
+10° urusobe
+rw’iyoherezwa
+koranabuhanga: porogaramu zose za
+mudasobwa
+n’ibikoresho
+byo
+gutunganya
+amakuru,
+kuyabika
+cyangwa kuyacukumbura cyangwa byo
+kuyacunga;
+
+10° information system: all software,
+tools and equipment for the
+production, storage or processing of
+data or information or management
+of data or information;
+
+10° système d’information: tous les
+logiciels, outils et équipements pour la
+production, le stockage ou le traitement
+de données ou d’informations ou la
+gestion de données ou d’informations;
+
+11° urusobe rwa mudasobwa: igikoresho
+koranabuhanga cyangwa urukomatane
+rw’ibikoresho koranabuhanga bigizwe
+n’imiterere
+cyangwa
+porogaramu
+harimo ibikoresho byinjiza amakuru
+n’ibiyasohora bifite ubushobozi bwo
+gutunganya no kubika amakuru;
+
+11° computer system: an electronic
+device or combination of electronic
+devices composed of hardware or
+software, including input and output
+devices with data processing and
+storage capabilities;
+
+11° système
+informatique:
+appareil
+électronique ou une combinaison des
+appareils électroniques composés de
+matériel ou de logiciel, y compris des
+appareils d’entrée et de sortie avec des
+capacités de traitement et de stockage
+de données;
+
+12° utanga serivisi: urwego rwa Leta,
+rwigenga cyangwa umuntu ku giti cye
+biha
+abakoresha
+serivisi
+zabo
+ubushobozi
+bw’itumanaho
+hakoreshejwe mudasobwa cyangwa
+urusobe rwa mudasobwa cyangwa
+urundi rwego rutunganya cyangwa
+rubika amakuru abitse mu buryo
+koranabuhanga mu mwanya wa
+nyir’iryo
+tumanaho
+cyangwa
+w’abakoresha bene iyo serivisi.
+
+12° service provider: a public or private
+entity or an individual that provides
+service to users by means of a
+computer or computer system or any
+other entity that processes or stores
+computer data on behalf of such
+communication service or users of
+such service.
+
+12° fournisseur de service: organe public
+ou privé ou individu qui fournit aux
+utilisateurs de son service la possibilité
+de communiquer au moyen d’un
+ordinateur
+ou
+d’un
+système
+informatique ou de toute autre entité qui
+traite ou stocke des données
+informatiques pour le compte de ce
+service de communication ou des
+utilisateurs de ce service.
+
+91
+
+Official Gazette nº Special of 25/09/2018
+
+UMUTWE WA II: GUKUMIRA IBYAHA CHAPTER II:
+BIKORESHEJWE
+CYBERCRIMES
+IKORANABUHANGA
+
+PREVENTION
+
+OF CHAPITRE II: PRÉVENTION DE LA
+CYBERCRIMINALITÉ
+
+Icyiciro cya mbere: Inshingano z’utanga Section One: Obligations of service Section première: Obligations
+serivisi
+provider
+fournisseur de services
+
+d’un
+
+Ingingo ya 4: Inshingano rusange z’utanga Article 4: General obligations of service Article 4: Obligations générales d’un
+serivisi
+provider
+fournisseur de services
+Utanga serivisi z’itumanaho koranabuhanga An electronic
+agomba:
+provider must:
+
+communications
+
+service Un
+fournisseur
+de
+services
+communications électroniques doit:
+
+de
+
+1° gufata
+ingamba
+zikwiye
+zo
+kumenyesha abakiliya be ibyaha
+bikoreshejwe
+ikoranabuhanga
+bibafiteho
+cyangwa
+bishobora
+kubagiraho ingaruka;
+
+1° take reasonable steps to inform its
+clients of cybercrimes trends which
+affect or may affect them;
+
+1° prendre des mesures raisonnables
+pour informer ses clients des
+tendances de la cybercriminalité qui
+les affectent ou peuvent les affecter;
+
+2° gushyiraho uburyo abakiriya be
+batanga amakuru yerekeye ibyaha
+bikoreshejwe ikoranabuhanga;
+
+2° establish procedures for its clients to
+report cybercrimes;
+
+2° établir pour ses clients des procédures
+de signaler la cybercriminalité;
+
+3° kumenyesha abakiliya be ingamba
+bashobora gufata mu rwego rwo
+kwirinda
+ibyaha
+bikoreshejwe
+ikoranabuhanga;
+
+3° inform its clients of measures they
+may take in order to safeguard
+themselves against cybercrimes;
+
+3° informer ses clients des mesures
+qu’ils peuvent prendre pour se
+protéger contre la cybercriminalité;
+
+4° kumenyesha
+uwakorewe
+ibyaha
+bikoreshejwe
+ikoranabuhanga
+n’urwego
+rushinzwe
+umutekano
+w’urusobe koranabuhanga ko hari
+ibyaha byakozwe.
+
+4° disclose abuses to the concerned
+victim and to the cyber security organ
+that infractions are committed.
+
+4° révéler les abus à la victime
+concernée et à l’organe chargé de la
+cyber-sécurité que des infractions
+sont commises.
+
+92
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 5: Inshingano z’utanga serivisi
+igihe habayeho ikoreshwa rya mudasobwa
+cyangwa urusobe rwa mudasobwa
+cyangwa ry’umuyoboro w’itumanaho
+koranabuhanga rinyuranyije n’amategeko
+
+Article 5: Obligations of service provider
+in case of illegal use of computer,
+computer
+system
+or
+electronic
+communications network
+
+Article 5: Obligations du fournisseur de
+services en cas d’utilisation illégale d’un
+ordinateur, d’un système informatique ou
+d’un
+réseau
+de
+communication
+électronique
+
+Utanga serivisi wese umenye cyangwa
+umenyeshejwe ko mudasobwa cyangwa
+urusobe rwa mudasobwa ye cyangwa
+umuyoboro we w’itumanaho koranabuhanga
+biri gukoreshwa mu gukora icyaha
+giteganyijwe muri iri tegeko, agomba:
+
+Any service provider who is aware or
+informed that its computer or computer
+system or electronic communication network
+is being used to commit an offence provided
+for in this Law must:
+
+Tout fournisseur de services qui connaît ou
+prend connaissance que son ordinateur ou
+son système informatique ou son réseau de
+communication électronique est utilisé pour
+commettre une infraction prévue par la
+présente loi doit:
+
+1° gutanga raporo ako kanya y’ibyo biri
+kuba ku rwego rushinzwe umutekano
+w’ibijyanye n’ikoranabuhanga mu
+itangazabumenyi n’itumanaho;
+
+1º immediately report what is being
+committed to the authority in charge
+of cyber security;
+
+1° signaler immédiatement l’affaire qui est
+en train de se commettre à l’office
+chargé de la cyber-sécurité;
+
+2° kubungabunga
+amakuru
+yose
+ashobora gufasha mu gukora iperereza
+ku cyaha, cyane cyane amakuru
+agaragaza inkomoko y’itumanaho,
+aho rijya, inzira rinyuramo, igihe
+ribereye, uko ringana, igihe ryamaze
+cyangwa ubwoko bwa serivisi zijyana
+naryo.
+
+2º preserve any information which may
+be of assistance in investigating the
+offence, including particularly
+information which shows the
+communication’s origin, destination,
+route, time, date, size, duration and
+the type of the underlying services.
+
+2° préserver toute information susceptible
+d’aider à enquêter sur l’infraction, y
+compris
+particulièrement
+les
+informations indiquant l’origine, la
+destination, l’itinéraire, l’heure, la date,
+la dimension, la durée de la
+communication et le type de services
+sous-jacents.
+
+Ingingo ya 6: Inshingano z’utanga serivisi Article 6: Obligations of a service provider Article 6: Obligations d’un fournisseur de
+mu bijyanye n’amakuru cyangwa ibikorwa in respect of illegal information or services à l’égard d’informations ou
+binyuranyije n’amategeko
+activities
+d’activités illégales
+Umuntu
+wese
+utanga
+serivisi Any service provider who has been informed Tout fournisseur de services qui a été
+wamenyeshwejwe n’inzego z’umutekano by security organs or cyber-security organ of informé par des organes de sécurité ou par
+93
+
+Official Gazette nº Special of 25/09/2018
+
+cyangwa n’urwego rushinzwe umutekano illegal or harmful information or activity, l’organe de la cyber-sécurité des
+w’ibijyanye n’ikoranabuhanga amakuru must:
+informations ou activités illégales, doit:
+cyangwa ibikorwa binyuranyije n’amategeko,
+agomba:
+1° gukura ayo amakuru muri mudasobwa
+cyangwa mu rusobe rwa mudasobwa;
+
+1º remove such information in the 1° supprimer ces informations d’un
+computer or computer system;
+ordinateur
+ou
+d’un
+système
+informatique;
+
+2° guhagarika by’agateganyo cyangwa
+burundu serivisi zijyanye n’ayo
+amakuru
+cyangwa
+ibikorwa
+binyuranyije n’amategeko;
+
+2º suspend or terminate services in 2° suspendre ou mettre fin aux services à
+respect of that illegal or harmful
+l’égard de cette information ou activité
+information or activity;
+illégale;
+
+3° korohereza
+inzego
+zishinzwe
+iperereza cyangwa gukurikirana
+ibyaha, igihe zibisabye, kuziha
+amakuru akenewe.
+
+3º facilitate organs in charge of 3° prêter son concours aux organes ayant
+investigations or prosecution, at their
+l’investigation ou la poursuite judiciaire
+request, with necessary information.
+dans leurs attributions, à leur demande,
+en leur donnant des informations
+nécessaires.
+
+Icyiciro cya 2: Kurinda ibikorwaremezo Section 2: Protection
+by’ikoranabuhanga byihariye
+information infrastructure
+
+of
+
+critical Section 2: Protection de l’infrastructure
+d’information critique
+
+Ingingo ya 7: Kurinda ibikorwaremezo Article 7: Protection
+by’ikoranabuhanga byihariye
+information infrastructure
+
+of
+
+critical Article 7: Protection de l’infrastructure
+d’informations critiques
+
+Iteka rya Perezida rigena uburyo bukoreshwa A Presidential Order determines modalities Un arrêté présidentiel détermine les
+mu
+kurinda
+ibikorwaremezo for the protection of critical information modalités de protection de l’infrastructure
+by’ikoranabuhanga byihariye.
+infrastructure.
+d’information critique.
+Rigena kandi ibipimo ngenderwaho, This Order also prescribes minimum Cet arrêté prescrit également des normes
+n’amabwiriza mu bijyanye na:
+standards, guidelines, rules or procedure in minimales, des lignes directrices, des règles
+respect of:
+ou une procédure concernant:
+94
+
+Official Gazette nº Special of 25/09/2018
+
+1° kurinda
+no
+ibikorwaremezo
+byihariye;
+
+kubungabunga
+by’ikoranabuhanga
+
+1º the protection and preservation of
+critical information infrastructure;
+
+1° la protection et la préservation des
+infrastructures
+d’informations
+critiques;
+
+2° imicungire rusange y’ibikorwaremezo
+by’ikoranabuhanga byihariye;
+
+2º the general management of critical
+information infrastructure;
+
+2° la gestion générale des infrastructures
+d’informations critiques;
+
+3° kugera ku makuru ari mu bikorwaremezo
+by’ikoranabuhanga
+byihariye,
+kuyahererekanya no kuyagenzura;
+
+3º access to, transfer and control of data
+in critical information infrastructure;
+
+3° accès, transfert et contrôle des données
+qui sont dans les infrastructures
+d’informations critiques;
+
+4° ibisabwa mu rwego rw’ibikorwaremezo
+cyangwa rw’imikorere bigamije gucunga
+umutekano
+n’ubusugire
+bw’ireme
+by’amakuru ari mu bikorwaremezo
+by’ikoranabuhanga byihariye;
+
+4º infrastructural or procedural rules
+and requirements for securing the
+integrity and authenticity of data or
+information contained in critical
+information infrastructure;
+
+4° les règles et exigences en matière
+d’infrastructure ou de procédure pour
+garantir l’intégrité et l’authenticité des
+données ou des informations contenues
+dans les infrastructures d’informations
+critiques;
+
+5° kubika cyangwa gushyingura amakuru
+yagenwe
+nk’ibikorwaremezo
+by’ikoranabuhanga byihariye;
+
+5º the storage or archiving of data or
+information designated as critical
+information infrastructure;
+
+5° le stockage ou l’archivage de données
+ou d’informations désignées comme
+des infrastructures d’informations
+critiques;
+
+6° gahunda yo kugarura amakuru haramutse
+habayeho ibiza, kwangirika cyangwa
+kubura
+kw’ibikorwaremezo
+by’ikoranabuhanga byihariye cyangwa
+igice cyabyo;
+
+6º data recovery plan in the event of
+disaster, breach or loss of the critical
+information infrastructure or part of
+it;
+
+6° le plan de récupération des données en
+cas de désastres, de violation ou de
+perte des infrastructures d’informations
+critiques ou d’une partie de celles-ci;
+
+7° ubugenzuzi
+n’igenzura
+by’ibikorwaremezo by’ikoranabuhanga
+byihariye byose, igihe icyo aricyo cyose,
+
+7º audit and inspect any critical
+information infrastructure at any time
+to ensure compliance with the
+provisions of this Law;
+
+7° l’audit et l’inspection de toutes les
+infrastructures d’informations critiques
+à tout moment pour assurer le respect
+des dispositions de la présente loi ;
+
+95
+
+Official Gazette nº Special of 25/09/2018
+
+hagamijwe iyubahirizwa ry’ibiteganywa
+n’iri tegeko;
+8° ikindi cyose gisabwa mu rwego rwo
+kurinda, gucunga no kugenzura amakuru
+n’undi mutungo uri mu bikorwaremezo
+by’ikoranabuhanga byihariye.
+
+8º any other matter required for the
+adequate protection, management
+and control of data and other
+resources in critical information
+infrastructure.
+
+8° tout autre élément requis pour la
+protection, la gestion et le contrôle
+adéquats des données et autres
+ressources
+dans
+l’infrastructure
+d’information critique.
+
+UMUTWE WA III: IPEREREZA CHAPTER III: INVESTIGATION OF CHAPITRE III: ENQUÊTE DE LA
+RY’IBYAHA
+BIKORESHEJWE CYBERCRIMES
+CYBERCRIMINALITÉ
+IKORANABUHANGA
+Ingingo ya 8: Inshingano yo gufatanya Article 8: Obligation to collaborate with Article 8: Obligation de collaborer avec les
+n’inzego zishinzwe iperereza
+organs in charge of investigations
+organes chargés des enquêtes
+Bitabangamiye andi mategeko, umuntu
+usabwe gukorana n’urwego rushinzwe
+iperereza cyangwa gukurikirana ibyaha,
+by’umwihariko agomba:
+
+Without prejudice to other laws, a person
+who is required to cooperate with the organ
+in charge of investigations or prosecution
+must in particular:
+
+Sans préjudice d’autres lois, une personne
+qui est tenue de coopérer avec l’organe
+chargé des enquêtes ou de poursuites doit
+particulièrement:
+
+1° gusubiza ibibazo ibyo ari byose yabajijwe
+ku iperereza;
+
+1° respond to any inquiry about the
+investigation;
+
+1° répondre à toutes les questions sur
+l’enquête;
+
+2° kubahiriza amabwiriza yose ahuje
+n’itegeko harimo nko guhishura
+urufunguzo rwo kwinjira mu rusobe rwa
+mudasobwa;
+
+2° comply with any lawful directions
+including disclosing access code to a
+computer system;
+
+2° respecter toutes les instructions
+légales, y compris la divulgation du
+code d’accès à un système
+informatique;
+
+3° gutanga amakuru yose akenewe mu
+iperereza no mu ikurikirana ry’ibyaha.
+
+3° disclose all data required for the
+purposes of investigation and of
+prosecution of an offence.
+
+3° dévoiler les informations requises
+aux fins d’une enquête et de la
+poursuite d’une infraction.
+
+96
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 9: Gusaka no gufatira
+
+Article 9: Search and seizure
+
+Article 9: Perquisition et saisie
+
+Bitabangamiye andi mategeko, urwego
+rushinzwe gukurikirana ibyaha rushobora, mu
+gihe hari impamvu zifatika zo gukeka
+cyangwa kwizera ko mudasobwa cyangwa
+urusobe
+rwa
+mudasobwa
+rushobora
+gukoreshwa
+nk’ikimenyetso
+cy’icyaha
+cyangwa ifitwe n’umuntu nk’ikomoka ku
+cyaha, gutanga itegeko ryemerera:
+
+Without prejudice to other laws, the organ in
+charge of prosecution may, in case there
+exists reasonable grounds to suspect or
+believe that a computer or a computer system
+may be used as a proof of an offence or is
+acquired by any person as a result of an
+offence, issue an order authorizing to:
+
+Sans préjudice d’autres lois, l’organe chargé
+de poursuite judiciaire peut, s’il existe des
+motifs sérieux de soupçonner ou de croire
+qu’un ordinateur ou un système informatique
+peut être utilisé comme preuve d’une
+infraction ou est acquis par une personne à la
+suite d’une infraction, donner un ordre
+autorisant:
+
+1° kwinjira ahantu aho ari ho hose no
+gusaka cyangwa gufatira mudasobwa
+cyangwa urusobe rwa mudasobwa;
+
+1°
+
+enter into any premise and search or
+seize a computer or a computer
+system;
+
+1° entrer
+dans
+tout
+lieu
+et
+perquisitionner
+ou
+saisir
+un
+ordinateur
+ou
+un
+système
+informatique;
+
+2° kubungabunga
+umutekano
+w’amakuru abitse muri mudasobwa
+cyangwa urusobe rwa mudasobwa
+yinjiwemo;
+
+2°
+
+secure the computer or computer
+system data accessed;
+
+2° sécuriser les données informatiques
+ou du système informatique
+consultées;
+
+3° kwagura ahasakwa hakinjirwa muri
+mudasobwa cyangwa mu rundi rusobe
+rwa mudasobwa aho amakuru
+akenewe abitswe.
+
+3°
+
+extend the search and access a
+computer or any another computer
+system where the data being sought is
+stored.
+
+3° étendre la perquisition et l’accès à un
+ordinateur ou tout autre système
+informatique où sont stockées les
+données recherchées.
+
+Where a computer or a computer system is
+relocated or rendered inaccessible following
+a search or a seizure, the person who
+conducted the seizure makes a statement
+indicating a list of items seized or rendered
+inaccessible and time of seizure. A copy of
+the list is issued to the person who has
+
+Lorsqu’un ordinateur ou un système
+informatique est déplacé ou rendu
+inaccessible à la suite d’une perquisition ou
+d’une saisie, la personne qui a saisi le
+système informatique fait une déclaration de
+saisie indiquant une liste d’objets saisis ou
+rendus inaccessibles et le temps de la saisie.
+
+Iyo muri mudasobwa cyangwa urusobe rwa
+mudasobwa
+rwimuwe
+cyangwa
+rwahagaritswe kwinjirwamo ku mpamvu
+z’isaka cyangwa z’ifatira, umuntu ufatiriye
+abikorera inyandiko igaragaza urutonde
+rw’ibintu byafatiriwe cyangwa byahagaritswe
+n’igihe ifatira ryabereye. Kopi y’urwo
+
+97
+
+Official Gazette nº Special of 25/09/2018
+
+rutonde ihabwa umuntu ucunga mudasobwa control over the computer or computer Une copie de cette liste est délivrée à la
+cyangwa urusobe rwa mudasobwa.
+system.
+personne ayant le contrôle d’un ordinateur ou
+d’un système informatique.
+Ingingo ya 10: Kwinjira cyangwa gukura Article 10: Accessing or retrieving a copy
+kopi y’amakuru abitse muri mudasobwa of computer or a computer system data on
+cyangwa mu rusobe rwa mudasobwa the system after seizure
+nyuma y’ifatira
+
+Article 10: Accès ou extraction d’une
+copie des données d’un ordinateur ou
+d’un système informatique sur le système
+après la saisie
+
+Umuntu urinda cyangwa ucunga urusobe rwa
+mudasobwa ashobora gusaba ubushinjacyaha
+uruhushya rwo kwinjira cyangwa gukura kopi
+y’amakuru abitse muri mudasobwa cyangwa
+mu rusobe rwa mudasomwa nyuma y’ifatira.
+
+A person who has custody or control over the
+computer system may request organ in
+charge of prosecution, the permission to
+access or copy computer data on the
+computer or computer system after seizure.
+
+Une personne qui a la garde ou le contrôle du
+système informatique peut demander à
+l’organe chargé de poursuite judicaire,
+l’autorisation d’accéder ou d’extraire les
+données sur l’ordinateur ou le système
+informatiques après la saisie.
+
+Ubushinjacyaha bushobora kwanga gutanga
+uruhushya ruvugwa mu gika cya mbere cy’iyi
+ngingo, iyo bufite impamvu yumvikana
+yerekana ko gutanga urwo ruhushya
+byabangamira iperereza rijyanye n’isaka,
+irindi perereza riri gukorwa cyangwa ibindi
+bijyanye no gukurikirana icyaha biri gukorwa
+cyangwa bishobora gukorwa byerekeye
+iperereza iryo ari ryo ryose.
+
+The prosecution authority may refuse to
+issue a permission mentioned in Paragraph
+One of this Article, if it has reasonable
+grounds to believe that giving the access or
+providing the copy may constitute a
+prejudice against an investigation in
+connection with the search, any other
+ongoing investigation or any criminal
+proceeding pending or that may be instituted
+in relation to any investigation.
+
+L’organe de poursuite judicaire peut refuser
+de donner l’autorisation prévue à l’alinéa
+premier du présent article s’il a des motifs
+raisonnables de croire que donner l’accès ou
+fournir la copie peut constituer un obstacle
+contre une enquête en rapport avec la
+perquisition, une autre enquête en cours ou
+toute procédure pénale qui est en cours ou
+qui peut être engagée relativement à toute
+enquête.
+
+Ingingo ya 11: Guhishura amakuru
+
+Article 11: Disclosure of data
+
+Article 11: Dévoiler les données
+
+Iyo guhishura amakuru bikenewe ku mpamvu
+z’iperereza cyangwa z’ikurikirana cyaha,
+ubushinjacyaha bushobora gutegeka umuntu
+wese ufite bene ayo makuru kuyahishura.
+
+If the disclosure of data is required for the Si dévoiler les données est requis aux fins
+purposes of a criminal investigation or the d’enquête ou de poursuite d’une infraction,
+prosecution of an offence, the prosecution l’organe de poursuite judicaire peut prendre
+authority may issue an order to a person in
+98
+
+Official Gazette nº Special of 25/09/2018
+
+possession of such data compelling him/her une décision obligeant toute personne en
+to disclose such data.
+possession de telles données de les dévoiler.
+Iyo ikirebwa n’iperereza kigizwe n’amakuru
+abitswe muri mudasobwa cyangwa mu rusobe
+rwa mudasobwa, ubitse ayo makuru asabwa
+kuyatanga cyangwa kwemerera kwinjira mu
+makuru mu buryo bushobora gutuma ayo
+amakuru ajyanwa, agaragara, kandi asomeka.
+
+If a material to which an investigation
+consists of data stored in a computer or
+computer system, the request is considered to
+require the person to produce or give access
+to that data in a form in which it can be taken
+away and in which it is visible and legible.
+
+Si l’enquête se rapporte aux données
+stockées dans un ordinateur ou dans un
+système informatique, il est demandé à la
+personne qui garde les données de les
+produire ou de donner accès à ces données
+sous une forme dans laquelle elles peuvent
+être retirées et dans laquelle elles sont
+visibles et lisibles.
+
+Ingingo ya 12: Kubungabunga mudasobwa Article 12: Preservation of computer or Article 12: Préservation d’un ordinateur
+cyangwa urusobe rwa mudasobwa
+computer system
+ou d’un système informatique
+Iyo hari impamvu zituma nta gushidikanya ko
+mudasobwa
+cyangwa
+urusobe
+rwa
+mudasobwa
+rukenewe
+ku
+mpamvu
+z’iperereza rushobora kubura cyangwa
+guhindurwa, ubushinjacyaha bushobora
+gutegeka umuntu ucunze iyo mudasobwa
+cyangwa
+urusobe
+rwa
+mudasobwa
+kuyibungabunga mu gihe kitarenze iminsi
+mirongo itatu (30). Icyo gihe gishobora
+kongerwa inshuro imwe gusa iyo bibaye
+ngombwa.
+
+If there are reasonable grounds to believe
+that a computer or computer system that is
+required for the purpose of investigation is
+likely to be lost or modified, the prosecution
+authority may issue an order requiring the
+person in control of such a computer or
+computer system to preserve it for a period
+not exceeding thirty (30) days. Such period
+may be extended once if considered
+necessary.
+
+99
+
+En cas de motifs sérieux de croire que
+l’ordinateur ou le système informatique
+requis aux fins d’enquête est susceptible
+d’être perdu ou modifié, l’organe de
+poursuite judiciaire peut exiger d’une
+personne ayant le contrôle de cet ordinateur
+ou de ce système informatique de le
+préserver pendant une période n’excédant
+pas trente (30) jours. Cette période peut être
+prolongée une fois si cela est jugé nécessaire.
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 13: Guhishura no kwegeranya Article 13: Disclosure and collection of Article 13: Dévoiler et collecter les
+amakuru
+anyuzwa
+mu
+muyoboro electronic traffic data
+données du trafic électronique
+koranabuhanga
+Iyo hari impamvu zituma nta gushidikanya ko
+amakuru
+anyuzwa
+mu
+muyoboro
+koranabuhanga akenewe ku mpamvu
+z’iperereza,
+ubushinjacyaha
+bushobora
+gutegeka umuntu wese ufite ayo makuru
+anyuzwa mu muyoboro koranabuhanga:
+
+In case of any reasonable grounds that an
+electronic traffic data is required for the
+purpose of investigation, the organ in charge
+of prosecution may issue an order to any
+person in possession of the electronic traffic
+data for:
+
+En cas de motifs sérieux que les données de
+trafic électronique sont requises aux fins de
+l’enquête, l’organe de poursuite judiciaire
+peut ordonner à toute personne en possession
+des données de trafic électronique de:
+
+1°
+
+guhishura, kwegeranya no gufata
+amakuru anyuzwa mu muyoboro
+koranabuhanga afite aho ahuriye
+n’itumanaho runaka mu gihe
+cyagaragajwe;
+
+1° disclosure, collection or recording of
+the electronic traffic or log data
+associated
+with
+a
+specified
+communication during a specified
+period;
+
+1° dévoiler, collecter ou enregistrer des
+données de trafic électronique
+associées à une communication
+spécifiée pendant une période
+déterminée;
+
+2°
+
+kwemerera no gufasha urwego rufite
+iperereza mu nshingano zarwo
+gukusanya no gufata ayo makuru.
+
+2° permitting and assisting the organ in
+charge of investigations to collect or
+record that data.
+
+2° autoriser et aider l’organe ayant
+l’enquête dans ses attributions de
+collecter ou d’enregistrer ces
+données.
+
+Ingingo ya 14: Icyemezo cy’urukiko
+
+Article 14: Court order
+
+Article 14: Ordonnance de la juridiction
+
+Iyo umuntu ubitse amakuru cyangwa
+ibimenyetso by’agaciro by’amakuru adashaka
+gukorana
+n’inzego
+z’iperereza
+mu
+kuyahishura cyangwa kuyabungabunga,
+ubushinjacyaha bushobora gusaba urukiko ko
+rutegeka uwo muntu guhishura cyangwa
+kubungabunga ayo makuru.
+
+If the person holding data or the evidential
+value of data is not willing to cooperate in
+disclosure or preservation of data, the
+prosecution authority may seek a court order
+compelling such person to do so.
+
+Si la personne détenant des données ou la
+valeur probante des données ne veut pas
+coopérer à la divulgation ou la préservation
+des données, l’organe de poursuite judiciaire
+peut demander une ordonnance de la
+juridiction contraignant cette personne à le
+faire.
+
+100
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 15: Kwemererwa gukoresha Article 15: Authorization to use a forensic Article 15: Autorisation d’utilisation
+uburyo bwa gihanga
+method
+d’une méthode médico-légale
+Iyo hari impamvu zituma nta gushidikanya ko
+ibimenyetso bya ngombwa bitakwegeranywa
+hadakoreshejwe uburyo bwa gihanga,
+ubushinjacyaha bushobora gusaba urukiko
+gutegeka ko hakoreshwa uburyo bwa
+gihanga. Icyo cyemezo kigira agaciro mu gihe
+cy’iminsi mirongo itatu (30). Urukiko
+rushobora, rubisabwe n’ubushinjacyaha,
+kongera icyo igihe ho indi minsi mirongo itatu
+(30) cyangwa ikindi gihe rubona ko ari
+ngombwa.
+
+If the prosecution authority has reasonable
+grounds to believe that essential evidence
+cannot be collected without the use of
+scientific method, it may request the court to
+order for the use of a forensic method. The
+order is valid for a period of thirty (30) days.
+The court may, upon application made by
+organ in charge of prosecution, extend that
+period for a further period of thirty (30) days
+or to such other period as it considers
+necessary.
+
+Si l’organe de poursuite judiciaire a un motif
+sérieux de croire que les preuves essentielles
+ne peuvent être recueillies sans recourir à la
+méthode scientifique, il peut demander au
+tribunal d’ordonner l’utilisation d’une
+méthode médico-légale. L’autorisation est
+valable pour une période de trente (30) jours.
+La juridiction peut, sur demande de l’organe
+de poursuite judiciaire, prolonger cette
+période pour une durée de trente (30) jours
+ou toute autre période qu’elle juge
+nécessaire.
+
+Ubusabe buvugwa mu gika cya mbere cy’iyi The application under Paragraph One of this La demande prévue à l’alinéa premier du
+ngingo bugomba kuba bukubiyemo ibi Article must contain the following:
+présent article doit contenir les éléments
+bikurikira:
+suivants:
+1° izina na aderesi yuzuye by’ukekwa;
+
+1° the name and full address of the
+suspect;
+
+1° le nom et l’adresse complète du
+suspect;
+
+2° ibisobanuro
+kuri
+mudasobwa
+cyangwa urusobe rwa mudasobwa
+bireba;
+
+2° a description of the targeted computer
+or computer system;
+
+2° une description d’un ordinateur ou
+d’un système informatique visé;
+
+3° ibisobanuro ku ngamba, ikigamijwe,
+ikigero n’igihe mudasobwa cyangwa
+urusobe
+rwa
+mudasobwa
+ruzakoresherezwa.
+
+3° a description of the intended measures,
+purpose, extent and duration of the
+utilization of computer or computer
+system.
+
+3° une description des mesures visées, du
+but, de l’étendue et de la durée de
+l’utilisation d’un ordinateur ou d’un
+système informatique.
+
+101
+
+Official Gazette nº Special of 25/09/2018
+
+Icyahinduwe cyose kuri mudasobwa cyangwa
+ku rusobe rwa mudasobwa rw’ukekwa
+bigarukira gusa mu gukoreshwa mu iperereza
+kandi icyahinduweho cyose muri icyo gihe
+cy’iperereza gisubizwa muri mudasobwa
+cyangwa mu rusobe rwa mudasobwa uko
+cyari kiri iyo iperereza rirangiye.
+Mu gihe cy’iperereza,
+bugomba kwandika:
+
+A modification made to the computer or
+computer system of the suspect is limited to
+the investigation, and any change made
+during the investigation is restored into the
+computer or computer system after the
+completion of the investigation.
+
+Toute modification apportée à l’ordinateur
+ou au système informatique du suspect est
+limitée à l’enquête, et toute modification
+réalisée au cours de l’enquête est restaurée
+dans l’ordinateur ou dans le système
+informatique après l’accomplissement de
+l’enquête.
+
+ubushinjacyaha During the investigation, the prosecution Au cours de l’enquête, l’organe de poursuite
+authority must log:
+judiciaire doit enregistrer:
+
+1° uburyo bwa tekiniki bwakoreshejwe,
+igihe n’itariki by’ubusabe;
+
+1° the technical means used and time
+and date of the application;
+
+1° les moyens techniques utilisés, l’heure
+et la date de la demande;
+
+2° kwerekana urusobe rwa mudasobwa
+n’impinduka zose zarukozweho mu
+gihe cy’iperereza;
+
+2° the identification of the computer
+system and details of the
+modification undertaken within the
+investigation;
+
+2° l’identification
+du
+système
+informatique et les détails de la
+modification effectuée au cours de
+l’enquête;
+
+3° amakuru yose yabonetse.
+
+3° any information obtained.
+
+3° toute information obtenue.
+
+Amakuru yabonetse avugwa muri iyi ngingo The information obtained under this Article
+agomba kurindwa kugira impinduka must be protected from any modification,
+ziyakorwaho, gusibwa cyangwa kugerwaho unauthorized deletion or access.
+mu buryo butemewe.
+
+Les informations obtenues en vertu du
+présent article doivent être protégées contre
+toute modification, suppression ou accès non
+autorisé.
+
+Uretse icyemezo gitangwa kivugwa mu gika
+cya mbere cy’iyi ngingo, urukiko rushobora
+gutegeka utanga serivisi gufasha mu gikorwa
+cyo gushyiraho igikoresho cya gihanga.
+
+En plus de l’ordonnance accordée en vertu de
+l’alinéa premier du présent article, la
+juridiction peut ordonner au fournisseur de
+services d’aider au processus d’installation
+de l’outil médico-légal.
+
+The court may, in addition to the order
+granted under Paragraph One of this Article,
+order the service provider to support the
+installation process of the forensic tool.
+
+102
+
+Official Gazette nº Special of 25/09/2018
+
+UMUTWE WA IV: IBYAHA N’IBIHANO CHAPTER IV:
+PENALTIES
+
+OFFENCES
+
+AND CHAPITRE IV: INFRACTIONS ET
+PEINES
+
+Icyiciro cya mbere: Ibyaha bibangamiye Section One: Offences against the
+ubuzima bwite, umwimerere no gufata confidentiality, integrity and availability
+neza amakuru na mudasobwa cyangwa of data and computer or computer system
+urusobe rwa mudasobwa
+
+Section première: Infractions contre la
+confidentialité,
+l’intégrité
+et
+la
+disponibilité des données et d’un
+ordinateur ou d’un système informatique
+
+Ingingo ya 16: Kugera mu buryo Article 16: Unauthorized access to a Article 16: Accès non autorisé aux
+butemewe ku makuru abitse muri computer or a computer system data
+données d’un ordinateur ou d’un système
+mudasobwa cyangwa mu rusobe rwa
+informatique
+mudasobwa
+Umuntu wese abigambiriye, ugera ku makuru Any person who intentionally and
+abitse muri mudasobwa cyangwa mu rusobe unlawfully gets access to computer or
+rwa mudasobwa:
+computer system data and he/she:
+
+Toute personne qui, intentionnellement et
+illégalement, accède à des données d’un
+ordinateur ou d’un système informatique
+alors qu’elle :
+
+1° atabyemerewe n’umuntu uwo ariwe
+wese ubifitiye ububasha;
+
+1° does not have consent from any
+person who is so entitled;
+
+1° n’a pas obtenu le consentement d’une
+personne compétente;
+
+2° atemerewe gucunga no kugera ku
+makuru abitse muri mudasobwa
+cyangwa mu rusobe rwa mudasobwa;
+
+2° is not entitled to control and access to
+the computer or computer system
+data;
+
+2° n’a pas le droit de contrôler et
+d’accéder à un ordinateur ou à un
+système informatique;
+
+3° ageze ku makuru yo muri mudasobwa
+cyagwa mu rusobe rwa mudasobwa
+rw’undi
+muntu
+atabyemerewe,
+agamije kumenya ibibitsemo cyangwa
+amakuru yahaciye akoresheje uburyo
+bwose hatitawe aho aherereye;
+
+3° accesses another person’s computer
+system without authorization, in
+order to know recorded or
+transmitted data, by all means and
+regardless of the location;
+
+3° accède au système informatique
+d’une
+autre
+personne
+sans
+autorisation, afin de connaître les
+données enregistrées ou transmises,
+par
+tous
+les
+moyens
+et
+indépendamment du lieu ;
+
+103
+
+Official Gazette nº Special of 25/09/2018
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo ahamijwe n’urukiko kimwe mu byaha
+bivugwa mu gika cya mbere cy’iyi ngingo,
+ahanishwa igifungo kitari munsi y’amezi
+atandatu (6) ariko kitarenze imyaka ibiri (2)
+n’ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni imwe (1.000.000 FRW)
+ariko atarenze miliyoni ebyiri (2.000.000
+FRW).
+
+Upon conviction of one of the offences
+referred to in Paragraph One of this Article,
+he/she is liable to imprisonment for a term
+of not less than six (6) months and not more
+than two (2) years and a fine of not less than
+one million Rwandan francs (FRW
+1,000,000) and not more than two million
+Rwandan francs (FRW 2,000,000).
+
+Lorsqu’elle est reconnue coupable de l’une
+des infractions visées à l’alinéa premier du
+présent article, elle est passible d’une peine
+d’emprisonnement d’au moins six (6) mois
+mais n’excédant pas deux (2) ans et d’une
+amende d’au moins un million de francs
+rwandais (1,000.000 FRW) mais n’excédant
+pas deux millions de francs rwandais
+(2.000.000 FRW).
+
+Ingingo ya 17: Kugera ku makuru Article 17: Access to data with intent to Article 17: Accès aux informations avec
+hagambiriwe gukora icyaha
+commit an offence
+intention de commettre une infraction
+Umuntu wese, ufite umugambi wo gukora
+icyaha, utuma urusobe rwa mudasobwa
+cyangwa mudasobwa rukora umurimo runaka
+hagamijwe kugera kuri porogaramu cyangwa
+amakuru abitse mu rusobe rwa mudasobwa,
+aba akoze icyaha.
+
+Any person who, with intent to commit an
+offence, causes a computer system or a
+computer to perform any function for the
+purpose of securing access to any program
+or data held in any computer system,
+commits an offence.
+
+Toute personne qui, dans l’intention de
+commettre une infraction, provoque un
+système informatique ou un ordinateur pour
+accomplir une fonction visant à accéder à
+tout programme ou données détenus dans un
+système
+informatique,
+commet
+une
+infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’umwaka umwe (1)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than one
+(1) year and not more than two (2) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+three million Rwandan francs (FRW
+3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins un (1) an mais n’excédant pas
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+104
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 18: Guhindura amakuru yo Article 18: Unauthorized modification of Article 18: Modification non autorisée de
+muri mudasobwa cyangwa urusobe rwa computer or computer system data
+données d’un ordinateur ou d’un système
+mudasobwa utabyemerewe
+informatique
+Umuntu ukora igikorwa azi neza ko gituma
+habaho guhindura mu buryo butemewe
+amakuru abitse muri mudasobwa cyangwa
+urusobe rwa mudasobwa, aba akoze icyaha.
+
+A person who knowingly commits an act
+which causes unauthorised modification of
+data held in a computer or computer system,
+commits an offence.
+
+Une personne qui commet sciemment un acte
+qui cause une modification non autorisée des
+données d’un ordinateur ou système
+informatique, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’umwaka umwe (1)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she liable to
+imprisonment for a term of not less than one
+(1) year and not more than two (2) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+three million Rwandan francs (FRW
+3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins un (1) an mais n’excédant pas
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Ingingo ya 19: Kumviriza mudasobwa Article 19: Interception of computer or Article 19: Interception d’un ordinateur
+cyangwa urusobe rwa mudasobwa
+computer system
+ou d’un système informatique
+Umuntu wese, abizi kandi akoresheje uburyo
+ubwo
+aribwo
+bwose,
+atabyemerewe
+n’amategeko, wumviriza cyangwa utuma
+habaho kumviriza, abikoze ku buryo
+butaziguye cyangwa buziguye, amakuru
+cyangwa igikorwa agambiriye kubona
+serivise ya mudasobwa cyangwa urusobe rwa
+mudasobwa, imikorere cyangwa amakuru ya
+mudasobwa, aba akoze icyaha.
+
+Any person who, knowingly and by any
+means, without authorisation by law,
+intercepts or causes to be intercepted,
+directly or indirectly, any function or any
+data for the purpose of obtaining any
+computer or computer system service, any
+function or any data held in a computer,
+commits an offence.
+
+Toute personne qui, sciemment et par tout
+moyen, sans être autorisée par la loi,
+intercepte ou fait intercepter, directement ou
+indirectement, toute fonction ou toute
+donnée dans le but d’obtenir tout service
+d’un ordinateur ou d’un système
+informatique, toute fonction ou toute donnée
+d’un ordinateur, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa Upon conviction, he/she is liable to
+igifungo kitari munsi y’umwaka umwe (1) imprisonment for a term of not less than one
+ariko kitarenze imyaka ibiri (2) n’ihazabu (1) year and not more than two (2) years and
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins un (1) an mais n’excédant pas
+
+105
+
+Official Gazette nº Special of 25/09/2018
+
+y’amafaranga y’u Rwanda atari munsi ya a fine of not less than one million Rwandan
+miliyoni imwe (1.000.000 FRW) ariko francs (FRW 1,000,000) and not more than
+atarenze miliyoni eshatu (3.000.000 FRW).
+three million Rwandan francs (FRW
+3,000,000).
+
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Iyo kumviriza bivugwa mu gika cya mbere
+cy’iyi ngingo bireba amabanga y’Igihugu
+cyangwa umutekano w’Igihugu, uwakoze
+icyaha ahanishwa igifungo kitari munsi
+y’imyaka ibiri (2) ariko kitarenze imyaka
+itanu (5) n’ihazabu y’amafaranga y’u Rwanda
+atari munsi ya miliyoni imwe (1.000.000
+FRW) ariko atarenze miliyoni ebyiri
+(2.000.000 FRW).
+
+Si l’interception prévue à l’alinéa premier du
+présent article est en rapport avec des secrets
+d’État ou la sécurité nationale, le coupable
+est passible d’une peine d’emprisonnement
+d’au moins deux (2) ans mais n’excédant pas
+cinq (5) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas deux millions de francs
+rwandais (2.000.000 FRW).
+
+If the interception under Paragraph One of
+this Article relates to State secrets, or
+national security, the offender is liable to
+imprisonment for a term of not less than two
+(2) years and not more than five (5) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+two million Rwandan francs (FRW
+2,000,000).
+
+Ingingo ya 20: Kwangiza cyangwa kubuza Article 20: Damaging or denying access to Article 20: Endommager ou refuser
+kwinjira muri mudasobwa cyangwa mu a computer or computer system
+l’accès à un ordinateur ou au système
+rusobe rwa mudasobwa
+informatique
+Umuntu wese, utabiherewe ububasha
+n’amategeko cyangwa udafite impamvu
+yemewe n’amategeko, ukora igikorwa gituma
+habaho mu buryo butaziguye cyangwa
+buziguye kwangirika, kureka gukora, kubuza
+cyangwa kuyobya imikorere ya mudasobwa
+cyangwa urusobe rwa mudasobwa, cyangwa
+ubuza kwinjira mu makuru cyangwa wangiza
+poroguramu cyangwa amakuru abitswe mu
+rusobe rwa mudasobwa, aba akoze icyaha.
+
+Any person who, without lawful authority
+or lawful excuse, commits an act which
+causes directly or indirectly a degradation,
+failure, interruption or obstruction of the
+operation of a computer or computer
+system, or a denial of access to or damage
+of any program or data stored in the
+computer system, commits an offence.
+
+Toute personne qui, sans être autorisée par la
+loi ou excuse légitime, commet un acte qui
+cause directement ou indirectement une
+dégradation, un échec, une interruption ou
+une entrave à l’exploitation d’un ordinateur
+ou système informatique, ou un refus d’accès
+ou un dommage de tout programme ou
+donnée
+stockée
+dans
+le
+système
+informatique, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa Upon conviction, he/she is liable to Lorsqu’elle en est reconnue coupable, elle
+igifungo kitari munsi y’imyaka itatu (3) ariko imprisonment for a term of not less than three est passible d’une peine d’emprisonnement
+kitarenze imyaka itanu (5) n’ihazabu (3) years and not more than five (5) years and d’au moins trois (3) ans mais n’excédant pas
+106
+
+Official Gazette nº Special of 25/09/2018
+
+y’amafaranga y’u Rwanda atari munsi ya a fine of not less than three million Rwandan
+miliyoni eshatu (3.000.000 FRW) ariko francs (FRW 3,000,000) and not more than
+atarenze miliyoni eshanu (5.000.000 FRW).
+five million Rwandan francs (FRW
+5,000,000).
+
+cinq (5) ans et d’une amende d’au moins trois
+millions de francs rwandais (3.000.000
+FRW) mais n’excédant pas cinq millions de
+francs rwandais (5.000.000 FRW).
+
+Ingingo ya 21: Gutanga urufunguzo banga Article 21: Unauthorized disclosure of Article 21: Dévoiler le code d’accès de
+mu buryo butemewe n’amategeko
+access code
+façon non autorisée
+Umuntu wese, iyo:
+
+Any person who:
+
+Toute personne qui:
+
+1° abizi agatanga urufunguzo banga
+cyangwa ubundi buryo ubwo aribwo
+bwose bwo kugera kuri poroguramu
+cyangwa ku makuru abitse muri
+mudasobwa cyangwa mu rusobe rwa
+mudasobwa
+agambiriye
+gukora
+igikorwa kitemewe n’amategeko;
+
+1º knowingly, discloses any access
+code or any other means of gaining
+access to a program or data held in a
+computer or computer system,
+targets a wrongful gain;
+
+1° sciemment, dévoile tout code d’accès
+ou tout autre moyen d’accéder à un
+programme ou données détenus dans
+un
+ordinateur
+ou
+système
+informatique, en visant un gain
+illicite;
+
+2° ukora igikorwa kitemewe n’amategeko
+azi ko icyo gikorwa gishobora gutanga
+urufunguzo banga cyangwa ubundi
+buryo bwose bwo kwinjira mu rusobe
+rwa mudasobwa;
+
+2º performs any unlawful act knowing
+that such act is likely to disclose
+access code or any other means of
+gaining access to a computer
+system;
+
+2° accomplit tout acte illégal sachant
+qu’un tel acte est susceptible de
+dévoile tout code d’accès ou tout
+autre moyen d’accéder au système
+informatique.
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo ahamijwe n’urukiko kimwe mu byaha
+bivugwa mu gika cya mbere ahanishwa
+igifungo kitari munsi y’umwaka umwe (1)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+When convicted of any of the offences
+referred to in Paragraph One, he/she is liable
+to imprisonment for a term of not less than
+one (1) year and not more than two (2) years
+and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+
+Lorsqu’elle est reconnue coupable de l’une
+des infractions visées à l’alinéa premier, elle
+est passible d’une peine d’emprisonnement
+d’au moins un (1) an mais n’excédant pas
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+
+107
+
+Official Gazette nº Special of 25/09/2018
+
+more than three million Rwandan francs mais n’excédant pas trois millions de francs
+(FRW 3,000,000).
+rwandais (3.000.000 FRW).
+Ingingo ya 22: Gukomeza gukoresha mu Article 22: Continuous fraudulent use of
+buriganya
+urusobe
+rw’ihererekana an automated or non-automated data
+ry’amakuru
+rwikoresha
+cyangwa processing system of another person
+rutikoresha
+
+Article 22: Utilisation frauduleuse
+continue d’un système de traitement de
+données automatisé ou non automatisé
+d’une autre personne
+
+Umuntu wese, mu buryo ubwo ari bwo
+bwose, ukomeza gukoresha mu buriganya
+amakuru y’undi muntu abitse mu rusobe
+rw’ihererekana
+ry’amakuru
+rwikoresha
+cyangwa rutikoresha agamije kumenya
+amakuru abitsemo cyangwa arucamo, aba
+akoze icyaha.
+
+Any person who, in any way whatsoever,
+fraudulently uses continuously another
+person’s automated or non-automated data
+processing system or similar systems with
+intent to find out electronically stored or
+transmitted data, commits an offence.
+
+Toute personne qui, de quelque manière que
+ce soit, utilise de manière frauduleuse et
+continue le système automatisé ou non
+automatisé de traitement de données d’une
+autre personne ou dans des systèmes
+similaires dans le but de découvrir des
+données
+stockées
+ou
+transmises
+électroniquement, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka ibiri (2) ariko
+kitarenze imyaka itanu (5) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than two
+(2) years and not more than five (5) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+three million Rwandan francs (3,000,000
+FRW).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins deux (2) ans mais n’excédant pas
+cinq (5) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Iyo ibikorwa bivugwa mu gika cya mbere
+cy’iyi ngingo bitumye habaho gusiba,
+guhindura, kwangiza cyangwa kongera
+amakuru abitswe cyangwa anyuzwa mu
+rusobe, uwakoze icyaha ahanishwa igifungo
+kitari munsi y’imyaka itanu (5) ariko
+kitarenze imyaka irindwi (7) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+
+If the acts mentioned under Paragraph One of
+this Article result in deletion, modification,
+alteration or insertion of recorded or
+transmitted data, the offender is liable to
+imprisonment for a term of not less than five
+(5) years and not more than seven (7) years
+and a fine of not less than four million
+Rwandan francs (FRW 4,000,000) and not
+
+Si les actes visés à l’alinéa premier du
+présent article entraînent la suppression ou la
+modification de données enregistrées ou
+transmises, le coupable est passible d’une
+peine d’emprisonnement d’au moins cinq (5)
+ans mais n’excédant pas sept (7) ans et d’une
+amende d’au moins quatre millions de francs
+rwandais (4.000.000 FRW) mais n’excédant
+
+108
+
+Official Gazette nº Special of 25/09/2018
+
+miliyoni
+ataranze
+FRW).
+
+enye (4.000.000 FRW) ariko more than six million Rwandan francs (FRW pas six millions
+miliyoni esheshatu (6.000.000 6,000,000).
+(6.000.000 FRW).
+
+de
+
+francs
+
+rwandais
+
+Ingingo ya 23: Kubuza cyangwa kuyobya Article 23: Preventing or misguiding the Article 23: Empêcher ou brouiller un
+amakuru abitse mu rusobe rw’ihererekana running automated or non-automated système automatisé ou non automatisé de
+ry’amakuru
+rwikoresha
+cyangwa data processing system
+traitement de données
+rutikoresha
+Umuntu wese, abigambiriye, ubuza cyangwa
+uyobya amakuru abitse mu rusobe
+rw’ihererekana
+ry’amakuru
+rwikoresha
+cyangwa rutikoresha by’undi muntu, aba
+akoze icyaha.
+
+Any person who intentionally prevents or
+misguides the running of automated or
+non -autom at ed data processing system or
+other similar system of another person
+commits an offence.
+
+Toute personne qui, intentionnellement,
+empêche ou dévoie le fonctionnement d’un
+système automatisé ou non automatisé de
+traitement de données ou d’un autre système
+similaire d’une autre personne commet une
+infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’umwaka umwe (1)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than one
+(1) year and not more than two (2) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+three (3) million Rwandan francs (FRW
+3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins un (1) an mais n’excédant pas
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Iyo urusobe rw’ihererekana ry’amakuru
+rwikoresha
+cyangwa
+rutikoresha
+ari
+iby’urwego rw’umutekano rwa Leta,
+uwakoze icyaha ahanishwa igifungo kitari
+munsi y’imyaka itanu (5) ariko kitarenze
+imyaka irindwi (7) n’ihazabu y’amafaranga
+y’u Rwanda atari munsi ya miliyoni eshatu
+(3.000.000 FRW) ariko atarenze miliyoni
+eshanu (5.000.000 FRW).
+
+If the automated or non-automated data
+processing system or any similar system
+belongs to a security state organ, the offender
+is liable to imprisonment for a term of not less
+than five (5) years and not more than seven
+(7) years and a fine of not less than three
+million Rwandan francs (FRW 3,000,000)
+and not more than five million Rwandan
+francs (FRW 5,000,000).
+
+Si le système automatisé ou non-automatisé
+de traitement de données ou tout système
+similaire appartient à un organe de sécurité
+de l’État, le coupable est passible d’une peine
+d’emprisonnement d’au moins de cinq (5)
+ans mais n’excédant pas sept (7) ans et d’une
+amende d’au moins trois millions de francs
+rwandais (3.000.000 FRW) mais n’excédant
+
+109
+
+Official Gazette nº Special of 25/09/2018
+
+pas cinq millions de francs rwandais
+(5.000.000 FRW).
+Iyo urusobe rw’ihererekana ry’amakuru
+rwikoresha cyangwa rutikoresha biri mu
+bifatwa
+nk’ibikorwaremezo
+by’ikoranabuhanga byihariye, uwahamwe
+n’icyaha ahanishwa igifungo kitari munsi
+y’imyaka icumi (10) ariko kitarenze imyaka
+cumi n’itanu (15) n’ihazabu y’amafaranga y’u
+Rwanda atari munsi ya miliyoni icumi
+(10.000.000 FRW) ariko atarenze miliyoni
+mirongo itatu (30.000.000 FRW).
+
+If the automated or non-automated data
+processing system or any similar system is
+qualified as critical national information
+infrastructure, the offender is liable to
+imprisonment for a term of not less than ten
+(10) years and not more than fifteen (15)
+years and a fine of not less than ten million
+Rwandan francs (FRW 10,000,000) and not
+more than thirty million Rwandan francs
+(FRW 30,000,000).
+
+Si le système automatisé ou non automatisé
+de traitement des données ou tout autre
+système
+similaire
+est
+qualifié
+d’infrastructure d’information critique, le
+coupable est passible d’une peine
+d’emprisonnement d’au moins dix (10) ans
+mais n’excédant pas quinze (15) ans et d’une
+amende d’au moins dix million de francs
+rwandais
+(10.000.000
+FRW)
+mais
+n’excédant pas trente millions de francs
+rwandais (30.000.000 FRW).
+
+Ingingo ya 24: Kwinjira mu makuru abitse Article 24: Access to a computer or Article 24: Accès aux données d’un
+muri mudasobwa cyangwa mu rusobe rwa computer system data
+ordinateur ou d’un système informatique
+mudasobwa
+Umuntu wese, uhindura, ubangamira,
+cyangwa wivanga mu mikorere ya
+mudasobwa, urusobe rwa mudasobwa
+cyangwa mu muyoboro wa mudasobwa
+ashyira, anyuza, asiba, yangiza, ahindura
+cyangwa akuraho amakuru abitse muri
+mudasobwa cyangwa mu rusobe rwa
+mudasobwa atabifitiye uburenganzira, cyane
+cyane
+gushyira
+cyangwa
+kohereza
+porogaramu igamije kwangiza cyangwa
+kwiba, aba akoze icyaha.
+
+Any person who alters, hinders or interferes
+with the functioning of a computer, a
+computer system or a computer network by
+putting, transmitting, deleting, deteriorating,
+altering or suppressing of computer or
+computer system data, electronic document,
+or electronic data message, without
+authorization to do so, including the
+introduction or transmission of malicious
+code, commits an offence.
+
+110
+
+Une personne qui altère, entrave ou interfère
+avec le fonctionnement d’un ordinateur, d’un
+système informatique ou d’un réseau
+informatique en mettant, transmettant,
+supprimant,
+détériorant,
+altérant
+ou
+supprimant des données d’un ordinateur ou
+d’un système informatique, des documents
+électroniques ou des messages de données
+électroniques, sans autorisation, y compris
+l’introduction ou la transmission de code
+malveillant, commet une infraction.
+
+Official Gazette nº Special of 25/09/2018
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka ibiri (2) ariko
+kitarenze imyaka itanu (5) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni ebyiri (2.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than two
+(2) years and not more than five (5) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+two million Rwandan francs (FRW
+2,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins deux (2) an mais n’excédant pas
+cinq (5) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas deux millions de francs
+rwandais (2.000.000 FRW).
+
+Iyo amakuru abitse muri mudasobwa ari
+ay’urwego rw’umutekano rwa Leta, uwakoze
+icyaha ahanishwa igifungo kitari munsi
+y’imyaka itanu (5) ariko kitarenze imyaka
+irindwi (7) n’ihazabu y’amafaranga y’u
+Rwanda atari munsi ya miliyoni eshatu
+(3.000.000 FRW) ariko atarenze miliyoni
+eshanu (5.000.000 FRW).
+
+If the computer data belongs to a security
+state organ, the offender is liable to
+imprisonment for a term of not less than five
+(5) years and not more than seven (7) years
+and a fine of not less than three million
+Rwandan francs (FRW 3,000,000) and not
+more than five million Rwandan francs
+(FRW 5,000,000).
+
+Si les données informatiques appartiennent à
+un organe de sécurité de l’État, le coupable
+est passible d’une peine d’emprisonnement
+d’au moins cinq (5) ans mais n’excédant pas
+sept (7) ans et d’une amende d’au moins trois
+millions de francs rwandais (3.000.000
+FRW) mais n’excédant pas cinq millions de
+francs rwandais (5.000.000 FRW).
+
+Iyo makuru abitse muri mudasobwa cyangwa
+mu urusobe rwa mudasobwa abitswe mu
+bikorwaremezo
+by’ikoranabuhanga
+byihariye, uwahamwe n’icyaha ahanishwa
+igifungo kitari munsi y’imyaka icumi (10)
+ariko kitarenze imyaka cumi n’itanu (15)
+n’ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni icumi (10.000.000 FRW)
+ariko atarenze miliyoni mirongo itatu
+(30.000.000 FRW).
+
+If the computer or computer system data is
+stored in critical national information
+infrastructure, he/she is liable to
+imprisonment for a term of not less than ten
+(10) years and not more than fifteen (15)
+years and a fine of not less than ten million
+Rwandan francs (FRW 10,000,000) and not
+more than thirty million Rwandan francs
+(FRW 30,000,000).
+
+Si les données d’un ordinateur ou d’un
+système informatique sont qualifiées
+d’infrastructure d’information critique, le
+coupable est passible d’une peine
+d’emprisonnement d’au moins dix (10) ans
+mais n’excédant pas quinze (15) ans et d’une
+amende d’au moins dix millions de francs
+rwandais
+(10.000.000
+FRW)
+mais
+n’excédant pas trente millions de francs
+rwandais (30.000.000 FRW).
+
+111
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 25: Gukora, kugurisha, kugura,
+gukoresha, gutumiza mu mahanga,
+gukwirakwiza,
+gutunga
+mudasobwa
+cyangwa urusobe rwa mudasobwa,
+cyangwa amakuru abitse muri mudasobwa
+cyangwa urusobe rwa mudasobwa mu
+buryo butemewe n’amategeko
+
+Article 25: Unlawful manufacturing,
+selling, buying, use, import, distribution
+or possession of a computer or computer
+system or computer or computer system
+data
+
+Article 25: Fabrication, vente, achat,
+utilisation, importation, distribution ou
+possession illégaux d’un ordinateur ou
+d’un système informatique ou des données
+d’un ordinateur ou d’un système
+informatique
+
+Umuntu wese ubizi, ukora, ugurisha, ugura,
+ukoresha,
+utumiza
+mu
+mahanga,
+ukwirakwiza, utunga mudasobwa cyangwa
+urusobe rwa mudasobwa cyangwa, utuma
+haboneka amakuru cyangwa poroguramu ya
+mudasobwa cyagwa urusobe rwa mudasobwa
+cyangwa ubitunze, agambiriye gukoresha
+mudasobwa
+cyangwa
+urusobe
+rwa
+mudasobwa
+cyangwa
+amakuru
+ya
+mudasobwa ku giti cye cyangwa kubiha undi
+muntu ubikoresha mu buryo butemewe
+n’amategeko, aba akoze icyaha.
+
+Any person who, knowingly manufactures,
+sells, buys, uses, imports, distributes or
+possesses a computer or computer system or
+otherwise makes available the data or
+programme or computer system or
+possesses them, with intention to use a
+computer or computer system or computer
+data personally or make them available to
+another person for an unlawful purpose
+commits an offence.
+
+Toute personne qui, sciemment, fabrique,
+vend, achète, utilise, importe, distribue ou
+possède un ordinateur ou un système
+informatique ou rend disponibles les données
+ou programme ou un système informatique
+ou les possède avec l’intention d’utiliser le
+système informatique ou les données
+informatiques pour lui ou les met à la
+disposition d’autrui de manière illégale,
+commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka ibiri (2) ariko
+kitarenze imyaka itanu (5) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+ataranze miliyoni ebyiri (2.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than two
+(2) years and not more than five (5) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+two million Rwandan francs (FRW
+2,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins deux (2) ans mais n’excédant pas
+cinq (5) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas deux millions de francs
+rwandais (2.000.000 FRW).
+
+112
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 26: Kwakira cyangwa gutanga Article 26: Unauthorized reception or Article 26: Recevoir un programme ou
+uburyo bwo kubona porogaramu cyangwa giving of access to a computer or données d’un ordinateur ou d’un système
+amakuru bya mudasobwa cyangwa computer system program or data
+informatique ou y donner accès sans
+urusobe rwa mudasobwa mu buryo
+autorisation
+butemewe
+Umuntu wese, iyo:
+
+Any person who:
+
+Toute personne qui:
+
+1° yakiriye akanakoresha, atanze uburyo
+bwo kubona porogaramu cyangwa
+amakuru bya mudasobwa cyangwa
+urusobe rwa mudasobwa mu buryo
+butemewe;
+
+1° receives and uses or provides access 1°
+to any program or data held in a
+computer or computer system
+without authorisation;
+
+reçoit et utilise ou donne accès à tout
+programme ou donnée conservé dans
+un ordinateur ou système informatique
+sans autorisation;
+
+2° yemerewe guhabwa cyangwa kubona
+porogaramu cyangwa amakuru ari muri
+mudasobwa cyangwa mu rusobe rwa
+mudasobwa, yakiriye akanakoresha iyo
+porogaramu cyangwa ayo makuru avuye
+ku wundi muntu azi neza ko uwo
+ubimuhaye yabibonye mu nzira
+zitemewe;
+
+2° is authorized to receive or to have 2°
+access to any program or data held in
+a computer or computer system,
+receives and uses them from another
+person knowing that the other person
+has obtained that program or data
+through unauthorized means;
+
+est autorisé à recevoir ou à avoir accès
+à un programme ou à des données
+contenues dans un ordinateur ou
+système informatique, reçoit et utilise le
+programme ou les données en
+provenance d’autrui sachant que ce
+dernier a obtenu ce programme ou ces
+données par des moyens non autorisés;
+
+3° abonye poroguramu iyo ariyo yose
+cyangwa amakuru biri muri mudasobwa
+cyangwa mu rusobe rwa mudasobwa
+abibonye mu nzira zemewe, agaha iyo
+poroguramu cyangwa ayo amakuru undi
+muntu utemerewe kubona cyangwa
+kugira uburyo bwo kubona iyo
+poroguramu cyangwa ayo amakuru;
+
+3° has obtained any program or data 3°
+held in a computer or computer
+system through authorized means
+and gives that program or data to
+another person who is not authorized
+to receive or have access to that
+program or data;
+
+a obtenu un programme ou des données
+contenus dans un ordinateur ou système
+informatique par des moyens autorisés
+et remet ce programme ou ces données
+à une autre personne qui n’est pas
+autorisée à recevoir ou à avoir accès à
+ce programme ou à ces données;
+
+113
+
+Official Gazette nº Special of 25/09/2018
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo ahamijwe n’urukiko kimwe mu byaha
+bivugwa mu gika cya mbere cy’iyi ngingo,
+ahanishwa igifungo cy’amezi atandatu (6)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+ataranze miliyoni ebyeri (2.000.000 FRW).
+
+When convicted of any of the offences
+referred to in Paragraph One of this Article,
+he/she is liable to imprisonment for a term of
+not less than six (6) months and not more
+than two (2) years and a fine of not less than
+one million Rwandan francs (FRW
+1,000,000) and not more than two million
+Rwandan francs (FRW 2,000,000).
+
+Lorsqu’elle est reconnue coupable de l’une
+des infractions visées à l’alinéa premier du
+présent article, elle est passible d’une peine
+d’emprisonnement d’au moins six (6) mois
+mais n’excédant pas deux (2) ans et d’une
+amende d’au moins un million de francs
+rwandais (1.000.000 FRW) mais n’excédant
+pas deux millions de francs rwandais
+(2.000.000 FRW).
+
+Ingingo ya 27: Iyandikisha ry’izina Article 27: Cyber-squatting
+ndangarubuga ku buryo butemewe
+
+Article 27: Cyber-squattage
+
+Umuntu wese, iyo yiyandikishijeho izina
+ndangarubuga kuri murandasi mu buriganya
+agamije kubona inyungu, kuyobya, kwangiza
+ubwamamare cyangwa abujije abandi
+kwandikisha iryo zina, iyo iryo zina
+ndangarubuga:
+
+Any person who acquires a domain name
+over the internet in bad faith to profit,
+mislead, destroy reputation, or deprive others
+from registering the same, if such a domain
+name is:
+
+Toute personne qui acquiert un nom de
+domaine sur internet avec mauvaise foi pour
+tirer profit, induire en erreur, détruire la
+réputation ou priver d’autres personnes de
+l’enregistrer, si un tel nom de domaine est:
+
+1° risa, rimeze kimwe cyangwa riteye
+urujijo ku kirango cy’ubucuruzi
+gisanzwe cyanditswe;
+
+1° similar, identical, or confusingly
+similar to an existing registered
+trademark;
+
+1° similaire,
+identique
+indistinctement similaire à
+marque existante enregistrée;
+
+2° rimeze kimwe cyangwa risa mu buryo
+ubwo aribwo bwose n’izina ry’undi
+muntu utari uwo wiyandikisha, mu
+gihe ari izina ry’umuntu;
+
+2° identical or in any way similar with
+the name of a person other than the
+registrant, in case of a personal name;
+
+2° identique ou similaire à celui d’une
+personne autre que la personne qui
+s’inscrit, en cas de nom personnel;
+
+114
+
+ou
+une
+
+Official Gazette nº Special of 25/09/2018
+
+3° yaribonye nta burenganzira cyangwa
+atabiherewe
+uburenganzira
+na
+nyir’umutungo
+bwite
+mu
+by’ubwenge;
+
+3° acquired without authorization or
+with intellectual property interests in
+it;
+
+3° acquis sans droit ou avec des intérêts
+de propriété intellectuelle;
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’umwaka umwe (1)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than one
+(1) year and not more than two (2) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+three million Rwandan francs (FRW
+3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins un (1) an mais n’excédant pas
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Ingingo ya 28: Ibikorwa binyuranije Article 28: Unlawful acts in respect of Article 28: Actes illégaux relatifs aux
+n’amategeko mu bijyanye na porogaramu malware
+logiciels malveillants
+igamije kwangiza cyangwa kwiba
+Umuntu wese, abigambiriye, ahuje, yakiriye,
+agurishije, aguze, atunze, ahaye, yamamaje
+cyangwa akoresheje progaramu igamije
+kwangiza cyangwa kwiba by’umwihariko ibi
+bikurikira:
+
+Any person who intentionally assembles,
+obtains, sells, purchases, possesses, makes
+available, advertises or unlawfully and
+intentionally uses malware for the purposes
+of causing damage particularly to:
+
+Toute personne qui, intentionnellement,
+rassemble, obtient, vend, achète, possède,
+met à disposition, annonce ou qui
+illégalement utilise des logiciels malveillants
+aux fins de causer des dommages
+spécialement à:
+
+1° amakuru;
+
+1° data;
+
+1° des données;
+
+2° urusobe rwa mudasobwa;
+
+2° a computer system;
+
+2° un système informatique;
+
+3° umuyoboro wa mudasobwa;
+
+3° a computer network;
+
+3° un réseau informatique;
+
+4° ububiko bw’amakuru;
+
+4° a database;
+
+4° une base de données;
+115
+
+Official Gazette nº Special of 25/09/2018
+
+5° imiyoboro y’itumanaho;
+
+5° an
+electronic
+network;
+
+6° ibikorwaremezo
+byihariye;
+
+6° a critical information infrastructure;
+
+by’ikoranabuhanga
+
+communications
+
+5° un réseau de
+électroniques;
+
+communications
+
+6° une infrastructure
+critique;
+
+d’information
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo ahamijwe n’urukiko kimwe mu byaha
+bivugwa mu gika cya mbere cy’iyi ngingo,
+ahanishwa igifungo kitari munsi y’amezi
+atandatu (6) ariko kitarenze imyaka ibiri (2)
+n’ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni imwe (1.000.000 FRW)
+ariko atarenze miliyoni ebyiri (2.000.000
+FRW).
+
+When convicted of any of the offences
+referred to in Paragraph One of this Article,
+he/she is liable to imprisonment for a term
+of not less than six (6) months and not more
+than two (2) years and a fine of not less than
+one million Rwandan francs (FRW
+1,000,000) and not more than two million
+Rwandan francs (FRW 2,000,000).
+
+Lorsqu’elle est reconnue coupable de l’une
+des infractions visées à l’alinéa premier du
+présent article, elle est passible d’une peine
+d’emprisonnement d’au moins six (6) mois
+mais n’excédant pas deux (2) ans et d’une
+amende d’au moins un million de francs
+rwandais (1.000.000 FRW) mais n’excédant
+pas deux millions de francs rwandais
+(2.000.000 FRW).
+
+Icyiciro cya 2: Ibyaha byerekeye umukono Section 2: Offences related to digital Section 2: Infractions liées à la signature
+koranabuhanga ukozwe mu mibare no signature and certification
+numérique et à la certification
+gutanga icyemezo
+Ingingo ya 29: Gutanga amakuru atari yo Article 29:
+no gukura amakuru ku cyemezo
+suppression
+Umuntu wese, abigambiriye, utanga amakuru
+atari yo k’ushinzwe igenzura cyangwa
+k’utanga icyemezo cyangwa usiba amakuru
+y’ingenzi agamije kubona uruhushya
+cyangwa
+icyemezo
+cy’umukono
+koranabuhanga ukozwe mu mibare, aba
+akoze icyaha.
+
+Misrepresentation
+
+and
+
+Any person who intentionally makes any
+misrepresentation to, or suppresses any
+material fact from or to the controller or the
+certifying authority for obtaining any license
+or digital signature certificate, commits an
+offence.
+
+116
+
+Article 29:
+suppression
+
+Fausse
+
+déclaration
+
+et
+
+Toute personne qui fait intentionnellement
+une fausse déclaration ou qui supprime tout
+fait important de ou au contrôleur ou à
+l’autorité de certification pour l’obtention
+d’une licence ou d’un certificat de signature
+numérique, commet une infraction.
+
+Official Gazette nº Special of 25/09/2018
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka ibiri (2) ariko
+kitarenze imyaka itanu (5) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni eshatu (3.000.000 FRW) ariko
+ataranze miliyoni eshanu (5.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than two
+(2) years and not more than five (5) years and
+a fine of not less than three million Rwandan
+francs (FRW 3,000,000) and not more than
+five million Rwandan francs (FRW
+5,000,000).
+
+Ingingo ya 30: Icyemezo cy’umukono Article 30:
+koranabuhanga ukozwe mu mibare certificate
+cy’igihimbano
+
+False
+
+digital
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins deux (2) ans mais n’excédant pas
+cinq (5) ans et d’une amende d’au moins trois
+millions de francs rwandais (3.000.000
+FRW) mais n’excédant pas cinq millions de
+francs rwandais (5.000.000 FRW).
+
+signature Article 30: Faux certificat de signature
+numérique
+
+Umuntu wese iyo atangaje icyemezo Any person who publishes a digital signature Toute personne qui publie un certificat de
+cy’umukono koranabuhanga ukozwe mu certificate or otherwise make it available to signature numérique ou la met à la
+mibare cyangwa awuhaye undi muntu azi any other person with the knowledge that:
+disposition d’autrui en sachant que:
+neza ko:
+1º utanga icyemezo uvugwa muri icyo
+cyemezo atari we wagitanze;
+
+1° the certifying authority listed in the
+certificate has not issued it;
+
+1º l’autorité de certification mentionnée
+dans le certificat ne l’a pas délivrée;
+
+2º uwahawe uburenganzira uvugwa muri
+icyo cyemezo atigeze abwemera;
+
+2° the subscriber listed in the certificate
+has not accepted it;
+
+2º l’abonné mentionné dans le certificat
+ne l’a pas accepté;
+
+3º icyemezo
+cyari
+cyarasheshwe
+cyangwa
+cyarahagaritswe
+by’agateganyo, keretse uko gutangaza
+kugamije
+kugenzura
+umukono
+koranabuhanga ukozwe mu mibare
+wari warakozwe mbere y’iryo
+hagarikwa cyangwa mbere y’iryo
+seswa;
+
+3° the certificate has been revoked or
+suspended, unless such publication is
+for the purpose of verifying a digital
+signature created prior to such
+suspension or revocation;
+
+3º le certificat a été révoqué ou
+suspendu, sauf si cette publication a
+pour but de vérifier une signature
+numérique créée avant cette
+suspension ou révocation;
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+117
+
+Official Gazette nº Special of 25/09/2018
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka itanu (5) ariko
+kitarenze imyaka irindwi (7) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1,000.000 FRW) ariko
+ataranze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than five
+(5) years and not more than seven (7) years
+and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+more than three million Rwandan francs
+(FRW 3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins cinq (5) ans mais n’excédant pas
+sept (7) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Ingingo ya 31: Gukoresha mu buriganya Article 31: Fraudulent use of digital Article 31: Utilisation frauduleuse de la
+umukono koranabuhanga ukozwe mu signature
+signature numérique
+mibare
+Umuntu wese ubizi uhanga, utangaza
+cyangwa uha undi muntu icyemezo
+cy’umukono koranabuhanga ukozwe mu
+mibare agamije kugikoresha mu buriganya
+cyangwa mu buryo butemewe n’amategeko
+aba akoze icyaha.
+
+Any person who knowingly creates,
+publishes or otherwise makes available a
+digital signature certificate for any
+fraudulent or unlawful purpose, commits an
+offence.
+
+Toute personne qui sciemment crée, publie
+ou met à disposition un certificat de signature
+numérique à des fins frauduleuses ou
+illicites, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka itanu (5) ariko
+kitarenze imyaka irindwi (7) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1,000.000 FRW) ariko
+ataranze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than five
+(5) years and not less than seven (7) years
+and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+more than three million Rwandan francs
+(FRW 3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins cinq (5) ans mais n’excédant par
+sept (7) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+118
+
+Official Gazette nº Special of 25/09/2018
+
+Icyiciro cya 3: Ibyaha bijyanye na Section 3: Computer-related offences
+mudasobwa
+
+Section
+3:
+l’informatique
+
+Infractions
+
+liées
+
+à
+
+Ingingo ya 32: Kwigana ibijyanye na Article 32: Computer- or computer Article 32: Falsification en rapport avec
+mudasobwa cyangwa urusobe rwa system-related forgery
+un ordinateur ou un système informatique
+mudasobwa
+Umuntu wese, iyo:
+
+Any person who:
+
+Toute personne qui:
+
+1° ashyize, ahinduye cyangwa asibye
+ibijyanye na mudasobwa, urusobe rwa
+mudasobwa cyangwa amakuru abitse
+muri mudasobwa cyangwa urusobe rwa
+mudasobwa atabifitiye uburenganzira,
+bigatuma amakuru atariyo afatwa
+nk’amakuru y’impamo kandi atari
+impamo;
+
+1° inputs, alters or deletes any 1º introduit, altère ou supprime toute donnée
+computer or computer system data
+d’un ordinateur ou d’un système
+without authorization resulting in
+informatique
+sans
+autorisation
+inauthentic data with the intent that
+engendrant des données non authentiques
+it be considered or acted upon as if it
+dans l’intention que ces dernières soient
+were authentic;
+prises en compte comme si elles étaient
+authentiques;
+
+2° akoresheje amakuru abizi ko yavuye ku
+kwigana ibiranga mudasobwa cyangwa
+urusobe rwa mudasobwa;
+
+2° knowingly uses computer data 2º utilise sciemment des données qui sont le
+which is the product of computer- or
+produit d’une falsification en rapport
+computer system-related forgery;
+avec un ordinateur ou un système
+informatique;
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo ahamijwe n’urukiko kimwe mu byaha
+bivugwa mu gika cya mbere cy’iyi ngingo,
+ahanishwa igifungo kitari munsi y’imyaka
+itanu (5) ariko kitarenze imyaka irindwi (7)
+n’ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni imwe (1.000.000 FRW)
+ariko itarenze miliyoni ebyiri (2.000.000
+FRW).
+
+When convicted of one of the offences
+referred to in Paragraph one of this Article,
+he/she is liable to imprisonment for a term of
+not less than five (5) years and not more than
+seven (7) years and a fine of not less than one
+million Rwandan francs (FRW 1,000,000)
+and not more than two million Rwandan
+francs (FRW 2,000,000).
+
+Lorsqu’elle est reconnue coupable de l’une
+des infractions visées à l’alinéa premier du
+présent article, elle est passible d’un
+emprisonnement d’au moins cinq (5) ans
+mais n’excédant pas sept (7) ans et d’une
+amende d’au moins un million de francs
+rwandais (1.000.000 FRW) mais n’excédant
+
+119
+
+Official Gazette nº Special of 25/09/2018
+
+pas deux millions de francs rwandais
+(2.000.000 FRW).
+Ingingo ya 33: Guhindura ibiranga Article 33: Changing computer
+igikoresho cya mudasobwa cyangwa computer system equipment identity
+urusobe rwa mudasobwa
+
+or Article 33: Modification de l’identité de
+l’équipement d’un ordinateur ou d’un
+système informatique
+
+Umuntu wese ubizi cyangwa ubigambiriye,
+utari nyiri ugukora urusobe rwa mudasobwa
+cyangwa intumwa ye yemewe, uhindura
+igikoresho cya mudasobwa cyangwa urusobe
+rwa mudasobwa cyangwa uburyo bwo
+kurwinjiramo, aba akoze icyaha.
+
+Any person who, knowingly or wilfully,
+while not being a manufacturer of a
+computer system or an authorised agent of
+the manufacturer, changes computer system
+equipment identity or the process of
+accessing to it, commits an offence.
+
+Toute personne qui, sciemment ou
+volontairement, sans être un fabricant d’un
+système informatique ou un agent autorisé du
+fabricant, modifie l’identité de l’équipement
+du système informatique ou le processus
+d’accès à celui-ci, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’amezi atandatu (6)
+ariko kitarenza imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+itarenze miliyoni ebyiri (2.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than six
+(6) months and not more than two (2) years
+and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+more than two million Rwandan francs
+(FRW 2,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins six (6) mois mais n’excédant pas
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas deux millions de francs
+rwandais (2.000.000 FRW).
+
+120
+
+Official Gazette nº Special of 25/09/2018
+
+Icyiciro cya 4: Ibyaha byerekeye ireme Section 4: Offences related to the content
+ry’ibinyuzwa kuri mudasobwa cyangwa of computer and computer system
+urusobe rwa mudasobwa
+
+Section 4: Infractions liées au contenu
+d’un ordinateur ou d’un système
+informatique
+
+Ingingo ya 34: Gushyira ahagaragara Article 34: Publication of pornographic Article 34: Publication des images
+amashusho yerekeranye n’imikoreshereze images through a computer or a computer pornographiques à travers un ordinateur
+y’ibitsina
+hakoreshejwe
+mudasobwa system
+ou un système informatique
+cyangwa urusobe rwa mudasobwa
+Umuntu wese, iyo :
+
+Any person who:
+
+Toute personne qui:
+
+1º atangaje cyangwa atumye hatangazwa
+amashusho
+cyangwa
+amajwi
+yerekeranye
+n’imikoreshereze
+y’ibitsina binyuze ku rusobe rwa
+mudasobwa cyangwa ubundi buryo
+bw’ikoranabuhanga n’itumanaho;
+
+1°
+
+publishes or causes to be published 1º publie ou fait publier de la pornographie
+pornography through a computer
+par le biais d’un système informatique ou
+system or through any other means of
+par tout autre moyen de la technologie de
+information and communication
+l’information et de la communication;
+technology;
+
+2º usaba, utoza cyangwa uhamagarira
+umwana, abinyujije muri mudasobwa
+cyangwa urusobe rwa mudasobwa
+cyangwa umuyoboro uwo ariwo wose
+hagamijwe kumukoresha imibonano
+mpuzabitsina;
+
+2°
+
+proposes, grooms or solicits, through 2º propose, prépare ou sollicite par
+a computer or a computer system or
+l’intermédiaire d’un ordinateur ou d’un
+any network, to meet a child for the
+système informatique ou de n’importe
+purpose of engaging in sexual
+quel réseau, de rencontrer un enfant dans
+activities with the child;
+le but de s’engager dans des activités
+sexuelles avec l’enfant ;
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka itatu (3) ariko
+kitarenze imyaka itanu (5) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarennze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than three
+(3) years and not more than five (5) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’un emprisonnement d’au
+moins trois (3) ans mais n’excédant pas cinq
+(5) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+
+121
+
+Official Gazette nº Special of 25/09/2018
+
+three million
+3,000,000).
+Iyo uwakoze icyaha yashyize ahagaragara
+amashusho
+y’umwana
+yerekeranye
+n’imikoreshereze
+y’ibitsina
+akoresheje
+mudasobwa
+cyangwa
+urusobe
+rwa
+mudasobwa cyangwa agatuma amashusho
+y’umwana aboneka cyangwa agerwaho
+hakoreshejwe mudasobwa cyangwa urusobe
+rwa mudasobwa, ahanishwa igifungo kitari
+munsi y’imyaka itanu (5) ariko kitarenze
+imyaka irindwi (7) n’ihazabu y’amafaranga
+y’u Rwanda atari munsi ya miliyoni imwe
+(1.000.000Frw) ariko atarenze miliyoni
+eshatu (3.000.000Frw).
+
+Rwandan
+
+francs
+
+(FRW mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+If the offender publishes child pornography
+through a computer or a computer system or
+makes available or facilitates the access to
+child pornography through a computer or a
+computer system, he/she is liable to
+imprisonment for a term of not less than five
+(5) years and not more than seven (7) years
+and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+more than three million Rwandan francs
+(FRW 3,000,000).
+
+Si le coupable publie de la pornographie
+juvénile au moyen d’un ordinateur ou d’un
+système informatique ou rend disponible ou
+facilite l’accès à la pornographie juvénile par
+un ordinateur ou un système informatique, il
+est passible d’un emprisonnement d’au
+moins cinq (5) ans mais n’excédant pas sept
+(7) et d’une amende d’au moins un million
+de francs rwandais (1.000.000 FRW) mais
+n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Ingingo ya 35: Kubuza amahwemo Article 35: Cyber-stalking
+hakoreshejwe
+mudasobwa
+cyangwa
+urusobe rwa mudasobwa
+
+Article 35: Cyber-harcèlement
+
+Umuntu wese ubigambiriye, ukoresha
+mudasobwa
+cyangwa
+urusobe
+rwa
+mudasobwa ubuza amahwemo cyangwa,
+ushyira ibikangisho ku muntu cyangwa ku
+wundi muntu bigatuma umuntu agira
+umutima
+uhagaze
+cyangwa
+ubwoba
+hifashishijwe kimwe muri ibi bikorwa
+bikurikira iyo:
+
+Any person who, intentionally, uses a
+computer or a computer system to harass or
+threaten with the intent to place another
+person in distress or fear through one of the
+following acts when:
+
+Toute personne qui, intentionnellement,
+utilise un ordinateur ou un système
+informatique pour harceler ou faire une
+menace quant à l’intention de placer une
+autre personne dans une détresse ou une peur
+à l’aide de l’un des actes suivants lorsque:
+
+1° he/she displays, distributes or
+publishes
+indecent
+documents,
+sounds, pictures or videos;
+
+1° elle affiche, distribue ou publie des
+documents, sons, images ou vidéos
+indécent ;
+
+1°
+
+yerekanye, akwirakwije cyangwa
+ashyize
+ahagaragara
+inyandiko,
+
+122
+
+Official Gazette nº Special of 25/09/2018
+
+amajwi,
+amashusho
+cyangwa
+amafirimu by’urukozasozi;
+2°
+
+ku bw’inabi, afashe amashusho,
+firimu cyangwa amajwi by’undi
+muntu atabyemeye cyangwa atabizi;
+
+2° in bad faith, he/she takes pictures,
+videos or sounds of any person
+without
+his/her
+consent
+or
+knowledge;
+
+2° de mauvaise foi, elle prend des images,
+vidéos ou sons de toute personne sans
+son consentement ou connaissance;
+
+3°
+
+agaragaje cyangwa akwirakwije
+amakuru ashobora gutuma undi muntu
+akorerwa ubugizi bwa nabi cyangwa
+ihohoterwa;
+
+3° he/she displays or distributes
+information in a manner that
+substantially increases the risk of
+harm or violence to any other person;
+
+3° elle affiche ou distribue des
+informations d’une manière qui
+augmente considérablement le risque
+de préjudice ou de violence à toute
+autre personne ;
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’amezi atandatu (6)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni ebyiri (2.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than six
+(6) months and not more than two (2) years
+and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+more than two million Rwandan francs
+(FRW 2,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins six (6) mois mais n’excédant pas
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas deux millions de francs
+rwandais (2.000.000 FRW).
+
+Gukurikirana ibyaha bivugwa muri iyi ngingo The prosecution of offenses under this
+bikorwa ari uko byaregewe n’uwabikorewe.
+Article are instituted only upon complaint
+of the offended person.
+
+Les poursuites pour les infractions visées au
+présent article ne sont engagées que sur
+plainte de la personne offensée.
+
+Ingingo ya 36: Uburiganya bugamije Article 36: Phishing
+kumenya amakuru y’undi muntu
+
+Article 36: Phishing
+
+Umuntu wese ushyiraho cyangwa ukoresha A person who establishes and uses a
+urubuga rwa murandasi cyangwa wohereza website or sends an electronic message
+
+Toute personne qui établit ou utilise un site
+web ou envoie un message électronique à
+
+123
+
+Official Gazette nº Special of 25/09/2018
+
+ubutumwa akoresheje mudasobwa cyangwa
+urusobe rwa mudasobwa agamije kumenya
+amakuru y’ibanga y’ukoresha urwo rubuga
+cyangwa y’ugenewe ubwo butumwa
+kugirango akoreshwe ibikorwa bitemewe
+n’amategeko cyane cyane kwiba amafaranga
+cyangwa kubona uburyo bwo kugera muri
+mudasobwa
+cyangwa
+urusobe
+rwa
+mudasobwa aba akoze icyaha.
+
+using a computer or a computer system in
+order to have access to confidential
+information from a visitor of the website or
+recipient of the message with intent to use
+them for unlawful purposes, especially for
+the purpose of stealing money or obtaining
+access to a computer or a computer system,
+commits an offence.
+
+l’aide d’un ordinateur ou d’un système
+informatique avec l’intention d’obtenir des
+informations confidentielles du visiteur du
+site ou du destinataire du message pour s’en
+servir à des fins illégales, particulièrement
+pour voler de l’argent ou obtenir l’accès à un
+ordinateur ou à un système informatique,
+commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’umwaka umwe (1)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than
+one (1) year and not more than two (2) years
+and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+more than three million Rwandan francs
+(FRW 3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins un (1) an mais n’excédant pas
+deux (2) ans et d’une une amende d’au moins
+un million de francs rwandais (1.000.000
+FRW) mais n’excédant pas trois millions de
+francs rwandais (3.000.000 FRW).
+
+Ingingo ya 37: Kohereza ubutumwa Article 37: Spamming
+budakenewe
+
+Article 37: Spamming
+
+Umuntu
+wese,
+abigambiriye
+kandi Any person who, intentionally and without Toute personne qui, intentionnellement et
+atabiherewe
+uburenganzira
+n’urwego authorisation from a competent organ:
+sans autorisation de l’organe compétent:
+rubifitiye ububasha:
+1°
+
+wohereza ubutumwa budakenewe
+inshuro nyinshi cyangwa ku bantu
+benshi
+akoresheje
+mudasobwa
+cyangwa urusobe rwa mudasobwa;
+
+1° sends
+unsolicited
+messages
+repeatedly or to a large number of
+persons by use of a computer or a
+computer system;
+
+1° envoie des messages non sollicités à
+plusieurs reprises ou à un grand nombre
+de personnes en utilisant un ordinateur
+ou un system informatique;
+
+2°
+
+nyuma yo kubona ubutumwa,
+ukoresha
+mudasobwa
+cyangwa
+urusobe rwa mudasobwa yongera
+
+2° after receiving a message, uses a
+computer or a computer system to
+retransmit such a message to many
+
+2° après avoir reçu un message, utilise un
+ordinateur ou un système informatique
+pour retransmettre ce message à
+
+124
+
+Official Gazette nº Special of 25/09/2018
+
+kohereza ubwo butumwa ku bantu
+benshi cyangwa inshuro nyinshi ku
+muntu utabukeneye;
+
+persons or retransmit it several times
+to a person who doesn’t need it;
+
+plusieurs personnes ou le retransmettre
+plusieurs fois à une personne qui n’en a
+pas besoin;
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’amezi atatu (3) ariko
+kitarenze amezi atandatu (6) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi
+y’ibihumbi magana atatu (300.000 FRW)
+ariko atarenze ibihumbi magana atanu
+(500.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than
+three (3) months and not more than six (6)
+months and a fine of not less than three
+hundred thousand Rwandan francs (FRW
+300,000) and not more than five hundred
+thousand Rwandan francs (FRW 500,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins trois (3) mois mais n’excédant
+pas six (6) mois et d’une amende d’au moins
+trois cent mille francs rwandais (300.000
+FRW) mais n’excédant pas cinq cent mille
+francs rwandais (500.000 FRW).
+
+Gukurikirana ibyaha bivugwa muri iyi ngingo The prosecution of offenses under this
+bikorwa ari uko byaregewe n’uwabikorewe.
+Article are instituted only upon complaint
+of the offended person.
+
+Les poursuites pour les infractions visées au
+présent article ne sont engagées que sur
+plainte de la personne offensée.
+
+Ingingo ya 38: Gutangaza amakuru Article
+38:
+Publishing
+y’urukozasoni
+hakoreshejwe
+uburyo information in electronic form
+bw’ikoranabuhanga
+
+indecent Article 38: Publication d’informations
+indécentes sous forme électronique
+
+Umuntu wese, utangaza, wohereza cyangwa
+utuma hatangazwa ubutumwa ubwo aribwo
+bwose
+bw’urukozasoni
+akoresheje
+mudasobwa
+cyangwa
+urusobe
+rwa
+mudasobwa, aba akoze icyaha.
+
+Any person who publishes, transmits or
+causes to be published any indecent message
+using a computer or a computer system,
+commits an offence.
+
+Toute personne qui publie, transmet ou fait
+publier un message indécent à l’aide d’un
+ordinateur ou d’un système informatique,
+commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’amezi atandatu (6)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than six
+(6) months and not more than two (2) years
+and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins six (6) mois mais n’excédant pas
+deux (2) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+
+125
+
+Official Gazette nº Special of 25/09/2018
+
+miliyoni imwe (1.000.000 FRW) ariko more than two million Rwandan francs
+atarenze miliyoni ebyiri (2.000.0000 FRW). (FRW 2,000,000).
+
+mais n’excédant pas deux millions de francs
+rwandais (2.000.000 FRW).
+
+Iyo ubutumwa bw’urukozasoni buvugwa mu
+gika cya mbere cy’iyi ngingo budahuye
+n’ukuri cyangwa bureba umwana, uwahamwe
+n’icyaha ahanishwa igifungo kitari munsi
+y’imyaka itatu (3) ariko kitarenze imyaka
+itanu (5) n’ihazabu y’amafaranga y’u Rwanda
+atari munsi ya miliyoni imwe (1,000.000
+FRW) ariko atarenze miliyoni eshatu
+(3.000.0000 FRW).
+
+Lorsque le message indécent visé à l’alinéa
+premier du présent article est faux et dirigé
+contre un enfant, le coupable est passible
+d’une peine d’emprisonnement d’au moins
+trois (3) ans mais n’excédant pas cinq (5) ans
+et d’une amende d’au moins un million de
+francs rwandais (1.000.000 FRW) mais
+n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+When the indecent message referred to in
+Paragraph one of this Article is not true or is
+directed against a child, the offender is liable
+to imprisonment for a term of not less than
+three (3) years and not more than five (5)
+years and a fine of not less than one million
+Rwandan francs (FRW 1,000,000) and not
+more than three million Rwandan francs
+(FRW 3,000,000).
+
+Ingingo ya 39: Gutangaza amakuru Article 39: Publication of rumours
+y’ibihuha
+
+Article 39: Publication des rumeurs
+
+Umuntu wese, ubizi, wifashishije mudasobwa
+cyangwa urusobe rwa mudasobwa atangaza
+amakuru y’ibihuha ashobora guteza ubwoba,
+imvururu cyangwa ihohotera muri rubanda
+cyangwa
+ashobora
+gutuma
+umuntu
+atakarizwa icyizere, aba akoze icyaha.
+
+Any person who, knowingly and through a
+computer or a computer system, publishes
+rumours that may incite fear, insurrection or
+violence amongst the population or that may
+make a person lose their credibility, commits
+an offence.
+
+Toute personne qui, sciemment et par un
+ordinateur ou un système informatique,
+publie des rumeurs pouvant provoquer la
+peur, le soulèvement ou la violence parmi la
+population ou pouvant faire perdre la
+crédibilité d’une personne, commet une
+infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka itatu (3) ariko
+kitarenze imyaka itanu (5) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than three
+(3) years and not more than five (5) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+three million Rwandan francs (FRW
+3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’un emprisonnement d’au
+moins trois (3) ans mais n’excédant pas cinq
+(5) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+126
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 40: Kwiyitirira umwirondoro
+
+Article 40: Impersonation
+
+Article 40: Usurpation d’identité
+
+Umuntu wese ubigambiriye ukoresha
+umwirondoro w’undi muntu kuri murandasi
+mu buriganya, agamije kubona inyungu,
+kuyobya cyangwa kwangiza ubwamamare
+bw’umuntu n’ibindi, mu gihe imyirondoro
+yabo isa, iteza urujijo cyangwa yenda gusa
+n’izina cyangwa ibiranga undi muntu
+cyangwa ikigo aba akoze icyaha.
+
+Any person who intentionally uses
+somebody identity over the internet in bad
+faith to profit, mislead or destroy reputation
+or otherwise, if such identity is similar,
+undistinguishable, or confusingly similar to
+an existing name or description that belongs
+to another person or organ, commits an
+offence.
+
+Toute personne qui utilise de mauvaise foi
+une identité sur Internet pour proférer,
+induire en erreur ou détruire sa réputation ou
+autrement, si une telle identité est semblable,
+indistincte ou similaire au nom ou à la
+description d’une autre personne ou d’un
+autre organe, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka itatu (3) ariko
+kitarenze imyaka itanu (5) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1,000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.0000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than three
+(3) years and not more than five (5) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+three million Rwandan francs (FRW
+3,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins trois (3) ans mais n’excédant pas
+cinq (5) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas cinq millions de francs
+rwandais (3.000.000 FRW).
+
+Icyiciro cya 5:
+Ibyaha bijyanye
+n’iterabwoba,
+icuruzwa
+ry’abantu,
+cyangwa iry’ibiyobyabwenge bikoreshejwe
+mudasobwa cyangwa urusobe rwa
+mudasobwa
+
+Section 5: Offences related to terrorism,
+trafficking in persons or narcotics
+committed using a computer or a
+computer system
+
+Section 5: Infractions liées au terrorisme,
+au trafic des personnes ou de stupéfiants
+commises à l’aide d’un ordinateur ou d’un
+système informatique
+
+Ingingo ya 41: Gushyiraho cyangwa Article 41: Creation or publication of a Article 41: Création ou publication d’un
+gutangaza urubuga rw’agatsiko k’abakora site for terrorist groups
+site pour les groupes terroristes
+iterabwoba
+Umuntu wese ushyiraho, utangaza cyangwa
+ukoresha urubuga rw’agatsiko k’iterabwoba
+akoresheje murandasi, mudasobwa cyangwa
+urusobe rwa mudasobwa, agamije koroshya
+
+Any person who establishes, publishes or
+uses a site of a terrorist group using Internet,
+a computer or a computer system in order to
+facilitate communication by its leadership
+127
+
+Toute personne qui établit, publie ou utilise
+un site d’un groupe terroriste à l’aide
+d’internet, d’un ordinateur ou d’un système
+informatique
+afin
+de
+faciliter
+la
+
+Official Gazette nº Special of 25/09/2018
+
+uburyo bw’itumanaho hagati y’abayobozi or its members, raise its funds or
+bako cyangwa abakagize, abakusanya disseminate its ideas or knowledge of how
+amafaranga yo kugatera inkunga cyangwa it operates, commits an offence.
+abasakaza ibitekerezo byako cyangwa
+ubumenyi bw’uko gakora, aba akoze icyaha.
+
+communication par son leadership ou ses
+membres, mobiliser ses fonds ou diffuser ses
+idées ou connaissances sur la façon dont il
+mène ses opérations, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka cumi n’itanu
+(15) ariko kitarenze imyaka makumyabiri
+(20) n’ihazabu y’amafaranga y’u Rwanda
+atari munsi ya miliyoni makumyabiri
+(20,000.000 FRW) ariko atarenze miliyoni
+mirongo itanu (50.000.0000 FRW).
+
+Lorsqu’elle est reconnue coupable, elle est
+passible d’une peine d’emprisonnement d’au
+moins quinze (15) ans mais n’excédant pas
+vingt (20) ans et d’une amende d’au moins
+vingt millions de francs rwandais
+(20.000.000 FRW) mais n’excédant pas
+cinquante millions de francs rwandais
+(50.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than
+fifteen (15) years and not more than twenty
+(20) years and a fine of not less than twenty
+million Rwandan francs (FRW 20,000,000)
+and not more than fifty million Rwandan
+francs (FRW 50,000,000).
+
+Ingingo ya 42: Gushyiraho cyangwa Article 42: Creation or publication of a Article 42: Création ou publication d’un
+gutangaza urubuga hagamijwe icuruzwa site for the purpose of trafficking in site dans le but de traite des personnes
+ry’abantu
+persons
+Umuntu wese ushyiraho cyangwa utangaza
+urubuga akoresheje murandasi, mudasobwa
+cyangwa urusobe rwa mudasobwa agamije
+icuruzwa ry’abantu cyangwa agamije
+korohereza abakora icuruzwa ry’abantu, aba
+akoze icyaha.
+
+Any person who establishes or publishes a
+site on an information network, computer
+hardware or computer system for the
+purposes of trafficking in human beings or
+facilitating such a transaction, commits an
+offence.
+
+Toute personne qui établit ou publie un site
+sur un réseau d’information, un matériel
+informatique ou un système informatique à
+des fins de traite des personnes ou qui facilite
+une telle transaction, commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka icumi (10)
+ariko kitarenze imyaka cumi n’itanu (15)
+n’ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni icumi (10.000.000 FRW)
+ariko atarenze miliyoni cumi n’eshanu
+(15.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than ten
+(10) years and not more than fifteen (15)
+years and a fine of not less than ten million
+Rwandan francs (FRW 10,000,000) and not
+more than fifteen million Rwandan francs
+(FRW 15,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins dix (10) ans mais n’excédant pas
+quinze (15) ans et d’une amende d’au moins
+dix millions de francs rwandais (10.000.000
+FRW) mais n’excédant pas quinze millions
+de francs rwandais (15.000.000 FRW).
+
+128
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 43: Gushyiraho cyangwa Article 43: Creation or publication of a Article 43: Création ou publication d’un
+gutangaza urubuga hagamijwe icuruzwa site for the purpose of trafficking or site dans le but de trafic ou de distribution
+cyangwa ikwirakwiza ry’ibiyobyabwenge distributing drugs or narcotics
+de drogues ou de stupéfiants
+cyangwa urusobe rw’imiti ikoreshwa nka
+byo
+Umuntu wese ushyiraho cyangwa utangaza
+urubuga akoresheje murandasi, mudasobwa
+cyangwa urusobe rwa mudasobwa hagamijwe
+icuruzwa
+cyangwa
+ikwirakwiza
+ry’ibiyobyabwenge
+cyangwa
+urusobe
+rw’imiti ikoreshwa nka byo, cyangwa
+worohereza
+abacuruza
+cyangwa
+abakwirakwiza ibiyobyabwenge, aba akoze
+icyaha.
+
+Any person who creates or publishes a site
+on an information network, computer
+hardware or computer system act for the
+purposes of trafficking in or distributing
+drugs or narcotics or facilitating such a
+transaction commits an offence.
+
+Toute personne qui crée ou publie un site sur
+un réseau d’information, un matériel
+informatique ou système informatique pour
+trafic ou distribution de drogues ou de
+stupéfiants ou facilitant une telle transaction
+commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka irindwi (7)
+ariko atarenze imyaka icumi (10) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni zirindwi (7.000.000 FRW) ariko
+itarenze miliyoni icumi (10.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than
+seven (7) years and not more than ten (10)
+years and a fine of not less than seven million
+Rwandan francs (FRW 7,000,000) and not
+more than ten million Rwandan francs (FRW
+10,000,000).
+
+Lorsqu’elle en est reconnue coupable, elle
+est passible d’une peine d’emprisonnement
+d’au moins sept (7) ans mais n’excédant pas
+dix (10) ans et d’une amende d’au moins sept
+millions de francs rwandais (7.000.000
+FRW) mais n’excédant pas dix millions de
+francs rwandais (10.000.000 FRW).
+
+129
+
+Official Gazette nº Special of 25/09/2018
+
+Icyiciro cya 6: Ibyaha byerekeye urusobe Section 6: Cyber offences committed by
+koranabuhanga
+bikozwe
+n’abatanga service providers
+serivisi
+
+Section 6: Infractions informatiques
+commises par les fournisseurs de services
+
+Ingingo ya 44: Gutanga amakuru wahawe Article 44: Disclosure of data made Article 44: Divulgation des données mises
+n’undi muntu
+available to third party
+à la disposition de tiers
+Umuntu wese utanga serivisi udakora
+ibishoboka byose ngo abuze itangazwa
+ry’amakuru ya mudasobwa cyangwa urusobe
+rwa mudasobwa yahawe n’undi muntu, aba
+akoze icyaha.
+
+Any service provider who does not exercise
+due care and skill to prevent the disclosure of
+computer data made available to third party,
+commits an offence.
+
+Tout fournisseur de services qui n’exerce pas
+les diligences et les compétences nécessaires
+pour empêcher la divulgation de données
+informatiques mises à la disposition d’un
+tiers commet une infraction.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni imwe (1.000.000 FRW)
+ariko atarenze miliyoni eshatu (3.000.000
+FRW).
+
+Upon conviction, he/she is liable to a fine of
+not less than one million Rwandan francs
+(FRW 1,000,000) and not more than three
+million Rwandan francs (FRW 3,000,000).
+
+Lorsqu’il est reconnu coupable, il est
+passible d’une amende d’au moins un million
+de francs rwandais (1.000.000 FRW) mais
+n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Ingingo ya 45: Gutuma mudasobwa
+cyangwa urusobe rwa mudasobwa
+bigerwaho, byohereza cyangwa bikoresha
+uburyo koranabuhanga kuri mudasobwa
+cyangwa urusobe rwa mudasobwa by’undi
+muntu
+
+Article 45: Provision of access to a
+computer or computer system or cause
+them to send or use electronic content on
+another person’s computer or computer
+system
+
+Article 45: Fournir l’accès à un
+ordinateur, à un système informatique, les
+faire transmettre ou utiliser le contenu
+électronique sur un ordinateur ou un
+système informatique d’autrui
+
+Umuntu wese utanga serivisi utuma
+hagerwaho, hoherezwa cyangwa hatangazwa
+amakuru abitse muri mudasobwa cyangwa
+mu rusobe rwa mudasobwa cyangwa utuma
+hakoreshwa porogaramu ya mudasobwa
+cyangwa urusobe rwa mudasobwa by’undi
+
+Any service provider who causes access to,
+transmission or publication of computer or
+computer system data or causes the use of a
+computer program or computer system of
+another person without authorization,
+commits an offence, if he/she:
+
+Tout fournisseur de services qui fournit un
+accès aux données d’un ordinateur ou d’un
+système informatique ou fait transmettre ou
+publier ces données ou fait utiliser un
+programme d’un ordinateur ou un système
+informatique d’autrui sans autorisation,
+commet une infraction, s’il a :
+
+130
+
+Official Gazette nº Special of 25/09/2018
+
+muntu atabiherewe uburenganzira , aba akoze
+icyaha iyo ari we :
+1°
+
+uhererekanyije
+porogaramu;
+
+amakuru
+
+cyangwa
+
+1° initiated the transmission of data or
+programs;
+
+1° amorcé la transmission des données
+ou des programmes;
+
+2°
+
+uhisemo ugezwaho ayo amakuru
+cyangwa izo porogaramu;
+
+2° selected the receiver of the
+transmission of data or programs;
+
+2° sélectionné le récepteur de la
+transmission des données ou des
+programmes;
+
+3°
+
+uhisemo cyangwa uhinduye amakuru
+yoherezwa.
+
+3° selected or modified the information
+contained in the transmission.
+
+3° sélectionné
+ou
+modifié
+les
+informations contenues dans la
+transmission.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni imwe (1.000.000 FRW)
+ariko atarenze miliyoni eshatu (3.000.000
+FRW).
+
+Upon conviction, he/she is liable to a fine of
+not less than one million Rwandan francs
+(FRW 1,000,000) and not more than three
+million Rwandan francs (FRW 3,000,000).
+
+Lorsqu’il en est reconnu coupable, il est
+passible d’une amende d’au moins un million
+de francs rwandais (1.000.000 FRW) mais
+n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Ingingo ya 46: Kudakuraho cyangwa Article 46: Refusal to remove or disable Article 46: Défaut de supprimer ou de
+gutuma amakuru abitse mu buryo access to illegal information stored
+désactiver l’accès aux informations
+butemewe n’amategeko agerwaho
+illégales stockées
+Umuntu wese utanga serivisi yo mu
+guhererekanya amakuru cyangwa kwakira no
+kubika amakuru, udakuraho cyangwa ngo
+akore ku buryo abuza kugera ku makuru
+abitswe mu buryo butemewe n’amategeko,
+abisabwe n’ukoresha serivisi cyangwa
+ategetswe n’urwego rubifitiye ububasha,
+cyangwa udatanga amakuru ku rwego rufite
+kugenza cyangwa gukurikirana icyaha mu
+
+Any hyperlink provider or hosting provider
+who does not remove or disable access to the
+information linked or stored at the request of
+a user of the service, infringes the rights of
+the recipient or of a third party after receiving
+an order from competent organ to disable
+access to or remove specific illegal
+information stored, or who does not inform
+the organ in charge of investigations or
+131
+
+Tout fournisseur de l’hyperlien ou
+fournisseur d’hébergement qui ne supprime
+pas ou ne désactive pas l’accès aux
+informations liées ou stockées à la demande
+de l’utilisateur de service, après avoir reçu un
+ordre de l’organe compétent pour désactiver
+l’accès ou supprimer des informations
+illégales spécifiques stockées, ou qui
+n’informe pas l’organe en charge d’enquêtes
+
+Official Gazette nº Special of 25/09/2018
+
+nshingano zarwo, nyuma yo kumenya ko ayo prosecution upon becoming aware of illegal ou de poursuites après avoir eu connaissance
+makuru abitswe mu buryo butemewe, aba information stored, commits an offence.
+des informations illégales stockées, commet
+akoze icyaha.
+une infraction.
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’imyaka (2) ariko
+kitarenze imyaka itanu (5) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni imwe (1.000.000 FRW) ariko
+atarenze miliyoni eshatu (3.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than two
+(2) years and not more than five (5) years and
+a fine of not less than one million Rwandan
+francs (FRW 1,000,000) and not more than
+three million Rwandan francs (FRW
+3,000,000).
+
+Lorsqu’il en est reconnu coupable, il est
+passible d’une peine d’emprisonnement d’au
+moins deux (2) ans mais n’excédant pas cinq
+(5) ans et d’une amende d’au moins un
+million de francs rwandais (1.000.000 FRW)
+mais n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Ingingo ya 47: Kutamenyesha ibyaha Article 47: Non reporting of cyber threats Article 47: Défaut de déclaration de
+byakoreshejwe ikoranabuhanga byakozwe incident
+l’incident de cyber-menaces
+Umuntu wese utanga serivisi ubizi, Any service provider who knowingly fails to Tout fournisseur de services qui omet
+utamenyesha
+ibyaha
+bikoreshejwe report cyber threats incident, commits an sciemment de signaler un incident de cyberikoranabuhanga byakorewe kuri serivisi offence.
+menace, commet une infraction.
+atanga, aba akoze icyaha.
+Iyo abihamijwe n’urukiko, ahanishwa
+igifungo kitari munsi y’umwaka umwe (1)
+ariko kitarenze imyaka ibiri (2) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni eshatu (3.000.000 FRW) ariko
+atarenze miliyoni eshanu (5.000.000 FRW).
+
+Upon conviction, he/she is liable to
+imprisonment for a term of not less than one
+(1) year and not more than two (2) years and
+a fine of not less than three million Rwandan
+francs (FRW 3,000,000) and not more than
+five million Rwandan francs (FRW
+5,000,000).
+
+Lorsqu’il en est reconnu coupable, il est
+passible d’une peine d’emprisonnement d’au
+moins un (1) an mais n’excédant pas deux (2)
+ans et d’une amende d’au moins trois
+millions de francs rwandais (3.000.000
+FRW) mais n’excédant pas cinq millions de
+francs rwandais (5.000.000 FRW).
+
+Iyo kutamenyesha bivugwa mu gika cya
+mbere cy’iyi ngingo byateje mudasobwa
+cyangwa urusobe rwa mudasobwa kugerwaho
+n’ibitero by’ikoranabuhanga, uburiganya
+cyangwa kwibwa ndetse no gutakaza
+
+If the failure to report referred to in
+paragraph One of this Article has caused a
+computer or computer system to be exposed
+to dangerous consequences resulting in cyber
+security threats or incident, fraud, dishonesty
+
+Si le défaut de signaler visé à l’alinéa
+premier du présent article a causé
+l’exposition d’un ordinateur à des
+conséquences dangereuses entraînant des
+menaces à la cyber sécurité ou incidents,
+
+132
+
+Official Gazette nº Special of 25/09/2018
+
+amakuru, uwahamwe n’icyaha ahanishwa
+igifungo kitari munsi y’imyaka itanu (5) ariko
+kitarenze imyaka irindwi (7) n’ihazabu
+y’amafaranga y’u Rwanda atari munsi ya
+miliyoni mirongo itatu (30.000.000 FRW)
+ariko atarenze miliyoni mirongo itanu
+(50.000.000 FRW).
+
+or caused theft and loss of data, the offender
+is liable to imprisonment for a term of not
+less than five (5) years and not more than
+seven (7) years and a fine of not less than
+thirty million Rwandan francs (FRW
+30,000,000) and not more than fifty million
+Rwandan francs (FRW 50,000,000).
+
+fraude, malhonnêteté ou vol et perte de
+données, le contrevenant est passible d’une
+peine d’emprisonnement d’au moins cinq (5)
+ans mais n’excédant pas sept (7) ans avec une
+amende d’au moins trente millions de francs
+rwandais
+(30.000.000
+FRW)
+mais
+n’excédant pas cinquante millions de francs
+rwandais (50.000.000 FRW).
+
+Iyo icyaha kivugwa muri iyi ngingo
+cyakozwe n’umuntu utari utanga serivisi,
+ahanishwa igifungo kitari munsi y’iminsi
+umunani (8) ariko kitarenze amezi (2)
+n’ihazabu y’amafaranga y’u Rwanda atari
+munsi y’ibihumbi magana atatu (300.000
+FRW) ariko atarenze ibihumbi magana atanu
+(500.000 FRW).
+
+If the offence under this Article is committed
+by a person other than a service provider,
+he/she is liable to imprisonment for a term of
+not less than eight (8) days and not more than
+two (2) months and a fine of not less than
+three hundred thousand Rwandan francs
+(FRW 300,000) and not more than five
+hundred thousand Rwandan francs (FRW
+500,000).
+
+Si l’infraction en vertu de cet article est
+commise par une personne autre qu’un
+fournisseur de services, il est passible d’une
+peine d’emprisonnement d’au moins huit (8)
+jours mais n’excédant pas deux (2) mois et
+d’une amende d’au moins trois cent mille
+francs rwandais (300.000 FRW) mais
+n’excédant pas cinq cent mille francs
+rwandais (500.000 FRW).
+
+Ingingo ya 48: Ibyaha byerekeranye Article 48: Offences related to stored Article
+48:
+Infractions
+n’amakuru abitse
+information
+l’information stockée
+Umuntu wese utanga serivisi cyangwa Any service provider or who
+umuntu ushinzwe kubika amakuru iyo:
+information data if he/she:
+
+liées
+
+à
+
+stores Tout fournisseur de service ou qui stocke les
+informations lorsqu’il:
+
+1°
+
+ahinduye amakuru;
+
+1° modifies the information;
+
+2°
+
+atubahiriza ibisabwa mu kugera 2° does not comply with conditions of
+cyangwa mu kubona amakuru;
+access to the information;
+
+2° ne se conforme pas aux conditions
+d’accès aux informations;
+
+3°
+
+atubahiriza
+amabwiriza
+agenga 3° does not comply with rules regarding the
+uburyo bwo kujyanisha amakuru
+updating of the information;
+n’igihe;
+
+3° ne se conforme pas aux règles relatives à
+la mise à jour des informations;
+
+133
+
+1° modifie l’information;
+
+Official Gazette nº Special of 25/09/2018
+
+4°
+
+yivanze mu mikorere yemewe 4° interferes with the lawful use of the
+n’amategeko y’ikoranabuhanga izwi
+technology widely recognized and used
+hose kandi ikoreshwa cyane, agamije
+in the cyberspace, to obtain data on the
+kubona amakuru ku mikoreshereze
+use of the information;
+y’amakuru;
+
+4° interfère avec l’utilisation légitime de la
+technologie largement reconnue et
+utilisée dans l’industrie, pour obtenir des
+données
+sur
+l’utilisation
+de
+l’information;
+
+5°
+
+adakuye
+bidatinze
+cyangwa 5° does not immediately remove or disable
+adahagaritse ko amakuru abitse
+access to the information he/she has
+agerwaho kandi azi neza ko ayo
+stored upon obtaining actual knowledge
+makuru yakuwe ku muyoboro
+of the fact that the information at the
+yaturutseho cyangwa azi neza ko
+initial source of the transmission has
+kuyageraho byabujijwe cyangwa
+been removed from the network, or
+urukiko cyangwa Ubushinjacyaha
+access to it has been disabled, or that an
+Bukuru byategetse gukuraho ayo
+organ in charge of prosecution or court
+makuru cyangwa byategetse ko
+has ordered such removal or
+atongera kugerwaho.
+disablement.
+
+5° ne supprime pas immédiatement ou ne
+désactive pas l’accès aux informations
+qu’il a stockées en obtenant une
+connaissance réelle du fait que les
+informations à la source initiale de la
+transmission ont été retirées du réseau ou
+l’accès a été désactivé ou qu’une
+juridiction ou l’Organe National de
+Poursuite Judiciaire a ordonné un tel
+retrait ou invalidité.
+
+aba akoze icyaha.
+
+commits an offence.
+
+commet une infraction.
+
+Iyo ahamijwe n’urukiko kimwe mu byaha
+bivugwa mu gika cya mbere cy’iyi ngingo,
+ahanishwa ihazabu y’amafaranga y’u Rwanda
+atari munsi ya miliyoni imwe (1.000.000
+FRW) ariko itarenze miliyoni eshatu
+(3.000.000 FRW).
+
+When convicted of one of the offences
+referred to in Paragraph one of this Article,
+he/she is liable to a fine of not less than one
+million Rwandan francs (FRW 1,000,000)
+and not more than three million Rwandan
+francs (FRW 3,000,000).
+
+Lorsqu’il est reconnu coupable de l’une des
+infractions visées à l’alinéa premier du
+présent article, il est passible d’une amende
+d’au moins un million de francs rwandais
+(1.000.000 FRW) mais n’excédant pas trois
+millions de francs rwandais (3.000.000
+FRW).
+
+Ingingo ya 49: Ibisubizo by’ishakisha Article 49: Illegal search results
+bitemewe n’amategeko
+
+Article 49: Résultats de recherche illégaux
+
+Umuntu wese ufite ishakiro yobora, ku A search engine provider who, for search Le fournisseur de moteur de recherche qui,
+bw’ibisubizo
+by’ishakisha,
+utanga results, initiates the transmission or selects pour les résultats de recherche, lance la
+umuyoboro w’amakuru cyangwa uhitamo the receiver of the transmission but modifies transmission, sélectionne le récepteur de la
+134
+
+Official Gazette nº Special of 25/09/2018
+
+uwo ayaha ariko agahindura amakuru mu the
+information
+contained
+in
+kuyatanga, aba akoze icyaha.
+transmission, commits an offence.
+
+Iyo abihamijwe n’urukiko, ahanishwa
+ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni imwe (1.000.000 FRW)
+ariko atarenze miliyoni eshatu (3.000.000
+FRW).
+
+the transmission et modifie les informations
+contenues dans la transmission, commet une
+infraction.
+
+Upon conviction, he/she is liable to a fine of
+not less than one million Rwandan francs
+(FRW 1,000,000) and not more than three
+million Rwandan francs (FRW 3,000,000).
+
+Lorsqu’il en est reconnu coupable, il est
+passible d’une amende d’au moins un million
+de francs rwandais (1.000.000 FRW) mais
+n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Ingingo ya 50: Kudafata ingamba zo Article 50: Failure to take action on take- Article 50: Défaut de prendre des mesures
+guhagarika isakara ry’amakuru
+down notification
+en cas de notification de retrait
+Umuntu wese utanga serivisi udafata ingamba Any service provider who fails to take an Tout fournisseur de services qui ne parvient
+zo kubuza ko amakuru asakara, aba akoze action on take-down done, commits an pas à prendre une mesure en cas de
+icyaha iyo yari yamenyeshejwe ko:
+offence, if he/she was notified of any:
+défaillance faite, commet une infraction, s’il
+en a été informé:
+1°
+
+ayo amakuru cyangwa igikorwa
+kibangamiye uburenganzira bw’uwo
+agenewe cyangwa undi muntu;
+
+1° data or activity infringing the rights
+of the recipient or of a third party;
+
+1° des données ou activités enfreignant
+les droits du destinataire ou d’un
+tiers;
+
+2°
+
+ko igikorwa kiri gukorwa kitemewe
+n’amategeko;
+
+2° unlawful material or activity;
+
+2° du matériel ou activité illégale;
+
+Iyo abihamijwe n’urukiko, ahanishwa
+ihazabu y’amafaranga y’u Rwanda atari
+munsi ya miliyoni imwe (1.000.000 FRW)
+ariko atarenze miliyoni eshatu (3.000.000
+FRW).
+
+Upon conviction, he/she is liable to a fine of
+not less than one million Rwandan francs
+(FRW 1,000,000) and not more than three
+million Rwandan francs (FRW 3,000,000).
+
+135
+
+Lorsqu’il en est reconnu coupable, il est
+passible d’une amende d’au moins un million
+de francs rwandais (1.000.000 FRW) mais
+n’excédant pas trois millions de francs
+rwandais (3.000.000 FRW).
+
+Official Gazette nº Special of 25/09/2018
+
+Icyiciro cya 7: Ingingo zihuriweho ku Section 7: Common provisions to all Section 7: Dispositions communes à toutes
+byaha byose
+offences
+les infractions
+Ingingo ya 51: Ibihano bihabwa ikigo Article 51: Penalties imposed on a Article 51: Sanctions imposées à une entité
+gikora ubucuruzi cyakoze icyaha
+business entity having committed an commerciale ayant commis une infraction
+offence
+Bitabangamiye ibiteganywa n’iri tegeko,
+ikigo gikora ibikorwa by’ubucuruzi cyakoze
+kimwe mu byaha bivugwa muri iri tegeko, iyo
+gihamwe n’icyaha, gihanishwa gutanga
+ihazabu ingana na mirongo itatu (30%) ku
+ijana ariko atarenze mirongo irindwi ku ijana
+(70%)
+y’inyungu
+kinjije
+mu
+gihe
+cy’ibaruramari cy’umwaka icyo cyaha
+cyakorewemo.
+
+Without prejudice to the provisions of this
+Law, a business entity that commits one of
+the offences provided under this Law, when
+convicted, it is liable to a fine equal to thirty
+percent (30%) and not more than seventy
+percent (70%) of the profits received in the
+accounting period of the year in which the
+offence was committed.
+
+Sans préjudice des dispositions de la présente
+loi, une entité commerciale qui commet l’une
+des infractions prévues par la présente loi,
+lorsqu’elle en est reconnue coupable, elle est
+passible d’une amende égale à trente pour
+cent (30%) mais n’excédant pas soixante-dix
+pour cent (70%) des bénéfices perçus au
+cours de l’exercice comptable dans lequel
+l’infraction a été commise.
+
+Ingingo ya 52: Ibihano by’inyongera
+
+Article 52: Additional penalties
+
+Article 52: Peines supplémentaires
+
+Uretse ibihano biteganywa muri iri tegeko,
+urukiko rubifitiye ububasha rushobora, igihe
+cyose, gutegeka ko mudasobwa cyangwa
+urusobe rwa mudasobwa, porogaramu zayo
+cyangwa amakuru byakoreshejwe mu gukora
+kimwe mu byaha biteganyijwe n’iri tegeko
+n’amafaranga abikomokaho binyagwa.
+
+Except penalties provided for under this
+Law, the competent court may, in all cases,
+order the confiscation of a computer or a
+computer system, software or media used in
+the commission of any of the offences
+provided for in this Law and the proceeds
+gained.
+
+Sauf les peines prévues par la présente loi, la
+juridiction compétente peut, dans tous les
+cas, ordonner la confiscation d’un ordinateur
+ou d’un système informatique, de logiciels
+ou de médias utilisés dans la commission de
+l’une des infractions prévues par la présente
+loi et des fonds qui en découlent.
+
+Urukiko rushobora kandi gutegeka ifungwa
+rya burundu cyangwa ry’agateganyo mu gihe
+gikwiye, ry’amazu cyangwa ry’ikigo ibyaha
+bivugwa muri iri tegeko byakorewemo, iyo
+icyo cyaha cyakozwe ny’ir’amazu cyangwa
+nyir’ikigo cyangwa ababiyobora babizi.
+
+The court may also, permanently or
+temporary for the period that it considers
+appropriate, order the closure of the premise
+or corporate body in which any of the
+offences provided for in this Law has been
+committed, if the offence was committed
+
+La juridiction peut également ordonner la
+fermeture permanente ou temporaire pour la
+période qu’il juge appropriée, des locaux ou
+de l’entreprise dans lesquels l’une des
+infractions prévues par la présente loi a été
+commise, si l’infraction a été commise à la
+
+136
+
+Official Gazette nº Special of 25/09/2018
+
+with the knowledge of their owner or connaissance de leur propriétaire et leurs
+management.
+dirigeants.
+UMUTWE
+WA
+V:
+ZINYURANYE N’IZISOZA
+
+INGINGO CHAPTER V: MISCELLANEOUS AND CHAPITRE
+V:
+DISPOSITIONS
+FINAL PROVISIONS
+DIVERSES ET FINALES
+
+Ingingo ya 53: Amabwiriza agenga Article 53: Regulations on cyber security
+umutekano w’urusobe rwa mudasobwa
+
+Article 53: Règlements sur la cybersécurité
+
+Haseguriwe ibiteganywa n’iri tegeko, urwego
+rushinzwe
+umutekano
+w’ibijyanye
+n’ikoranabuhanga rushyiraho amabwiriza
+agamije gukumira no kurwanya ibyaha
+bikoreshejwe ikoranabuhanga.
+
+Nonobstant les dispositions de la présente
+loi, un organe chargé de la cyber-sécurité met
+en place une réglementation visant la
+prévention et la lutte contre la
+cybercriminalité.
+
+Ingingo ya 54: Itegurwa,
+n’itorwa by’iri tegeko
+
+Subject to the provisions of this Law, an
+organ in charge of cyber security puts in
+place a regulation to prevent and fight
+cybercrimes.
+
+isuzumwa Article 54: Drafting, consideration and Article 54: Initiation, examen et adoption
+adoption of this Law
+de la présente loi
+
+Iri
+tegeko
+ryateguwe
+mu
+rurimi This Law was drafted in English, considered La présente loi a été initiée en anglais,
+rw’Icyongereza, risuzumwa kandi ritorwa mu and adopted in Ikinyarwanda.
+examinée et adoptée en Ikinyarwanda.
+rurimi rw’Ikinyarwanda.
+Ingingo ya 55: Ivanwaho ry’ingingo Article 55: Repealing provision
+z’amategeko zinyuranyije n’iri tegeko
+
+Article 55: Disposition abrogatoire
+
+Ingingo zose z’amategeko abanziriza iri kandi All prior legal provisions contrary to this Toutes les dispositions légales antérieures
+zinyuranyije naryo zivanweho.
+Law are repealed.
+contraires à la présente loi sont abrogées.
+
+137
+
+Official Gazette nº Special of 25/09/2018
+
+Ingingo ya 56: Igihe iri tegeko ritangira Article 56: Commencement
+gukurikizwa
+
+Article 56: Entrée en vigueur
+
+Iri tegeko ritangira gukurikizwa ku munsi This Law comes into force on the date of its La présente loi entre en vigueur le jour de sa
+ritangarijweho mu Igazeti ya Leta ya publication in the Official Gazette of the publication au Journal Officiel de la
+Repubulika y’u Rwanda.
+Republic of Rwanda.
+République du Rwanda.
+
+Kigali, ku wa 22/8/2018
+
+Kigali, on 22/8/2018
+
+Kigali, le 22/8/2018
+
+(sé)
+KAGAME Paul
+Perezida wa Repubulika
+
+(sé)
+KAGAME Paul
+President of the Republic
+
+(sé)
+KAGAME Paul
+Président de la République
+
+(sé)
+Dr. NGIRENTE Edouard
+Minisitiri w’Intebe
+
+(sé)
+Dr. NGIRENTE Edouard
+Prime Minister
+
+(sé)
+Dr. NGIRENTE Edouard
+Premier Ministre
+
+Bibonywe kandi bishyizweho Ikirango cya
+Repubulika:
+
+Seen and sealed with the Seal of the
+Republic:
+
+Vu et scellé du Sceau de la République:
+
+(sé)
+BUSINGYE Johnston
+Minisitiri w’Ubutabera/Intumwa Nkuru ya
+Leta
+
+(sé)
+BUSINGYE Johnston
+Minister of Justice/ Attorney General
+
+138
+
+(sé)
+BUSINGYE Johnston
+Ministre de la Justice/Garde des Sceaux
+
+
