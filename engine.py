@@ -1,6 +1,4 @@
 from haystack.document_stores import InMemoryDocumentStore
-
-document_store = InMemoryDocumentStore(use_bm25=True)
 from haystack.utils import fetch_archive_from_http
 import os
 from haystack.pipelines.standard_pipelines import TextIndexingPipeline
@@ -12,7 +10,7 @@ from haystack.utils import print_answers
 from pprint import pprint
 
 
-
+document_store = InMemoryDocumentStore(use_bm25=True)
 
 doc_dir = "./texts"
 
@@ -33,6 +31,3 @@ prediction = pipe.run(
 )
 
 
-print_answers(
-    prediction, details="minimum"
-)  ## Choose from `minimum`, `medium`, and `all`

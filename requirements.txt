@@ -1,2 +1,4 @@
 farm-haystack[colab,inference]
 streamlit
+openai
+requests
