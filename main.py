@@ -9,19 +9,25 @@ from haystack.pipelines import ExtractiveQAPipeline
 from haystack.utils import print_answers
 from pprint import pprint
 import streamlit as st
+#from utils.openai_api import query, process_question
+import report
 
-@st.cache(allow_output_mutation=True)
+
+#load
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
+@st.cache_data()
 def engine():
     document_store = InMemoryDocumentStore(use_bm25=True)
 
-
     doc_dir = "./texts"
-
 
     files_to_index = [doc_dir + "/" + f for f in os.listdir(doc_dir)]
     indexing_pipeline = TextIndexingPipeline(document_store)
     indexing_pipeline.run_batch(file_paths=files_to_index)
-
 
     retriever = BM25Retriever(document_store=document_store)
     reader = FARMReader(model_name_or_path="deepset/roberta-base-squad2", use_gpu=True)
@@ -30,6 +36,7 @@ def engine():
     return pipe
 
 
+pipe = engine()
 
 # Title of the App
 
@@ -45,5 +52,14 @@ btn = st.button("Generate ")
 
 # Condition
 if btn and query:
-    st.write("Generating ...")
-    st.write("Generated Successfully")
+    
+    prediction = pipe.run(
+        query=f"{query}",
+        params={"Retriever": {"top_k": 10}, "Reader": {"top_k": 5}},
+    )
+    st.header("Search Engine Retrieval")
+    st.write(prediction["documents"][0].content)
+
+
+    st.header("Report")
+    st.write(report.text)
