@@ -1,0 +1,5 @@
+farm-haystack[all]
+streamlit
+openai
+requests
+python-dotenv
