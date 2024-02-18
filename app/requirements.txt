@@ -1,5 +1,6 @@
-farm-haystack[all]
 streamlit
 openai
 requests
 python-dotenv
+numpy==1.26.2
+farm-haystack[all]

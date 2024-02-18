@@ -10,7 +10,10 @@ from haystack.utils import print_answers
 from pprint import pprint
 import streamlit as st
 #from utils.openai_api import query, process_question
-import report
+import importlib
+
+report = importlib.import_module("../report")
+
 
 
 #load
@@ -45,7 +48,7 @@ st.title("Lawyer's Assistant")
 
 # Text Area input
 st.subheader("Enter the text below")
-query = st.text_area("Enter Text", "Type Here ...")
+query = st.text_area("Enter Text", "Describe your case here in full details")
 
 # Button
 btn = st.button("Generate ")
